@@ -1,11 +1,11 @@
 <div class="container mt-3 committees" style="width: 80%">
-    <h3>Commmittee Members</h3>
+    <h3>Committee Members</h3>
     <div class="member mt-3">
         <h5>Chief Patron</h5>
         <div class="card mb-2">
             <div class="row align-items-center">
                 <div class="col-md-4 d-flex justify-content-center">
-                    <img src="assets/images/committe/Picture 1.png" width="20%">
+                    <img src="assets/images/committee/Picture 1.png" width="20%">
                 </div>
                 <div class="col-md-8">
                     <h5 class="card-title">Dr. Fr Joseph CC</h5>
@@ -17,7 +17,7 @@
         <div class="card mb-2">
             <div class="row align-items-center">
                 <div class="col-md-4 d-flex justify-content-center">
-                    <img src="assets/images/committe/Picture 2.png" width="20%">
+                    <img src="assets/images/committee/Picture 2.png" width="20%">
                 </div>
                 <div class="col-md-8">
                     <h5 class="card-title">Dr. Fr Viju P D</h5>
@@ -28,7 +28,7 @@
         <div class="card mb-2">
             <div class="row align-items-center">
                 <div class="col-md-4 d-flex justify-content-center">
-                    <img src="assets/images/committe/Picture 3.png" width="20%">
+                    <img src="assets/images/committee/Picture 3.png" width="20%">
                 </div>
                 <div class="col-md-8">
                     <h5 class="card-title">Dr. Anil Joseph Pinto, </h5>
@@ -40,7 +40,7 @@
         <div class="card mb-2">
             <div class="row align-items-center">
                 <div class="col-md-4 d-flex justify-content-center">
-                    <img src="assets/images/committe/Picture 4.png" width="20%">
+                    <img src="assets/images/committee/Picture 4.png" width="20%">
                 </div>
                 <div class="col-md-8">
                     <h5 class="card-title">Jossy P George</h5>
@@ -52,7 +52,7 @@
         <div class="card mb-2">
             <div class="row align-items-center">
                 <div class="col-md-4 d-flex justify-content-center">
-                    <img src="assets/images/committe/Picture 5.png" width="20%">
+                    <img src="assets/images/committee/Picture 5.png" width="20%">
                 </div>
                 <div class="col-md-8">
                     <h5 class="card-title">Mario José Diván</h5>
@@ -64,7 +64,7 @@
         <div class="card mb-2">
             <div class="row align-items-center">
                 <div class="col-md-4 d-flex justify-content-center">
-                    <img src="assets/images/committe/Picture 6.png" width="20%">
+                    <img src="assets/images/committee/Picture 6.png" width="20%">
                 </div>
                 <div class="col-md-8">
                     <h5 class="card-title">Dharm Singh</h5>
@@ -76,7 +76,7 @@
         <div class="card mb-2">
             <div class="row align-items-center">
                 <div class="col-md-4 d-flex justify-content-center">
-                    <img src="assets/images/committe/Picture 7.png" width="20%">
+                    <img src="assets/images/committee/Picture 7.png" width="20%">
                 </div>
                 <div class="col-md-8">
                     <h5 class="card-title">Xiao-Zhi Gao</h5>
@@ -89,7 +89,7 @@
         <div class="card mb-2">
             <div class="row align-items-center">
                 <div class="col-md-4 d-flex justify-content-center">
-                    <img src="assets/images/committe/Picture 8.png" width="20%">
+                    <img src="assets/images/committee/Picture 8.png" width="20%">
                 </div>
                 <div class="col-md-8">
                     <h5 class="card-title">Bosco Paul Alapatt</h5>
@@ -101,7 +101,7 @@
         <div class="card mb-2">
             <div class="row align-items-center">
                 <div class="col-md-4 d-flex justify-content-center">
-                    <img src="assets/images/committe/Picture 9.png" width="20%">
+                    <img src="assets/images/committee/Picture 9.png" width="20%">
                 </div>
                 <div class="col-md-8">
                     <h5 class="card-title">Janos Arpad Kosa</h5>
@@ -114,7 +114,7 @@
         <div class="card mb-2">
             <div class="row align-items-center">
                 <div class="col-md-4 d-flex justify-content-center">
-                    <img src="assets/images/committe/Picture 10.png" width="20%">
+                    <img src="assets/images/committee/Picture 10.png" width="20%">
                 </div>
                 <div class="col-md-8">
                     <h5 class="card-title">Mohammad S Khan</h5>
@@ -127,7 +127,7 @@
         <div class="card mb-2">
             <div class="row align-items-center">
                 <div class="col-md-4 d-flex justify-content-center">
-                    <img src="assets/images/committe/Picture 11.png" width="20%">
+                    <img src="assets/images/committee/Picture 11.png" width="20%">
                 </div>
                 <div class="col-md-8">
                     <h5 class="card-title">Abdul Khader Jilani Saudagar</h5>
@@ -140,7 +140,7 @@
         <div class="card mb-2">
             <div class="row align-items-center">
                 <div class="col-md-4 d-flex justify-content-center">
-                    <img src="assets/images/committe/Picture 12.png" width="20%">
+                    <img src="assets/images/committee/Picture 12.png" width="20%">
                 </div>
                 <div class="col-md-8">
                     <h5 class="card-title">Ramesh Chandra Poonia</h5>
@@ -153,7 +153,7 @@
         <div class="card mb-2">
             <div class="row align-items-center">
                 <div class="col-md-4 d-flex justify-content-center">
-                    <img src="assets/images/committe/Picture 13.png" width="20%">
+                    <img src="assets/images/committee/Picture 13.png" width="20%">
                 </div>
                 <div class="col-md-8">
                     <h5 class="card-title">Sugam Sharma</h5>
@@ -166,7 +166,7 @@
         <div class="card mb-2">
             <div class="row align-items-center">
                 <div class="col-md-4 d-flex justify-content-center">
-                    <img src="assets/images/committe/Picture 14.png" width="20%">
+                    <img src="assets/images/committee/Picture 14.png" width="20%">
                 </div>
                 <div class="col-md-8">
                     <h5 class="card-title">Kamal Upreti</h5>
@@ -179,7 +179,7 @@
         <div class="card mb-2">
             <div class="row align-items-center">
                 <div class="col-md-4 d-flex justify-content-center">
-                    <img src="assets/images/committe/Picture 15.png" width="20%">
+                    <img src="assets/images/committee/Picture 15.png" width="20%">
                 </div>
                 <div class="col-md-8">
                     <h5 class="card-title">Ibrahim A. Hameed</h5>

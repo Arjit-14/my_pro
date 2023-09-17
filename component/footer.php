@@ -21,7 +21,7 @@
                         </li>
                         <li class="mb-3">
                             <i class="bi bi-envelope h5 text-primary"></i>
-                            <span>Email: mail.ncr@christuniversity.in</span>
+                            <span>Email: icscps.ncr@christuniversity.in</span>
                         </li>
                         <li>
                             <i class="bi bi-globe h5\ text-primary"></i>
