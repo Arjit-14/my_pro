@@ -16,133 +16,152 @@
                     <strong>
                         <h3>List of Tracks:</h3>
                     </strong><br>
-                    <h4 style="font-weight: 700;">Track 1 Cyber-physical systems architecture</h4><br>
-                    <p class="p-2">● Integrated design methods for CPS <br>
-                        ● HW/SW co-design for CPS <br>
-                        ● Simulation and emulation of CPS <br>
-                        ● Integrated tool chains for CPS <br>
-                        ● Scalable CPS Architectures <br>
-                        ● Composability of software, hardware and physical components <br>
-                        ● Analysis of cyber-physical systems with multiple temporal and spatial scales <br>
-                        ● High-confidence and security in CPS <br>
-                        ● Real-time systems <br>
-                        ● Low power consumption <br>
-                        ● System-level design methodology <br>
-                        ● Embedded systems design <br>
-                        ● Mobile computing and devices <br>
-                        ● Internet of Things architecture <br>
-                        ● IoT interactions <br>
-                        ● Real-time applications of IoT <br>
-                        ● Industrial IoT <br>
-                        ● Industry Standards in CPS <br>
-                        ● Industry 4.0 <br>
-                        ● Intelligent agents <br>
-                        ● Industrial Automation <br>
-                        ● Cloud computing in CPS <br>
-                        ● Intelligence and control of CPS <br>
-                        ● Deep learning in CPS <br>
-                        ● Cyber-physical multimedia systems <br>
-                        ● Integration of physical and virtual artifact <br>
-                        ● Information architecture design <br>
-                    </p><br>
-                    <h4 style="font-weight: 700;">Track 2: Medical Cyber-Physical Systems and Health</h4><br>
-                    <p class="p-2">
-                        ● Interoperability and scalability of systems and platforms<br>
-                        ● IT standards and profiles for interoperability<br>
-                        ● Software and devices for healthcare<br>
-                        ● Programming paradigms and tools for health applications<br>
-                        ● Human-computer interaction and usability in healthcare<br>
-                        ● Technologies for dynamic data integration (ontologies, nosql, rdf, sparql, etc.)<br>
-                        ● Cross-computational methods<br>
-                        ● Medical cyber physical systems<br>
-                        ● Mobile health and sensor applications<br>
-                        ● Internet of things for healthcare<br>
-                        ● RFID and sensor-enabled healthcare technologies<br>
-                        ● Intelligent technologies for healthcare (smart homes, cloud-based, etc.)<br>
-                        ● Computational drug discovery; on/in-body medical sensors communications<br>
-                        ● Ubiquitous health applications<br>
-                        ● Health portals and big data visualization<br>
-                        ● Food control and recommendation systems<br>
 
-                    </p><br>
-                    <h4 style="font-weight: 700;">Track 3. Networks and Communication in CPS</h4><br>
-                    <p class="p-2">
-                        ● Sensors networks and communication<br>
-                        ● Interconnected systems<br>
-                        ● Communication in edge computing<br>
-                        ● Network systems<br>
-                        ● Wireless sensor networks<br>
-                        ● 4G/5G communication in smart devices<br>
-                        ● Energy efficient communication<br>
-                        ● Smart networking<br>
-                        ● Green communication<br>
-                        ● Hyper-connected smart devices<br>
-                        ● Communication networks<br>
-                        ● Object access and networking technology<br>
-                        ● Smart Sensor Networks<br>
-                        ● Networked Dynamical Systems<br>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h5 style="font-weight: 700;">Track 1 Cyber Physical Systems Architecture</h5><br>
+                            <p class="p-2">● Integrated design methods for CPS <br>
+                                ● HW/SW co-design for CPS <br>
+                                ● Simulation and emulation of CPS <br>
+                                ● Integrated tool chains for CPS <br>
+                                ● Scalable CPS Architectures <br>
+                                ● Composability of software, hardware and physical components <br>
+                                ● Analysis of cyber-physical systems with multiple temporal and spatial scales <br>
+                                ● High-confidence and security in CPS <br>
+                                ● Real-time systems <br>
+                                ● Low power consumption <br>
+                                ● System-level design methodology <br>
+                                ● Embedded systems design <br>
+                                ● Mobile computing and devices <br>
+                                ● Internet of Things architecture <br>
+                                ● IoT interactions <br>
+                                ● Real-time applications of IoT <br>
+                                ● Industrial IoT <br>
+                                ● Industry Standards in CPS <br>
+                                ● Industry 4.0 <br>
+                                ● Intelligent agents <br>
+                                ● Industrial Automation <br>
+                                ● Cloud computing in CPS <br>
+                                ● Intelligence and control of CPS <br>
+                                ● Deep learning in CPS <br>
+                                ● Cyber-physical multimedia systems <br>
+                                ● Integration of physical and virtual artifact <br>
+                                ● Information architecture design <br>
+                            </p><br>
+                        </div>
 
-                    </p><br>
-                    <h4 style="font-weight: 700;">Track 4. Threats, Security and Privacy for Cyber Physical Systems</h4><br>
-                    <p class="p-2">
-                        ● Foundations of data security and privacy in CPSs<br>
-                        ● Vulnerability analysis and assessments for CPSs<br>
-                        ● Attacks and vulnerabilities detection in WSNs<br>
-                        ● Risk assessments and identification strategies<br>
-                        ● Human aspects in CPSs security and privacy<br>
-                        ● Attack pattern detection and prediction<br>
-                        ● Internet of Things (IoT) security threats<br>
-                        ● Industrial Control Systems threats<br>
-                        ● CPS resilience<br>
-                        ● Architecture and frameworks for securing CPSs<br>
-                        ● Authentication and access control in CPSs<br>
-                        ● Secure IoT Communication using blockchain<br>
-                        ● Socio-technical defenses for security and privacy<br>
-                        ● Smart IDS and IPS designed for different CPSs<br>
-                        ● Cyber security and anonymity<br>
-                        ● CPS applications security<br>
-                        ● Access control and authorization<br>
-                        ● Attacks and defenses<br>
-                        ● Security and privacy in CPS<br>
-                        ● Attacks prevention and control in CPS<br>
-                        ● Tampering detection and protection in IoT<br>
-                        ● Security threats assessment<br>
-                        ● Risk assessment and management<br>
-                        ● Security management and development<br>
-                        ● Cyber-attacks detection and prevention<br>
-                        ● Embedded systems security<br>
-                        ● Intrusion detection and prevention in software and hardware<br>
-                        ● Networks and systems security<br>
-                        ● Secure information flow<br>
+                        <div class="col-md-6">
+                            <h5  style="font-weight: 700;">Track 2 Threats, Security and Privacy for Cyber Physical Systems</h5><br>
+                            <p class="p-2">
+                                ● Foundations of data security and privacy in CPSs<br>
+                                ● Vulnerability analysis and assessments for CPSs<br>
+                                ● Attacks and vulnerabilities detection in WSNs<br>
+                                ● Risk assessments and identification strategies<br>
+                                ● Human aspects in CPSs security and privacy<br>
+                                ● Attack pattern detection and prediction<br>
+                                ● Internet of Things (IoT) security threats<br>
+                                ● Industrial Control Systems threats<br>
+                                ● CPS resilience<br>
+                                ● Architecture and frameworks for securing CPSs<br>
+                                ● Authentication and access control in CPSs<br>
+                                ● Secure IoT Communication using blockchain<br>
+                                ● Socio-technical defenses for security and privacy<br>
+                                ● Smart IDS and IPS designed for different CPSs<br>
+                                ● Cyber security and anonymity<br>
+                                ● CPS applications security<br>
+                                ● Access control and authorization<br>
+                                ● Attacks and defenses<br>
+                                ● Security and privacy in CPS<br>
+                                ● Attacks prevention and control in CPS<br>
+                                ● Tampering detection and protection in IoT<br>
+                                ● Security threats assessment<br>
+                                ● Risk assessment and management<br>
+                                ● Security management and development<br>
+                                ● Cyber-attacks detection and prevention<br>
+                                ● Embedded systems security<br>
+                                ● Intrusion detection and prevention in software and hardware<br>
+                                ● Networks and systems security<br>
+                                ● Secure information flow<br>
+                            </p><br>
+                        </div>
 
-                    </p><br>
-                    <h4 style="font-weight: 700;">Track 5: Technologies and Applications of Cyber Physical Systems </h4> <br>
-                    <p class="p-2">
-                        ● Smart transportation<br>
-                        ● Medical and health care applications<br>
-                        ● Smart city and smart world<br>
-                        ● Environment monitoring<br>
-                        ● Robotics and automation<br>
-                        ● Intelligent robots<br>
-                        ● Automation and control<br>
-                        ● Human-robot interaction<br>
-                        ● Man-machine systems<br>
-                        ● Smart manufacturing systems<br>
-                        ● Smart Transportation systems applications<br>
-                        ● AI and CPS applications in agriculture<br>
-                        ● Oil and gas applications in AI and CPS<br>
-                        ● Internet of Industrial Things (IoIT) applications<br>
-                        ● Smart grid and energy<br>
-                        ● Rehabilitation systems<br>
-                        ● Social-economical systems<br>
-                        ● Military and defence systems<br>
-                        ● Wearable devices<br>
-                        ● Smart devices for physically disabled persons<br>
-                        ● Emerging applications in AI and CPS<br>
-                        ● Education and social aspects<br>
-                        ● Diagnosis systems<br>
-                        ● Mathematical modeling of different CPS Applications<br>
-                    </p><br>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h5 style="font-weight: 700;">Track 3: Medical Cyber Physical Systems and Health</h5><br>
+                            <p class="p-2">
+                                ● Interoperability and scalability of systems and platforms<br>
+                                ● IT standards and profiles for interoperability<br>
+                                ● Software and devices for healthcare<br>
+                                ● Programming paradigms and tools for health applications<br>
+                                ● Human-computer interaction and usability in healthcare<br>
+                                ● Technologies for dynamic data integration (ontologies, nosql, rdf, sparql, etc.)<br>
+                                ● Cross-computational methods<br>
+                                ● Medical cyber physical systems<br>
+                                ● Mobile health and sensor applications<br>
+                                ● Internet of things for healthcare<br>
+                                ● RFID and sensor-enabled healthcare technologies<br>
+                                ● Intelligent technologies for healthcare (smart homes, cloud-based, etc.)<br>
+                                ● Computational drug discovery; on/in-body medical sensors communications<br>
+                                ● Ubiquitous health applications<br>
+                                ● Health portals and big data visualization<br>
+                                ● Food control and recommendation systems<br>
+
+                            </p><br>
+                        </div>
+                        <div class="col-md-6">
+                            <h5 style="font-weight: 700;">Track 4. Networks and Communication in CPS</h5><br>
+                            <p class="p-2">
+                                ● Sensors networks and communication<br>
+                                ● Interconnected systems<br>
+                                ● Communication in edge computing<br>
+                                ● Network systems<br>
+                                ● Wireless sensor networks<br>
+                                ● 4G/5G communication in smart devices<br>
+                                ● Energy efficient communication<br>
+                                ● Smart networking<br>
+                                ● Green communication<br>
+                                ● Hyper-connected smart devices<br>
+                                ● Communication networks<br>
+                                ● Object access and networking technology<br>
+                                ● Smart Sensor Networks<br>
+                                ● Networked Dynamical Systems<br>
+                            </p><br>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h4 style="font-weight: 700;">Track 5: Technologies and Applications of Cyber Physical Systems </h4> <br>
+                            <p class="p-2">
+                                ● Smart transportation<br>
+                                ● Medical and health care applications<br>
+                                ● Smart city and smart world<br>
+                                ● Environment monitoring<br>
+                                ● Robotics and automation<br>
+                                ● Intelligent robots<br>
+                                ● Automation and control<br>
+                                ● Human-robot interaction<br>
+                                ● Man-machine systems<br>
+                                ● Smart manufacturing systems<br>
+                                ● Smart Transportation systems applications<br>
+                                ● AI and CPS applications in agriculture<br>
+                                ● Oil and gas applications in AI and CPS<br>
+                                ● Internet of Industrial Things (IoIT) applications<br>
+                                ● Smart grid and energy<br>
+                                ● Rehabilitation systems<br>
+                                ● Social-economical systems<br>
+                                ● Military and defence systems<br>
+                                ● Wearable devices<br>
+                                ● Smart devices for physically disabled persons<br>
+                                ● Emerging applications in AI and CPS<br>
+                                ● Education and social aspects<br>
+                                ● Diagnosis systems<br>
+                                ● Mathematical modeling of different CPS Applications<br>
+                            </p><br>
+                        </div>
+                    </div>
+
                     <strong>
                         <h3>Review Process</h3>
                     </strong><br>
@@ -163,43 +182,7 @@
                     </p>
                     <br>
 
-                    <h3>Registration</h3>
-                    <div class="container mt-4">
-                        <table class="table table-bordered">
-                            <thead>
-                                <tr>
-                                    <th>Category</th>
-                                    <th>Indian Delegates</th>
-                                    <th>Foreign Delegates</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>Academician:</td>
-                                    <td>Rs. 8000/-</td>
-                                    <td>US$ 140/-</td>
-                                </tr>
-                                <tr>
-                                    <td>Industry person:</td>
-                                    <td>Rs. 9000/-</td>
-                                    <td>US$ 150/-</td>
-                                </tr>
-                                <tr>
-                                    <td>Student (Full time):</td>
-                                    <td>Rs. 6000/-</td>
-                                    <td>US$ 120/-</td>
-                                </tr>
-                                <tr>
-                                    <td>Attendees/Participating:</td>
-                                    <td>Rs. 3000/-</td>
-                                    <td>US$ 70/-</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                    <h4>Payment Instructions:</h4>
-                    <p><strong>For Indian Delegates:</strong> Payment can be made through NEFT/RTGS. Details will be provided soon. Please check back for updates.</p>
-                    <p><strong>For Foreign Delegates:</strong> Payment can be made through SWIFT/Wire transfer. Details will be provided soon. Please check back for updates.</p>
+                 
                 </div>
             </div>
         </div>
@@ -208,7 +191,14 @@
 
 
 <style>
+    h1, h5{
+        font-size: 24px !important;
+    }
+    p{
+        font-size: 14px !important;
+    }
     h3 {
+        font-size: 24px !important;
         color: #1951A9;
     }
 </style>

@@ -1,14 +1,21 @@
 <div class="three-innar-2">
 
-    <h2 style="text-align:center;color:#686868;font-size: 15px;">IMPORTANT DATES</h2>
+    <h2 class="mb-3" style="text-align:center;color:#686868;font-size: 24px;">IMPORTANT DATES</h2>
     <div class="important-dates" style="text-align: left; background-color:white">
-        <p>● Call for Paper: <br><span style="color: red;">1 November 2023</span><br>
-            ● Last date for Paper Submission: <br><span style="color: red;">30 May 2024</span><br>
-            ● Acceptance Notification: <br><span style="color: red;">30 June 2024</span><br>
-            ● Late Date for Camera Ready Paper: <br><span style="color: red;">14 July 2024</span><br>
-            ● Last date of registration: <br><span style="color: red;">14 July 2024</span><br>
-            ● Conference Dates: <br><span style="color: red;">13-14 September 2024</span><br>
-        </p>
+        <div class="call p-0 m-0" style="font-size: 13px;">
+            Call for Paper: <span class="red-text">1 November 2023</span><br>
+            <hr class="p-0 my-2">
+            Last date for Paper Submission: <span class="red-text">30 May 2024</span><br>
+            <hr class="p-0 my-2">
+            Acceptance Notification: <span class="red-text">30 June 2024</span><br>
+            <hr class="p-0 my-2">
+            Late Date for Camera Ready Paper: <span class="red-text">14 July 2024</span><br>
+            <hr class="p-0 my-2">
+            Last date of registration: <span class="red-text">14 July 2024</span><br>
+            <hr class="p-0 my-2">
+            Conference Dates: <span class="red-text">13-14 September 2024</span><br>
+            <hr class="p-0 my-2">
+        </div>
     </div>
 
     <h2 style="text-align:center;color:#686868;font-size: 15px;">PAPER SUBMISSION</h2>
@@ -19,11 +26,17 @@
                             <font color="#ce0000">Paper Submission Link</font>
                         </a></span></span></strong>
         </p>
-        <!-- <h2 style="text-align:center;color:#686868;font-size: 15px;">Publication Partner</h2>
-        <div class="three-content">
-            <img src="https://scrs.in/uploads/pages/1680280842.jpg" width="100">
-        </div> -->
         </h2>
     </div>
-
 </div>
+
+<style>
+    .red-text {
+        color: red;
+        font-size: 13px; /* Set the font size to 13 pixels */
+    }
+
+    .call>span {
+        font-size: 13px;
+    }
+</style>

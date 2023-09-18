@@ -24,24 +24,26 @@
 
 <body>
     <div class="header">
-        <div class="container p2">
-            <div class="row align-items-center justify-content-center">
-                <div class="col-md-4 d-flex justify-content-center">
-                    <a href="?page=home">
-                        <img src="assets/images/logo.png" style="width:220px" />
-                    </a>
+        <div class="section-1">
+            <div class="container p2">
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-md-4 d-flex justify-content-center">
+                        <a href="?page=home">
+                            <img class="logo" src="assets/images/logo.png" style="width:220px" />
+                        </a>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <div class="logo-main">
-            <div class="container p-2 text-center">
-                <h3 style="color:#1651a9"> <strong>International Conference on Sustainable Cyber Physical Systems (ICSCPS’24)</strong></h3>
-                <h5>Organized in In-person and Online (Hybrid Mode) by</h5>
-                <!-- <a href="https://ncr.christuniversity.in/"></a> -->
-                <h4 style="color:#1651a9">Department of Computational Sciences,</h4>
-                <h4 style="color:#1651a9">CHRIST (Deemed to be University), Delhi NCR, India</h4>
-                <h5 style="font-weight:bold">September 13-14, 2024</h5>
+            <div class="logo-main">
+                <div class="container p-2 text-center">
+                    <h3 style="color:#1651a9"> <strong>International Conference on Sustainable Cyber Physical Systems (ICSCPS’24)</strong></h3>
+                    <h5>Organized in In-person and Online (Hybrid Mode) by</h5>
+                    <!-- <a href="https://ncr.christuniversity.in/"></a> -->
+                    <h4 style="color:#1651a9">Department of Computational Sciences,</h4>
+                    <h4 style="color:#1651a9">CHRIST (Deemed to be University), Delhi NCR, India</h4>
+                    <h5 style="font-weight:bold">September 13-14, 2024</h5>
+                </div>
             </div>
         </div>
 
@@ -65,6 +67,7 @@
                         <li class="nav-item"><a class="nav-link" href="?page=important_dates">Important Dates</a></li>
                         <li class="nav-item"><a class="nav-link" href="?page=Paper_Submission">Paper Submission</a></li>
                         <li class="nav-item"><a class="nav-link" href="?page=Call_for_sponsors">Call for Sponsors</a></li>
+                        <li class="nav-item"><a class="nav-link" href="?page=registration_fee">Registeration</a></li>
                         <li class="nav-item"><a class="nav-link" href="?page=Contact_Us">Contact Us</a></li>
                     </ul>
                 </div>

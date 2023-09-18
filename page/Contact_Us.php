@@ -1,12 +1,5 @@
 <div style="background-color:#f5f5f5">
-    <!--side-right-link-section-->
-    <div class='side-right-link'>
-        <ul>
-            <!--<li> <a class="fa fa-phone" href="javascript:void(0);"> <span>Call </span> </a> </li>-->
-            <li> <a class="fa fa-envelope" href="javascript:void(0);"> <span>ijcaci22@scrs.in</span> </a> </li>
-            <li> <a class="fa fa-map-marker" href="javascript:void(0);"> <span></span> </a> </li>
-        </ul>
-    </div>
+
     <!--side-right-link-section-->
     <div class="banner-main">
         <div class="container">
@@ -27,42 +20,8 @@
                                 <h1><strong>scrs.iccis@gmail.com |&nbsp;ashish.cse@mnit.ac.in</strong><strong>&nbsp;</strong></h1>
                             </div>
                         </div>
-
-
-
-                        <div class="clr"></div>
                     </div>
                 </div>
-
-                <!--About-Page-Section-->
-                <!-- Link-Section -->
-                <div class="col-lg-3">
-                    <div class="three-innar-2">
-                        <nav>
-                            <div class="nav-toggle dropdown"><a><a href="#">Navigation</a></a></div>
-                            <ul>
-                                <li class="dropdown"><a>Committees</a>
-                                    <ul>
-                                        <li class=8><a href='../committee/advisory-committee.html'>Advisory Committee</a></li>
-                                        <li class=2><a href='../committee/general-chair.html'>General Chair</a></li>
-                                        <li class=3><a href='../committee/organizing-chair.html'>Organizing Chair</a></li>
-                                        <li class=6><a href='../committee/technical-program-committee.html'>Technical Program Committee</a></li>
-                                        <li class=5><a href='../committee/publicity-committee.html'>Publicity Chair</a></li>
-                                    </ul>
-                                </li>
-
-
-                                <li><a href='important_dates.html'>Important Dates</a></li>
-                                <li><a href='previous_icdsa_Conferences.html'>Previous ICCIS Conferences</a></li>
-                                <li><a href='registration_fee.html'>Registration Fee</a></li>
-
-                        </nav>
-                    </div>
-                </div>
-
-
-                <!-- Link-Section -->
-
             </div>
         </div>
     </div>

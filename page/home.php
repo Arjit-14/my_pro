@@ -84,7 +84,7 @@
                         </p>
                     </div>
                     <br>
-                    <h3>About <span class="alternate">Department of Computational Sciences</span></h3>
+                    <h3>About<span class="alternate"> Department of Computational Sciences</span></h3>
                     <div class="description-one">
                         <p style="text-align: justify;">
                             Department of Computational Sciences at CHRIST (Deemed to be University) Delhi- NCR has created a niche in the realm of higher education in India through its programmes. Currently, the department of computational sciences offers a wide array of undergraduate courses with multiple specializations. It
@@ -105,6 +105,12 @@
 
 
 <style>
+    .description-one p{
+        font-size: 14px;
+    }
+    .about h3{
+        font-size: 24px;
+    }
     .about .description-one {
         margin-bottom: 20px;
     }
