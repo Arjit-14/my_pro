@@ -1,8 +1,8 @@
 <div class="three-innar-2">
 
-    <h2 class="mb-3" style="text-align:center;color:#686868;font-size: 24px;">IMPORTANT DATES</h2>
+    <h2 class="mb-3" style="text-align:center;color:black;font-size: 24px;"><sup class="badge bg-danger blinking-text">NEW </sup>IMPORTANT DATES</h2>
     <div class="important-dates" style="text-align: left; background-color:white">
-        <div class="call p-0 m-0" style="font-size: 13px;">
+        <div class="call p-0 m-0" style="font-size: 11px; font-weight:bold">
             Call for Paper: <span class="red-text">1 November 2023</span><br>
             <hr class="p-0 my-2">
             Last date for Paper Submission: <span class="red-text">30 May 2024</span><br>
@@ -31,12 +31,11 @@
 </div>
 
 <style>
+
     .red-text {
+        font-weight: 500;
         color: red;
-        font-size: 13px; /* Set the font size to 13 pixels */
+        font-size: 11px;
     }
 
-    .call>span {
-        font-size: 13px;
-    }
 </style>

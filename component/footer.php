@@ -31,7 +31,7 @@
                     </ul>
 
                 <br>
-                <p style="font-size:14px;color:grey">Copyright © CHRIST (Deemed to be University)</p>
+                <p style="font-size:13px !important;color:grey">Copyright © CHRIST (Deemed to be University)</p>
                 </div>
 
             </div>

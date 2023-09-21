@@ -1,10 +1,9 @@
 <div class="banner-main">
     <div class="container">
         <div class="row">
-
             <div class="col-lg-3">
                 <div class="three-innar">
-                    <h4>Latest News</h4>
+                    <h4 class="m-0" style="text-transform: uppercase; font-weight:600">Latest News</h4>
                     <hr>
                     <h2 style="text-align:center;color:#686868;font-size: 15px;font-weight: 600;margin: 10px 0px 10px 0px;text-transform: uppercase;">Proceedings Publication</h2>
                     <div class="three-content">
@@ -12,12 +11,6 @@
                         <br>
                         <p>SCOPUS Indexed Springer Book Series,<br><a href="https://www.springer.com/series/15179" target="_blank"><strong>'Lecture Notes in Networks and Systems' </strong></a>(Submitted for Approval).&nbsp;</p>
                     </div>
-                    <!-- <h2 style="text-align:center;color:#686868;font-size: 15px;font-weight: 600;margin: 10px 0px 10px 0px;text-transform: uppercase;">INDEXING</h2>
-                    <div class="three-content">
-                        <p style="text-align: center;">
-                            <span style="font-size:15px;color:white">SCOPUS, DBLP, INSPEC, Norwegian Register for Scientific Journals and Series, SCImago, WTI Frankfurt eG, zbMATH</span>
-                        </p>
-                    </div> -->
                 </div>
             </div>
 
@@ -105,11 +98,9 @@
 
 
 <style>
-    .description-one p{
-        font-size: 14px;
-    }
+
     .about h3{
-        font-size: 24px;
+        font-size: 28px;
     }
     .about .description-one {
         margin-bottom: 20px;
@@ -117,7 +108,7 @@
 
     .about h3:after {
         content: "";
-        width: 60px;
+       
         height: 3px;
         background: #207cca;
         display: block;

@@ -1,9 +1,19 @@
 * {
-	font-family: "Roboto" !important;
+	font-family: "Montserrat" !important;
 }
 
 p{
-    font-size: 14px !important;
+    font-size: 16px !important;
+}
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+.blinking-text {
+    font-size: 12px !important ;
+    animation: blink 1s infinite;
 }
 
 /*three-box-section*/
@@ -815,7 +825,12 @@ nav a {
 
 .nav-item a {
 	text-align: center;
-	font-size: 15px !important;
+	font-size: 14px !important;
+}
+
+.active , .active a {
+    background-color: #1651a9;
+    color: white !important;
 }
 
 .section-1{
@@ -837,4 +852,9 @@ nav a {
 .logo-main, .logo{
     position: relative; /* Ensure the content is on top of the overlay */
     z-index: 1;
+}
+.dropdown-item:focus, .dropdown-item:hover{
+    background-color: #0d6efd !important;
+    color: white !important;
+
 }

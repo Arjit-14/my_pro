@@ -1,23 +1,52 @@
-<div style="background-color:#f5f5f5">
-
-    <!--side-right-link-section-->
     <div class="banner-main">
         <div class="container">
             <div class="row">
-                <!--About-Page-Section-->
-                <div class="col-lg-9">
-                    <div class="about-innar">
-                        <!--<div class="col-lg-4">
-            <div class="about-innar-image"> <img src="https://scril.sau.int/ijcaci22/assets/images/about.jpg" alt="" /></div>
-          </div>-->
-
-                        <div class="col-lg-12">
-                            <div class="about-innar-content">
-                                <h1>Contact Us</h1>
-                                <hr>
-                                <h1 style="padding: 0px; margin-right: 0px; margin-bottom: 5px; margin-left: 0px; font-size: 20px; font-family: Muli, sans-serif; font-weight: 600; line-height: 28px; color: rgb(0, 83, 136);"><span style="padding: 0px; margin: 0px; font-size: 18px;">You can send your queries to the following email ID:&nbsp;</span></h1>
-
-                                <h1><strong>scrs.iccis@gmail.com |&nbsp;ashish.cse@mnit.ac.in</strong><strong>&nbsp;</strong></h1>
+                <div class="about-innar">
+                    <div class="col-lg-12">
+                        <div class="about-innar-content">
+                            <h1 style="font-size: 24px;">Contact Us</h1>
+                            <hr>
+                            <div class="row p-3 align-items-center">
+                                <div class="col-md-6">
+                                    <div class="container" style="line-height: 25px;">
+                                        <h3 style="font-size:24px;color: #1651a9;">Dr Ramesh Chandra Poonia </h3>
+                                        <h7><span style="font-weight: 600;">Phone: </span>+91-9414527324</h7><br>
+                                        <h7><span style="font-weight: 600;">Email: </span><a href="mailto:rameshchandra.poonia@christuniversity.in">rameshchandra.poonia@christuniversity.in</a></h7>
+                                    </div>
+                                    <br>
+                                    <div class="container" style="line-height: 25px;">
+                                        <h3 style="font-size:24px;color: #1651a9;">Dr Kamal Upreti</h3>
+                                        <h7><span style="font-weight: 600;">Phone: </span>+91-9810948526</h7><br>
+                                        <h7><span style="font-weight: 600;">Email: </span><a href="mailto:kamal.upreti@christuniversity.in">kamal.upreti@christuniversity.in</a></h7>
+                                    </div>
+                                    <br>
+                                    <div class="container" style="line-height: 25px;">
+                                        <h3 style="font-size:24px;color: #1651a9;">Mr Sumin Samuel Sybol</h3>
+                                        <h7><span style="font-weight: 600;">Phone: </span>+91-9717510323</h7><br>
+                                        <h7><span style="font-weight: 600;">Email: </span><a href="mailto:suminsamuel.sybol@res.christuniversity.in">suminsamuel.sybol@res.christuniversity.in</a></h7>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <form action="submit_form.php" method="POST">
+                                        <div class="mb-3">
+                                            <label for="name" class="form-label">Name</label>
+                                            <input type="text" class="form-control" id="name" name="name" required>
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="phone" class="form-label">Phone Number</label>
+                                            <input type="tel" class="form-control" id="phone" name="phone" required>
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="email" class="form-label">Email ID</label>
+                                            <input type="email" class="form-control" id="email" name="email" required>
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="message" class="form-label">Message</label>
+                                            <textarea class="form-control" id="message" name="message" rows="4" required></textarea>
+                                        </div>
+                                        <button type="submit" class="btn btn-primary">Submit</button>
+                                    </form>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -25,180 +54,3 @@
             </div>
         </div>
     </div>
-    <!-- Banner-And-Three-Box-Section -->
-</div>
-
-
-
-
-
-<script src="https://www.cvr2022.scrs.in/assets/js/jquery.js" type="text/javascript"></script>
-<script type="text/javascript">
-    $(document).ready(function() {
-
-        $(".tabs-list li a").click(function(e) {
-            e.preventDefault();
-        });
-
-        $(".tabs-list li").click(function() {
-            var tabid = $(this).find("a").attr("href");
-            $(".tabs-list li,.tabs div.tab").removeClass("active"); // removing active class from tab
-
-            $(".tab").hide(); // hiding open tab
-            $(tabid).show(); // show tab
-            $(this).addClass("active"); //  adding active class to clicked tab
-
-        });
-
-    });
-</script>
-<style type="text/css">
-    <!--
-    .mukesh_bullet {
-        background: url(https://www.cis2020.scrs.in/kcfinder/upload/images/button1.jpg) no-repeat top left;
-    }
-
-    .mukesh table tbody tr td {
-        height: auto;
-        padding: 10px 10px;
-        font-size: 14px;
-        color: #444;
-        font-family: "Open Sans";
-        border: none;
-        width: auto !important;
-        transition: none !important;
-    }
-    -->
-    ">.tabs{
-    width:100%;
-    height:auto;
-    margin:0
-    auto;
-    }
-    /*
-    tab
-    list
-    item
-    */
-    .tabs
-    .tabs-list
-    {
-    list-style:none;
-    margin:0px;
-    padding:0px;
-    }
-    .tabs
-    .tabs-list
-    li
-    {
-    width:150px;
-    float:left;
-    margin:0px;
-    margin-right:2px;
-    padding:10px
-    90px;
-    text-align:
-    center;
-    background-color:cornflowerblue;
-    border-radius:3px;
-    }
-    .tabs
-    .tabs-list
-    li:hover
-    {
-    cursor:pointer;
-    }
-    .tabs
-    .tabs-list
-    li
-    a
-    {
-    text-decoration:
-    none;
-    color:white;
-    }
-    /*
-    Tab
-    content
-    section
-    */
-    .tabs
-    .tab
-    {
-    display:none;
-    width:96%;
-    min-height:250px;
-    height:auto;
-    border-radius:3px;
-    padding:20px
-    15px;
-    background-color:lavender;
-    color:darkslategray;
-    clear:both;
-    }
-    .tabs
-    .tab
-    h3
-    {
-    border-bottom:3px
-    solid
-    cornflowerblue;
-    letter-spacing:1px;
-    font-weight:normal;
-    padding:5px;
-    }
-    .tabs
-    .tab
-    p
-    {
-    line-height:20px;
-    letter-spacing:
-    1px;
-    }
-    /*
-    When
-    active
-    state
-    */
-    .active
-    {
-    display:block
-    !important;
-    }
-    .tabs
-    .tabs-list
-    li.active
-    {
-    background-color:lavender
-    !important;
-    color:black
-    !important;
-    }
-    .active
-    a
-    {
-    color:black
-    !important;
-    }
-    /*
-    media
-    query
-    */
-    @media
-    screen
-    and
-    (max-width:360px)
-    {
-    .tabs
-    {
-    margin:0;
-    width:96%;
-    }
-    .tabs
-    .tabs-list
-    li
-    {
-    width:80px;
-    }
-    }
-</style>
