@@ -20,7 +20,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Roboto:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
     <script src="assets/js/custum.js" type="text/javascript"></script>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.15.0/font/bootstrap-icons.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
 
 </head>
@@ -40,18 +39,20 @@
 
             <div class="logo-main">
                 <div class="container p-2 text-center">
-                    <h3 style="color:#1651a9"> <strong>International Conference on Sustainable Cyber Physical Systems (ICSCPS’24)</strong></h3>
+                    <h3 style="color:#1651a9"> <strong>International Conference on Smart Cyber Physical Systems (ICSCPS’24)</strong></h3>
                     <h5>Organized in In-person and Online (Hybrid Mode) by</h5>
                     <!-- <a href="https://ncr.christuniversity.in/"></a> -->
-                    <h4 style="color:#1651a9">Department of computer Sciences,</h4>
-                    <h4 style="color:#1651a9">CHRIST (Deemed to be University), Delhi NCR, India</h4>
-                    <h5 style="font-weight:bold">September 13-14, 2024</h5>
+                    <h4 style="color:#1651a9">Department of Computer Science</h4>
+                    <h4 style="color:#1651a9">CHRIST (Deemed to be University) Delhi NCR, India</h4>
+                    <h5 class="date-container" style="font-weight:bold">September 13 - 14, 2024</h5>
                 </div>
             </div>
         </div>
 
-        <div class="container-fluid nav p-2" style="background-color: #1651a9;">
-            <marquee><span style="color:white; font-size:15px"><b>The after-conference proceeding of the ICSCPS’24 will be published in SCOPUS Indexed Springer Book Series, ‘Lecture Notes in Networks and Systems’ (Submitted for Approval)&nbsp;</b></span></marquee>
+        <div class="marquee-container">
+            <div class="marquee">
+                <span><b>The after-conference proceeding of the ICSCPS’24 will be published in SCOPUS Indexed Springer Book Series, ‘Smart Innovation,Systems and Technologies’ (Submitted for Approval)&nbsp;</b></span>
+            </div>
         </div>
 
         <nav class="navbar navbar-expand-lg navbar-light bg-light px-0 py-2">
@@ -62,27 +63,39 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav" style="width: 100%;">
-                        <li class="nav-item <?= ($_GET['page'] == 'home') ? 'active' : '' ?>">
+                        <li class="nav-item">
                             <a class="nav-link" href="?page=home">Home</a>
                         </li>
-                        <li class="nav-item <?= ($_GET['page'] == 'Committees') ? 'active' : '' ?>">
+                        <li class="nav-item">
                             <a class="nav-link" href="?page=Committees">Committee</a>
                         </li>
-                        <li class="nav-item dropdown <?= ($_GET['page'] == 'call_for_papers' || $_GET['page'] == 'important_dates' || $_GET['page'] == 'Paper_Submission' || $_GET['page'] == 'registration_fee') ? 'active' : '' ?>">
+                        <li class="nav-item">
+                            <a class="nav-link" href="?page=speakers">Keynote Speakers</a>
+                        </li>
+                        <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="paperSubmissionDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Paper Submission
                             </a>
                             <div class="dropdown-menu" style="width: 100%;" aria-labelledby="paperSubmissionDropdown">
-                                <a class="dropdown-item <?= ($_GET['page'] == 'call_for_papers') ? 'active' : '' ?>" href="?page=call_for_papers">Call for Papers</a>
-                                <a class="dropdown-item <?= ($_GET['page'] == 'important_dates') ? 'active' : '' ?>" href="?page=important_dates">Important Dates</a>
-                                <a class="dropdown-item <?= ($_GET['page'] == 'Paper_Submission') ? 'active' : '' ?>" href="?page=Paper_Submission">Submission Form</a>
-                                <a class="dropdown-item <?= ($_GET['page'] == 'registration_fee') ? 'active' : '' ?>" href="?page=registration_fee">Registration</a>
+                                <a class="dropdown-item" href="?page=call_for_papers">Call for Papers</a>
+                                <a class="dropdown-item" href="?page=important_dates">Important Dates</a>
+                                <a class="dropdown-item" href="?page=Paper_Submission">Submission Form</a>
+                                <a class="dropdown-item" href="?page=registration_fee">Registration</a>
+                                <a class="dropdown-item" href="?page=publication">Publication</a>
                             </div>
                         </li>
-                        <li class="nav-item <?= ($_GET['page'] == 'Call_for_sponsors') ? 'active' : '' ?>">
+                        <li class="nav-item">
                             <a class="nav-link" href="?page=Call_for_sponsors">Call for Sponsors</a>
                         </li>
-                        <li class="nav-item <?= ($_GET['page'] == 'Contact_Us') ? 'active' : '' ?>">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="?page=venue"  id="paperSubmissionDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Venue</a>
+                            <div class="dropdown-menu" style="width: 100%;" aria-labelledby="paperSubmissionDropdown">
+                                <a class="dropdown-item" href="?page=venue">Conference Venue</a>
+                                <a class="dropdown-item" href="https://ncr.christuniversity.in/how-to-reach-ncr-campus" target="_blank">Transportation</a>
+                                <a class="dropdown-item" href="?page=visa">VISA</a>
+                            </div>
+                        </li>
+                        <li class="nav-item ">
                             <a class="nav-link" href="?page=Contact_Us">Contact Us</a>
                         </li>
                     </ul>
@@ -101,6 +114,58 @@
 
         .nav-item {
             font-weight: 600;
+        }
+
+        .marquee>span {
+            color: white;
+        }
+
+        .marquee>span:hover {
+            text-shadow: red;
+        }
+
+        .marquee-container:hover {
+            text-shadow: 2px 2px 4px red;
+        }
+
+        .date-container{
+            transition: color 0.3s;
+        }
+        .date-container:hover{
+            color: #1651a9;
+            /* text-shadow: 2px 2px 4px #1651a9; */
+
+        }
+
+        .marquee-container {
+            padding: 5px;
+            background-color: #1651a9;
+            overflow: hidden;
+            white-space: nowrap;
+            width: 100%;
+            color: white;
+            transition: color 0.3s;
+        }
+
+        .marquee {
+            display: inline-block;
+            animation: marquee 30s linear infinite;
+        }
+
+        @keyframes marquee {
+            0% {
+                transform: translateX(100%);
+
+            }
+
+            100% {
+                transform: translateX(-100%);
+
+            }
+        }
+
+        .marquee:hover {
+            animation-play-state: paused;
         }
     </style>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

@@ -4,8 +4,8 @@
             <h1>Registration</h1>
             <hr>
             <div class="container mt-4">
-                <table class="table table-bordered">
-                    <thead>
+                <table class="table table-bordered" style="width: 51%;">
+                    <thead style="background-color: grey;">
                         <tr>
                             <th>Category</th>
                             <th>Indian Delegates</th>

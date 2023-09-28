@@ -14,176 +14,212 @@
                     </p>
                     <br>
                     <strong>
-                        <h3>List of Tracks:</h3>
-                    </strong><br>
-
-                    <div class="row">
-                        <div class="col-md-6">
-                            <h5 style="font-weight: 700;">Track 1 Cyber Physical Systems Architecture</h5><br>
-                            <p class="p-2">● Integrated design methods for CPS <br>
-                                ● HW/SW co-design for CPS <br>
-                                ● Simulation and emulation of CPS <br>
-                                ● Integrated tool chains for CPS <br>
-                                ● Scalable CPS Architectures <br>
-                                ● Composability of software, hardware and physical components <br>
-                                ● Analysis of cyber-physical systems with multiple temporal and spatial scales <br>
-                                ● High-confidence and security in CPS <br>
-                                ● Real-time systems <br>
-                                ● Low power consumption <br>
-                                ● System-level design methodology <br>
-                                ● Embedded systems design <br>
-                                ● Mobile computing and devices <br>
-                                ● Internet of Things architecture <br>
-                                ● IoT interactions <br>
-                                ● Real-time applications of IoT <br>
-                                ● Industrial IoT <br>
-                                ● Industry Standards in CPS <br>
-                                ● Industry 4.0 <br>
-                                ● Intelligent agents <br>
-                                ● Industrial Automation <br>
-                                ● Cloud computing in CPS <br>
-                                ● Intelligence and control of CPS <br>
-                                ● Deep learning in CPS <br>
-                                ● Cyber-physical multimedia systems <br>
-                                ● Integration of physical and virtual artifact <br>
-                                ● Information architecture design <br>
-                            </p><br>
+                        <h5 style="font-weight: 700;">List of Tracks:</h5>
+                    </strong>
+                    <div class="accordion my-2" id="textAccordion">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingOne">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    Track 1: Cyber Physical Systems Architecture
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#textAccordion">
+                                <div class="accordion-body">
+                                    <ul>
+                                        <li>Integrated design methods for CPS</li>
+                                        <li>HW/SW co-design for CPS</li>
+                                        <li>Simulation and emulation of CPS</li>
+                                        <li>Integrated tool chains for CPS</li>
+                                        <li>Scalable CPS Architectures</li>
+                                        <li>Composability of software, hardware and physical components</li>
+                                        <li>Analysis of cyber-physical systems with multiple temporal and spatial scales</li>
+                                        <li>High-confidence and security in CPS</li>
+                                        <li>Real-time systems</li>
+                                        <li>Low power consumption</li>
+                                        <li>System-level design methodology</li>
+                                        <li>Embedded systems design</li>
+                                        <li>Mobile computing and devices</li>
+                                        <li>Internet of Things architecture</li>
+                                        <li>IoT interactions</li>
+                                        <li>Real-time applications of IoT</li>
+                                        <li>Industrial IoT</li>
+                                        <li>Industry Standards in CPS</li>
+                                        <li>Industry 4.0</li>
+                                        <li>Intelligent agents</li>
+                                        <li>Industrial Automation</li>
+                                        <li>Cloud computing in CPS</li>
+                                        <li>Intelligence and control of CPS</li>
+                                        <li>Deep learning in CPS</li>
+                                        <li>Cyber-physical multimedia systems</li>
+                                        <li>Integration of physical and virtual artifact</li>
+                                        <li>Information architecture design</li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
 
-                        <div class="col-md-6">
-                            <h5  style="font-weight: 700;">Track 2 Threats, Security and Privacy for Cyber Physical Systems</h5><br>
-                            <p class="p-2">
-                                ● Foundations of data security and privacy in CPSs<br>
-                                ● Vulnerability analysis and assessments for CPSs<br>
-                                ● Attacks and vulnerabilities detection in WSNs<br>
-                                ● Risk assessments and identification strategies<br>
-                                ● Human aspects in CPSs security and privacy<br>
-                                ● Attack pattern detection and prediction<br>
-                                ● Internet of Things (IoT) security threats<br>
-                                ● Industrial Control Systems threats<br>
-                                ● CPS resilience<br>
-                                ● Architecture and frameworks for securing CPSs<br>
-                                ● Authentication and access control in CPSs<br>
-                                ● Secure IoT Communication using blockchain<br>
-                                ● Socio-technical defenses for security and privacy<br>
-                                ● Smart IDS and IPS designed for different CPSs<br>
-                                ● Cyber security and anonymity<br>
-                                ● CPS applications security<br>
-                                ● Access control and authorization<br>
-                                ● Attacks and defenses<br>
-                                ● Security and privacy in CPS<br>
-                                ● Attacks prevention and control in CPS<br>
-                                ● Tampering detection and protection in IoT<br>
-                                ● Security threats assessment<br>
-                                ● Risk assessment and management<br>
-                                ● Security management and development<br>
-                                ● Cyber-attacks detection and prevention<br>
-                                ● Embedded systems security<br>
-                                ● Intrusion detection and prevention in software and hardware<br>
-                                ● Networks and systems security<br>
-                                ● Secure information flow<br>
-                            </p><br>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingTwo">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    Track 2: Threats, Security and Privacy for Cyber Physical Systems
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#textAccordion">
+                                <div class="accordion-body">
+                                    <ul>
+                                        <li>Foundations of data security and privacy in CPSs</li>
+                                        <li>Vulnerability analysis and assessments for CPSs</li>
+                                        <li>Attacks and vulnerabilities detection in WSNs</li>
+                                        <li>Risk assessments and identification strategies</li>
+                                        <li>Human aspects in CPSs security and privacy</li>
+                                        <li>Attack pattern detection and prediction</li>
+                                        <li>Internet of Things (IoT) security threats</li>
+                                        <li>Industrial Control Systems threats</li>
+                                        <li>CPS resilience</li>
+                                        <li>Architecture and frameworks for securing CPSs</li>
+                                        <li>Authentication and access control in CPSs</li>
+                                        <li>Secure IoT Communication using blockchain</li>
+                                        <li>Socio-technical defenses for security and privacy</li>
+                                        <li>Smart IDS and IPS designed for different CPSs</li>
+                                        <li>Cyber security and anonymity</li>
+                                        <li>CPS applications security</li>
+                                        <li>Access control and authorization</li>
+                                        <li>Attacks and defenses</li>
+                                        <li>Security and privacy in CPS</li>
+                                        <li>Attacks prevention and control in CPS</li>
+                                        <li>Tampering detection and protection in IoT</li>
+                                        <li>Security threats assessment</li>
+                                        <li>Risk assessment and management</li>
+                                        <li>Security management and development</li>
+                                        <li>Cyber-attacks detection and prevention</li>
+                                        <li>Embedded systems security</li>
+                                        <li>Intrusion detection and prevention in software and hardware</li>
+                                        <li>Networks and systems security</li>
+                                        <li>Secure information flow</li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
 
+                        <!-- Track 3 -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingThree">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Track 3: Medical Cyber Physical Systems and Health
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#textAccordion">
+                                <div class="accordion-body">
+                                    <ul>
+                                        <li>Interoperability and scalability of systems and platforms</li>
+                                        <li>IT standards and profiles for interoperability</li>
+                                        <li>Software and devices for healthcare</li>
+                                        <li>Programming paradigms and tools for health applications</li>
+                                        <li>Human-computer interaction and usability in healthcare</li>
+                                        <li>Technologies for dynamic data integration (ontologies, nosql, rdf, sparql, etc.)</li>
+                                        <li>Cross-computational methods</li>
+                                        <li>Medical cyber physical systems</li>
+                                        <li>Mobile health and sensor applications</li>
+                                        <li>Internet of things for healthcare</li>
+                                        <li>RFID and sensor-enabled healthcare technologies</li>
+                                        <li>Intelligent technologies for healthcare (smart homes, cloud-based, etc.)</li>
+                                        <li>Computational drug discovery; on/in-body medical sensors communications</li>
+                                        <li>Ubiquitous health applications</li>
+                                        <li>Health portals and big data visualization</li>
+                                        <li>Food control and recommendation systems</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Track 4 -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingFour">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    Track 4: Networks and Communication in CPS
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#textAccordion">
+                                <div class="accordion-body">
+                                    <ul>
+                                        <li>Sensors networks and communication</li>
+                                        <li>Interconnected systems</li>
+                                        <li>Communication in edge computing</li>
+                                        <li>Network systems</li>
+                                        <li>Wireless sensor networks</li>
+                                        <li>4G/5G communication in smart devices</li>
+                                        <li>Energy efficient communication</li>
+                                        <li>Smart networking</li>
+                                        <li>Green communication</li>
+                                        <li>Hyper-connected smart devices</li>
+                                        <li>Communication networks</li>
+                                        <li>Object access and networking technology</li>
+                                        <li>Smart Sensor Networks</li>
+                                        <li>Networked Dynamical Systems</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Track 5 -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingFive">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    Track 5: Technologies and Applications of Cyber Physical Systems
+                                </button>
+                            </h2>
+                            <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                <div class="accordion-body">
+                                    <ul>
+                                        <li>Smart transportation</li>
+                                        <li>Medical and health care applications</li>
+                                        <li>Smart city and smart world</li>
+                                        <li>Environment monitoring</li>
+                                        <li>Robotics and automation</li>
+                                        <li>Intelligent robots</li>
+                                        <li>Automation and control</li>
+                                        <li>Human-robot interaction</li>
+                                        <li>Man-machine systems</li>
+                                        <li>Smart manufacturing systems</li>
+                                        <li>Smart Transportation systems applications</li>
+                                        <li>AI and CPS applications in agriculture</li>
+                                        <li>Oil and gas applications in AI and CPS</li>
+                                        <li>Internet of Industrial Things (IoIT) applications</li>
+                                        <li>Smart grid and energy</li>
+                                        <li>Rehabilitation systems</li>
+                                        <li>Social-economical systems</li>
+                                        <li>Military and defense systems</li>
+                                        <li>Wearable devices</li>
+                                        <li>Smart devices for physically disabled persons</li>
+                                        <li>Emerging applications in AI and CPS</li>
+                                        <li>Education and social aspects</li>
+                                        <li>Diagnosis systems</li>
+                                        <li>Mathematical modeling of different CPS Applications</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <h5 style="font-weight: 700;">Track 3: Medical Cyber Physical Systems and Health</h5><br>
-                            <p class="p-2">
-                                ● Interoperability and scalability of systems and platforms<br>
-                                ● IT standards and profiles for interoperability<br>
-                                ● Software and devices for healthcare<br>
-                                ● Programming paradigms and tools for health applications<br>
-                                ● Human-computer interaction and usability in healthcare<br>
-                                ● Technologies for dynamic data integration (ontologies, nosql, rdf, sparql, etc.)<br>
-                                ● Cross-computational methods<br>
-                                ● Medical cyber physical systems<br>
-                                ● Mobile health and sensor applications<br>
-                                ● Internet of things for healthcare<br>
-                                ● RFID and sensor-enabled healthcare technologies<br>
-                                ● Intelligent technologies for healthcare (smart homes, cloud-based, etc.)<br>
-                                ● Computational drug discovery; on/in-body medical sensors communications<br>
-                                ● Ubiquitous health applications<br>
-                                ● Health portals and big data visualization<br>
-                                ● Food control and recommendation systems<br>
-
-                            </p><br>
-                        </div>
-                        <div class="col-md-6">
-                            <h5 style="font-weight: 700;">Track 4. Networks and Communication in CPS</h5><br>
-                            <p class="p-2">
-                                ● Sensors networks and communication<br>
-                                ● Interconnected systems<br>
-                                ● Communication in edge computing<br>
-                                ● Network systems<br>
-                                ● Wireless sensor networks<br>
-                                ● 4G/5G communication in smart devices<br>
-                                ● Energy efficient communication<br>
-                                ● Smart networking<br>
-                                ● Green communication<br>
-                                ● Hyper-connected smart devices<br>
-                                ● Communication networks<br>
-                                ● Object access and networking technology<br>
-                                ● Smart Sensor Networks<br>
-                                ● Networked Dynamical Systems<br>
-                            </p><br>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-md-6">
-                            <h4 style="font-weight: 700;">Track 5: Technologies and Applications of Cyber Physical Systems </h4> <br>
-                            <p class="p-2">
-                                ● Smart transportation<br>
-                                ● Medical and health care applications<br>
-                                ● Smart city and smart world<br>
-                                ● Environment monitoring<br>
-                                ● Robotics and automation<br>
-                                ● Intelligent robots<br>
-                                ● Automation and control<br>
-                                ● Human-robot interaction<br>
-                                ● Man-machine systems<br>
-                                ● Smart manufacturing systems<br>
-                                ● Smart Transportation systems applications<br>
-                                ● AI and CPS applications in agriculture<br>
-                                ● Oil and gas applications in AI and CPS<br>
-                                ● Internet of Industrial Things (IoIT) applications<br>
-                                ● Smart grid and energy<br>
-                                ● Rehabilitation systems<br>
-                                ● Social-economical systems<br>
-                                ● Military and defence systems<br>
-                                ● Wearable devices<br>
-                                ● Smart devices for physically disabled persons<br>
-                                ● Emerging applications in AI and CPS<br>
-                                ● Education and social aspects<br>
-                                ● Diagnosis systems<br>
-                                ● Mathematical modeling of different CPS Applications<br>
-                            </p><br>
-                        </div>
-                    </div>
-
-                    <strong>
-                        <h3>Review Process</h3>
-                    </strong><br>
-                    <p class="p-2">
-                        ● All submitted papers will be reviewed by at least 2 independent reviewers. Additional reviewers will be consulted if required.<br>
-                        ● All papers will go through a plagiarism checker. Plagiarism report must not exceed 20%.<br>
-                        ● All papers must be formatted according to the given template (Springer LNCS).<br>
-                        ● Paper acceptance will be based on originality, significance, technical soundness, and clarity of presentation.<br>
-                        ● Authors must make sure that they submit previously unpublished papers to this conference.<br>
-                    </p>
-                    <br>
-                    <strong>
-                        <h3>Awards & Participation</h3>
-                    </strong><br>
-                    <p class="p-2">
-                        ● All accepted papers that are presented will be awarded a presentation certificate.<br>
-                        ● The Best Paper certificate will be awarded to the author(s) of the best paper. The selection will be based on reviewers' comments and recommendations of the session chair.<br>
-                    </p>
-                    <br>
-
-                 
                 </div>
+
+                <strong>
+                    <h5 class="mt-3" style="font-weight: 700;">Review Process</h5>
+                </strong>
+                <p class="p-2">
+                    ● All submitted papers will be reviewed by at least 2 independent reviewers. Additional reviewers will be consulted if required.<br>
+                    ● All papers will go through a plagiarism checker. Plagiarism report must not exceed 20%.<br>
+                    ● All papers must be formatted according to the given template (Springer SIST).<br>
+                    ● Paper acceptance will be based on originality, significance, technical soundness, and clarity of presentation.<br>
+                    ● Authors must make sure that they submit previously unpublished papers to this conference.<br>
+                </p>
+                <strong>
+                    <h5 style="font-weight: 700;">Awards & Participation</h5>
+                </strong>
+                <p class="p-2">
+                    ● All accepted papers that are presented will be awarded a presentation certificate.<br>
+                    ● The Best Paper certificate will be awarded to the author(s) of the best paper. The selection will be based on reviewers' comments and recommendations of the session chair.<br>
+                </p>
+                <br>
             </div>
         </div>
     </div>
@@ -191,14 +227,24 @@
 
 
 <style>
-    h1, h5{
+    h1,
+    h5 {
         font-size: 24px !important;
     }
-    p{
-        font-size: 14px !important;
+
+    p {
+        font-size: 16px !important;
     }
+
     h3 {
         font-size: 24px !important;
         color: #1951A9;
+    }
+    .accordion-header button{
+        color: white !important;
+        background-color: #1951A9 !important;
+    }
+    .accordion-item{
+        border: 0 !important;
     }
 </style>

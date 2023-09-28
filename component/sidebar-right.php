@@ -1,24 +1,23 @@
 <div class="three-innar-2">
-
-    <h2 class="mb-3" style="text-align:center;color:black;font-size: 24px;"><sup class="badge bg-danger blinking-text">NEW </sup>IMPORTANT DATES</h2>
+    <h2 class="mb-3" style="text-align:center;color:black;font-size: 24px; font-weight:600">IMPORTANT DATES <sup class="badge bg-danger blinking-text">NEW </sup></h2>
     <div class="important-dates" style="text-align: left; background-color:white">
-        <div class="call p-0 m-0" style="font-size: 11px; font-weight:bold">
-            Call for Paper: <span class="red-text">1 November 2023</span><br>
+        <div class="call p-0 m-0" style="font-size: 13px; font-weight:bold">
+            Call for Paper: <span class="red-text">1<sup>st</sup> November, 2023</span><br>
             <hr class="p-0 my-2">
-            Last date for Paper Submission: <span class="red-text">30 May 2024</span><br>
+            Last date (Paper Submission): <span class="red-text">30<sup>th</sup> May, 2024</span><br>
             <hr class="p-0 my-2">
-            Acceptance Notification: <span class="red-text">30 June 2024</span><br>
+            Acceptance Notification: <span class="red-text">30<sup>th</sup> June, 2024</span><br>
             <hr class="p-0 my-2">
-            Late Date for Camera Ready Paper: <span class="red-text">14 July 2024</span><br>
+            Late Date for Camera Ready: <span class="red-text">14<sup>th</sup> July, 2024</span><br>
             <hr class="p-0 my-2">
-            Last date of registration: <span class="red-text">14 July 2024</span><br>
+            Last date of registration: <span class="red-text">14<sup>th</sup> July, 2024</span><br>
             <hr class="p-0 my-2">
-            Conference Dates: <span class="red-text">13-14 September 2024</span><br>
+            Conference Dates: <span class="red-text">13-14 September, 2024</span><br>
             <hr class="p-0 my-2">
         </div>
     </div>
-
-    <h2 style="text-align:center;color:#686868;font-size: 15px;">PAPER SUBMISSION</h2>
+    <br>
+    <h2 style="text-align:center;color:#686868;font-size: 15px;font-weight:600">PAPER SUBMISSION</h2>
     <div class=" three-content">
         <p style="text-align: center;"><span style="color:#FFFFFF;">Paper submission will be through CMT using the following link</span><br />
             <br />
@@ -31,11 +30,9 @@
 </div>
 
 <style>
-
     .red-text {
         font-weight: 500;
         color: red;
-        font-size: 11px;
+        font-size: 14px;
     }
-
 </style>

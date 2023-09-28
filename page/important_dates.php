@@ -1,30 +1,33 @@
-<div style="background-color:#f5f5f5">
-    <div class="banner-main">
-        <div class="container" style="width: 60%;">
+<div class="banner-main">
+    <div class="container mt-3 ">
+        <div class="about-innar-content committees">
+            <h1>Important Dates</h1>
+            <hr>
+        <div class="container-date" style="width: 50%;">
             <table class="table table-bordered">
                 <tbody>
                     <tr>
-                        <th scope="row" class="col-auto text-end">Call for Paper:</th>
+                        <th scope="row" class="col-auto text-start">Call for Paper:</th>
                         <td class="text-start">1 November 2023</td>
                     </tr>
                     <tr>
-                        <th scope="row" class="col-auto text-end">Last date for Paper Submission:</th>
+                        <th scope="row" class="col-auto text-start">Last date for Paper Submission:</th>
                         <td class="text-start">30 May 2024</td>
                     </tr>
                     <tr>
-                        <th scope="row" class="col-auto text-end">Acceptance Notification:</th>
+                        <th scope="row" class="col-auto text-start">Acceptance Notification:</th>
                         <td class="text-start">30 June 2024</td>
                     </tr>
                     <tr>
-                        <th scope="row" class="col-auto text-end">Late Date for Camera Ready Paper:</th>
+                        <th scope="row" class="col-auto text-start">Late Date for Camera Ready Paper:</th>
                         <td class="text-start">14 July 2024</td>
                     </tr>
                     <tr>
-                        <th scope="row" class="col-auto text-end">Last date of registration:</th>
+                        <th scope="row" class="col-auto text-start">Last date of registration:</th>
                         <td class="text-start">14 July 2024</td>
                     </tr>
                     <tr>
-                        <th scope="row" class="col-auto text-end">Conference Dates:</th>
+                        <th scope="row" class="col-auto text-start">Conference Dates:</th>
                         <td class="text-start">13-14 September 2024</td>
                     </tr>
                 </tbody>
@@ -36,6 +39,9 @@
 
         th{
             width: 50% !important;
+        }
+        td:hover{
+            /* text-shadow: 2px 2px 4px  red; */
         }
     </style>
 </div>

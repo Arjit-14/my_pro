@@ -354,7 +354,6 @@ a img {
 	font-size: 13px;
 	color: #262626;
 	text-align: justify;
-	line-height: 30px;
 	margin-bottom: 0px;
 }
 .about-innar-content p img {
@@ -367,7 +366,6 @@ margin-right: 20px;
 }
 .about-innar-content p a {
 	font-family: "Open Sans";
-	font-size: 13px;
 }
 .about-innar-content h2 {
 font-family: "Open Sans";
@@ -471,29 +469,28 @@ margin: 10px 10px;
 	color: red;
 }
 .about-innar-content table tr th {
-	width: 50%;
+	/* width: 50%; */
 	height: auto;
 	padding: 10px 10px;
-	font-size: 15px;
+	font-size: 16px;
 	color: #005388;
 	font-family: 'Muli', sans-serif;
 	font-weight: 600;
 	margin: 10px 0px 0px 0px;
 	text-transform: uppercase;
-	border-bottom: 2px solid #005388 !important;
+	/* border-bottom: 2px solid #005388 !important; */
 	border: 1px solid #ccc;
 	transition: .5s;
 }
 .about-innar-content table tr td {
 	height: auto;
 	padding: 10px 10px;
-	font-size: 14px;
-	color: #444;
-	font-family: "Open Sans";
+	font-size: 16px;
 	line-height: 23px;
 	text-align: justify;
 	border: 1px solid #ccc;
 	transition: .5s;
+    font-weight: 600;
 	width:30% !important;
 }
 /*about-page*/

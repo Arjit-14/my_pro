@@ -2,7 +2,6 @@
     <div class="container">
         <div class="row">
             <div class="about-innar">
-
                 <div class="col-lg-12">
                     <div class="about-innar-content">
                         <h1>Paper Submission</h1>
@@ -47,29 +46,6 @@
 
         <!--About-Page-Section-->
         <!-- Link-Section -->
-        <div class="col-lg-3">
-            <div class="three-innar-2">
-                <nav>
-                    <div class="nav-toggle dropdown"><a><a href="#">Navigation</a></a></div>
-                    <ul>
-                        <li class="dropdown"><a>Committees</a>
-                            <ul>
-                                <li class=8><a href='../committee/advisory-committee.html'>Advisory Committee</a></li>
-                                <li class=2><a href='../committee/general-chair.html'>General Chair</a></li>
-                                <li class=3><a href='../committee/organizing-chair.html'>Organizing Chair</a></li>
-                                <li class=6><a href='../committee/technical-program-committee.html'>Technical Program Committee</a></li>
-                                <li class=5><a href='../committee/publicity-committee.html'>Publicity Chair</a></li>
-                            </ul>
-                        </li>
-
-
-                        <li><a href='important_dates.html'>Important Dates</a></li>
-                        <li><a href='previous_icdsa_Conferences.html'>Previous ICCIS Conferences</a></li>
-                        <li><a href='registration_fee.html'>Registration Fee</a></li>
-
-                </nav>
-            </div>
-        </div>
 
 
         <!-- Link-Section -->
