@@ -21,7 +21,7 @@
     <div class=" three-content">
         <p style="text-align: center;"><span style="color:#FFFFFF;">Paper submission will be through CMT using the following link</span><br />
             <br />
-            <strong><span style="color:null;"><span style="background-color:#ffffcc;"><a href="https://cmt3.research.microsoft.com/ICDSA2023" target="_blank">
+            <strong><span style="color:null;"><span style="background-color:#ffffcc;"><a href="https://cmt3.research.microsoft.com/ICSCPS2024" target="_blank">
                             <font color="#ce0000">Paper Submission Link</font>
                         </a></span></span></strong>
         </p>

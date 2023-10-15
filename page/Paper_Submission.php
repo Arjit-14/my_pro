@@ -19,7 +19,7 @@
                         <p style="padding: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: &quot;Open Sans&quot;; font-size: 13px; color: rgb(38, 38, 38); text-align: justify; line-height: 25px;">&nbsp;</p>
 
                         <p style="padding: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: justify; line-height: 25px;"><span style="padding: 0px; margin: 0px;"><span style="padding: 0px; margin: 0px;">
-                                    <font color="#262626" face="Times New Roman, Times, serif"><span style="font-size: 16px;"><a href="https://cmt3.research.microsoft.com/ICDSA2023" target="_blank">https://cmt3.research.microsoft.com/ICCIS2023</a>.</span></font>
+                                    <font color="#262626" face="Times New Roman, Times, serif"><span style="font-size: 16px;"><a href="https://cmt3.research.microsoft.com/ICSCPS2024" target="_blank">https://cmt3.research.microsoft.com/ICSCPS2024</a>.</span></font>
                                 </span></span></p>
 
                         <p style="padding: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: &quot;Open Sans&quot;; font-size: 13px; color: rgb(38, 38, 38); text-align: justify; line-height: 25px;">&nbsp;</p>

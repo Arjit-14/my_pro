@@ -7,7 +7,7 @@
                 <h5>Chief Patron</h5>
                 <div class="mb-2">
                     <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
                             <img class="comittee-image" src="assets/images/committee/Picture 1.png" alt="Committee Member Image">
                         </div>
                         <div class="col-md-8">
@@ -19,7 +19,7 @@
                 <h5>Patrons</h5>
                 <div class="mb-2">
                     <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
                             <img class="comittee-image" src="assets/images/committee/Picture 2.png">
                         </div>
                         <div class="col-md-8">
@@ -30,7 +30,7 @@
                 </div>
                 <div class="mb-2">
                     <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
                             <img class="comittee-image" src="assets/images/committee/Picture 3.png">
                         </div>
                         <div class="col-md-8">
@@ -42,7 +42,7 @@
                 <h5>General Chairs</h5>
                 <div class="mb-2">
                     <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
                             <img class="comittee-image" src="assets/images/committee/Picture 4.png">
                         </div>
                         <div class="col-md-8">
@@ -55,7 +55,7 @@
 
                 <div class="mb-2">
                     <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
                             <img class="comittee-image" src="assets/images/committee/Picture 5.png">
                         </div>
                         <div class="col-md-8">
@@ -68,7 +68,7 @@
 
                 <div class="mb-2">
                     <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
                             <img class="comittee-image" src="assets/images/committee/Picture 6.png">
                         </div>
                         <div class="col-md-8">
@@ -81,7 +81,7 @@
 
                 <div class="mb-2">
                     <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
                             <img class="comittee-image" src="assets/images/committee/Picture 7.png">
                         </div>
                         <div class="col-md-8">
@@ -96,7 +96,7 @@
 
                 <div class="mb-2">
                     <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
                             <img class="comittee-image" src="assets/images/committee/Picture 8.png">
                         </div>
                         <div class="col-md-8">
@@ -109,7 +109,7 @@
 
                 <div class="mb-2">
                     <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
                             <img class="comittee-image" src="assets/images/committee/Picture 9.png">
                         </div>
                         <div class="col-md-8">
@@ -122,7 +122,7 @@
 
                 <div class="mb-2">
                     <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
                             <img class="comittee-image" src="assets/images/committee/Picture 10.png">
                         </div>
                         <div class="col-md-8">
@@ -135,7 +135,7 @@
 
                 <div class="mb-2">
                     <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
                             <img class="comittee-image" src="assets/images/committee/Picture 11.png">
                         </div>
                         <div class="col-md-8">
@@ -150,7 +150,7 @@
 
                 <div class="mb-2">
                     <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
                             <img class="comittee-image" src="assets/images/committee/Picture 12.png">
                         </div>
                         <div class="col-md-8">
@@ -163,7 +163,7 @@
 
                 <div class="mb-2">
                     <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
                             <img class="comittee-image" src="assets/images/committee/Picture 13.png">
                         </div>
                         <div class="col-md-8">
@@ -176,7 +176,7 @@
 
                 <div class="mb-2">
                     <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
                             <img class="comittee-image" src="assets/images/committee/Picture 14.png">
                         </div>
                         <div class="col-md-8">
@@ -189,7 +189,7 @@
 
                 <div class="mb-2">
                     <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
                             <img class="comittee-image" src="assets/images/committee/Picture 15.png">
                         </div>
                         <div class="col-md-8">
@@ -336,43 +336,43 @@
                 <ul class="my-2 list-group">
                     <!-- Researchers -->
                     <li class="list-group-item">
-                        <strong>Anup Kumar Das</strong>, Dr. B. C. Roy Engineering College, Durgapur-713206.
+                        <strong>Anup Kumar Das</strong>, Dr. B. C. Roy Engineering College, Durgapur, West Bengal, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Rashmi Soni</strong>, St. Martin's Engineering College, Hyderabad
+                        <strong>Rashmi Soni</strong>, St. Martin's Engineering College, Hyderabad, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Neeraj Mohan</strong>, IKG Punjab Technical University, Jalandhar (Punjab)
+                        <strong>Neeraj Mohan</strong>, IKG Punjab Technical University, Jalandhar, Punjab, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Vaibhav Gandhi</strong>, Parul University, Gujarat
+                        <strong>Vaibhav Gandhi</strong>, Parul University, Gujarat, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Harshal A. Arolkar</strong>, GLS University
+                        <strong>Harshal A. Arolkar</strong>, GLS University, Gujarat, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Narayana Swamy Ramaiah</strong>, School of Computer Science and Engineering, Jain Deemed to be University
+                        <strong>Narayana Swamy Ramaiah</strong>, School of Computer Science and Engineering, Jain Deemed to be University, Banglore, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Sandeep Joshi</strong>, Manipal University Jaipur
+                        <strong>Sandeep Joshi</strong>, Manipal University Jaipur, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Suman Shokeen</strong>, GD Goenka University
+                        <strong>Suman Shokeen</strong>, GD Goenka University, Haryana, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Vinay Rishiwal</strong>, MJP Rohilkhand University, Bareilly
+                        <strong>Vinay Rishiwal</strong>, MJP Rohilkhand University, Bareilly, Uttar Pradesh, India
                     </li>
                     <li class="list-group-item">
-                        <strong>SUNIL BHARDWAJ</strong>, Chandigarh University
+                        <strong>SUNIL BHARDWAJ</strong>, Chandigarh University, Chandigarh, Punjab, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Manas Ranjan Patra</strong>, Berhampur University
+                        <strong>Manas Ranjan Patra</strong>, Berhampur University, Odisha, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Arvind Kumar</strong>, IGNOU University
+                        <strong>Arvind Kumar</strong>, IGNOU University, New Delhi, India.
                     </li>
                     <li class="list-group-item">
-                        <strong>Alka Chaudhary</strong>, Amity University, Noida
+                        <strong>Alka Chaudhary</strong>, Amity University, Noida, India
                     </li>
                     <li class="list-group-item">
                         <strong>Biswaranjan Acharya</strong>, KIIT, Bhubaneswar, India
@@ -381,37 +381,37 @@
                         <strong>Akshat Agrawal</strong>, Amity University Haryana, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Amit Jain</strong>, Singhania University Udaipur
+                        <strong>Amit Jain</strong>, Singhania University Udaipur, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Amar Patnaik</strong>, MNIT, Jaipur
+                        <strong>Amar Patnaik</strong>, MNIT, Rajasthan, India
                     </li>
                     <li class="list-group-item">
                         <strong>Adithya Pothan Raj V</strong>, Cognizant Technology Solutions, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Ashish Mishra</strong>, Gyan Ganga Institute of Technology and Sciences, Jabalpur
+                        <strong>Ashish Mishra</strong>, Gyan Ganga Institute of Technology and Sciences, Madhya Pradesh, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Arun Solanki</strong>, Gautam Buddha University, Greater Noida
+                        <strong>Arun Solanki</strong>, Gautam Buddha University, Greater Noida, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Komal Bhagat</strong>, Guru Govind Singh Indraprastha University
+                        <strong>Komal Bhagat</strong>, Guru Govind Singh Indraprastha University, Delhi, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Avnish Bora</strong>, JIET Jodhpur, Rajasthan
+                        <strong>Avnish Bora</strong>, JIET Jodhpur, Rajasthan, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Chaitanya D L</strong>, GRIET
+                        <strong>Chaitanya D L</strong>, GRIET, Telangana, India
                     </li>
                     <li class="list-group-item">
-                        <strong>CSR Prabhu</strong>, Director Research KMIT, Hyderabad
+                        <strong>CSR Prabhu</strong>, Director Research KMIT, Telangana, India
                     </li>
                     <li class="list-group-item">
                         <strong>Debabrata Samanta</strong>, CHRIST (Deemed to be University), Bangalore, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Deepti Patole</strong>, K J Somaiya College of Engineering, Mumbai
+                        <strong>Deepti Patole</strong>, K J Somaiya College of Engineering, Mumbai, India
                     </li>
                     <!-- End of Researchers -->
                 </ul>
@@ -423,13 +423,151 @@
                     </h5>
                     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
                         <div class="accordion-body">
-                            <ul>
-                               <li class="heading">General Committee</li>
-                               <li class="heading">Publicity Committee</li>
-                               <li class="heading">Hospitality Committee</li>
-                               <li class="heading">IT Support Committee</li>
-                               <li class="heading">Registration and Attendee Committee</li>
-                               <li class="heading">Sponsership Committee</li>
+                            <ul class="p-0">
+                                <li class="heading">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">Finance Committee </button>
+                                </li>
+                                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                    <div class="accordion-body">
+                                        <ul class="p-0">
+                                            <li class="list-group-item ml-5">
+                                                <strong>Dr. Ashish Sharma</strong>,Associate Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                            <li class="list-group-item ml-5">
+                                                <strong>Dr. Riya Baby</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <li class="heading">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">Publicity Committee </button>
+                                </li>
+                                <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                    <div class="accordion-body">
+                                        <ul class="p-0">
+                                            <li class="list-group-item ml-5">
+                                                <strong>Prof. Vandana Mehndiratta</strong>,Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                            <li class="list-group-item ml-5">
+                                                <strong>Prof. Indu Verma</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                            <li class="list-group-item ml-5">
+                                                <strong>Mr. Yash Takhur</strong>, Student, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+
+                                <li class="heading">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">Hospitality Committee</button>
+                                </li>
+                                <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                    <div class="accordion-body">
+                                        <ul class="p-0">
+                                            <li class="list-group-item ml-5">
+                                                <strong>Dr. V Puneeth</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                            <li class="list-group-item ml-5">
+                                                <strong>Dr. Chandraketu</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                            <li class="list-group-item ml-5">
+                                                <strong>Dr. Merlin</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+
+                                <li class="heading">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">IT Support Committee</button>
+                                </li>
+                                <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                    <div class="accordion-body">
+                                        <ul class="p-0">
+                                            <li class="list-group-item ml-5">
+                                                <strong>Mr. Gokul G</strong>, IT Service, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <!-- Registration and Attendee Committee -->
+                                <li class="heading">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">Registration and Attendee Committee</button>
+                                </li>
+                                <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                    <div class="accordion-body">
+                                        <ul class="p-0">
+                                            <li class="list-group-item ml-5">
+                                                <strong>Dr. Stephen Raj</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                            <li class="list-group-item ml-5">
+                                                <strong>Dr. Abhinav Singhal</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                            <li class="list-group-item ml-5">
+                                                <strong>Dr. Ruchi Kaushik</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <!-- Website Committee -->
+                                <li class="heading">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">Website Committee</button>
+                                </li>
+                                <div id="collapseEleven" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                    <div class="accordion-body">
+                                        <ul class="p-0">
+                                            <li class="list-group-item ml-5">
+                                                <strong>Prof. Sumin</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                            <li class="list-group-item ml-5">
+                                                <strong>Mr. Priyanshu Kushwaha</strong>, Student, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <!-- Sponsors Committee -->
+                                <li class="heading">
+                                    <button class= "accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">Sponsors Committee</button>
+                                </li>
+                                <div id="collapseTwelve" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                    <div class="accordion-body">
+                                        <ul class="p-0">
+                                            <li class="list-group-item ml-5">
+                                                <strong>Dr. Vandana Sharma</strong>, Associate Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                            <li class="list-group-item ml-5">
+                                                <strong>Prof. Madan Singh</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                            <li class="list-group-item ml-5">
+                                                <strong>Ms. Amrit Kaur Saggu</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                            <li class="list-group-item ml-5">
+                                                <strong>Dr. Ansa Mathew</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <!-- Stage Committee -->
+                                <li class="heading">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">Stage Committee</button>
+                                </li>
+                                <div id="collapseThirteen" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                    <div class="accordion-body">
+                                        <ul class="p-0">
+                                            <li class="list-group-item ml-5">
+                                                <strong>Dr. Swati Agarwai</strong>, Associate Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                            <li class="list-group-item ml-5">
+                                                <strong>Dr. Manjula Shanbhog</strong>, Associate Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
                             </ul>
                         </div>
                     </div>
@@ -440,6 +578,11 @@
 </div>
 
 <style>
+    .ml-5 {
+
+        margin-left: 10px;
+    }
+
     .card-title {
         font-weight: 600;
     }
@@ -467,7 +610,9 @@
         margin-top: 10px;
     }
 
-    ul, li.heading{
-        font-weight: 500;
+    .accordion-button[aria-expanded="true"] {
+        font-weight: bold;
     }
+
+    
 </style>

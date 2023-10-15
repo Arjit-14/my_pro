@@ -1,5 +1,5 @@
-<footer class="p-4" style="background-color:#052658">
-    <div class="container text-light" style="width: 80%;">
+<footer class="p-4 mm" style="background-color:#052658">
+    <div class="container foot text-light" style="width: 80%;">
         <div class="row">
             <div class="col-md-4">
                 <h4 class="m-0" style="font-size: 24px; font-weight:900">CHRIST</h4>
@@ -53,3 +53,24 @@
         </div>
     </div>
 </footer>
+
+<style>
+    .foot{
+        width: 80% !important;
+    }
+    @media only screen and (max-width: 600px) {
+        .foot{
+            width: 100% !important;
+        }
+        .mm{
+            padding: 10px !important;
+        }
+        .coll{
+            margin-left: 15px !important;
+            justify-content: flex-start !important;
+        }
+        .container-date{
+            width: 100% !important;
+        }
+    }
+</style>

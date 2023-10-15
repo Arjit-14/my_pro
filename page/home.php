@@ -16,39 +16,28 @@
             </div>
 
             <div class="col-lg-6">
-                <div id="myCarousel" class="carousel slide h-100" data-bs-ride="carousel">
-                    <ol class="carousel-indicators">
-                        <li data-bs-target="#myCarousel" data-bs-slide-to="0" class="active"></li>
-                        <li data-bs-target="#myCarousel" data-bs-slide-to="1"></li>
-                        <li data-bs-target="#myCarousel" data-bs-slide-to="2"></li>
-                    </ol>
-                    <div class="carousel-inner h-100">
-                        <div class="carousel-item active h-100">
-                            <div class="image-container h-100">
-                                <img src="assets/images/Banner1.jpeg" alt="Image 1" class="img-fluid" style="width: 100%; height:100%;object-fit: cover;">
-                            </div>
-                            <div class="carousel-caption">
-                            </div>
-                        </div>
-                        <div class="carousel-ite h-100">
-                            <div class="image-container h-100">
-                                <img src="assets/images/Banner2.png" alt="Image 2" class="img-fluid" style="width: 100%;height:100%;object-fit: cover;">
-                            </div>
-                            <div class="carousel-caption">
-                            </div>
-                        </div>
-                    </div>
 
-                    <!-- Controls (arrows) -->
-                    <a class="carousel-control-prev" href="#myCarousel" role="button" data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Previous</span>
-                    </a>
-                    <a class="carousel-control-next" href="#myCarousel" role="button" data-bs-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Next</span>
-                    </a>
+                <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="assets/images/banner/1.png" class="d-block w-100" alt="Image 1">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="assets/images/banner/2.png" class="d-block w-100" alt="Image 2">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="assets/images/banner/3.png" class="d-block w-100" alt="Image 3">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="assets/images/banner/4.png" class="d-block w-100" alt="Image 3">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="assets/images/banner/5.png" class="d-block w-100" alt="Image 3">
+                        </div>
+                       
+                    </div>
                 </div>
+
             </div>
 
             <div class="col-lg-3 p-0">
@@ -148,9 +137,15 @@
     }
 
     /* Set height and width of carousel images */
-    .carousel-inner .carousel-item img {
+    .carousel-item {
+        width: 600px;
+        height: 500px;
+    }
+
+    /* Apply object-fit: cover to images */
+    .carousel-item img {
+        object-fit: cover;
         width: 100%;
         height: 100%;
-        object-fit: cover;
     }
 </style>
