@@ -560,7 +560,7 @@
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Dr. Swati Agarwai</strong>, Associate Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Dr. Swati Agarwal</strong>, Associate Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
                                                 <strong>Dr. Manjula Shanbhog</strong>, Associate Professor, CHRIST(Deemed to be University), Delhi-NCR Campus

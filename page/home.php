@@ -20,19 +20,19 @@
                 <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/banner/1.png" class="d-block w-100" alt="Image 1">
+                            <img src="assets/images/banner/1.png" class="d-block w-100" style="width: 100% !important;" alt="Image 1">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/banner/2.png" class="d-block w-100" alt="Image 2">
+                            <img src="assets/images/banner/2.png" class="d-block w-100" style="width: 100% !important;" alt="Image 2">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/banner/3.png" class="d-block w-100" alt="Image 3">
+                            <img src="assets/images/banner/3.png" class="d-block w-100" style="width: 100% !important;" alt="Image 3">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/banner/4.png" class="d-block w-100" alt="Image 3">
+                            <img src="assets/images/banner/4.png" class="d-block w-100" style="width: 100% !important;" alt="Image 3">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/banner/5.png" class="d-block w-100" alt="Image 3">
+                            <img src="assets/images/banner/5.png" class="d-block w-100" style="width: 100% !important;" alt="Image 3">
                         </div>
                        
                     </div>
@@ -138,7 +138,7 @@
 
     /* Set height and width of carousel images */
     .carousel-item {
-        width: 600px;
+        /* width: 600px; */
         height: 500px;
     }
 
