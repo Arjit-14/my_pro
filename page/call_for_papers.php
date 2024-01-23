@@ -10,7 +10,7 @@
                     </p>
                     <br>
                     <p>
-                        Authors are invited to submit original, previously unpublished research papers describing particular challenges or experiences or proposing novel solutions relevant to the scope of the conference. Papers must present original and unpublished work and should not be currently under review by any other conference or journal. Papers should be written in English and formatted according to the Springer LNCS one-column page format. Papers must have a length of 8-10 pages in LNCS format. For more detailed guidelines, please visit the official Springer Guidelines website.
+                        Authors are invited to submit original, previously unpublished research papers describing particular challenges or experiences or proposing novel solutions relevant to the scope of the conference. Papers must present original and unpublished work and should not be currently under review by any other conference or journal. Papers should be written in English and formatted according to the Springer Smart Innovation, Systems and Technologies one-column page format. Papers must have a length of 8-10 pages in Smart Innovation, Systems and Technologies format. For more detailed guidelines, please visit the official Springer Guidelines website.
                     </p>
                     <br>
                     <strong>
@@ -240,11 +240,13 @@
         font-size: 24px !important;
         color: #1951A9;
     }
-    .accordion-header button{
+
+    .accordion-header button {
         color: white !important;
         background-color: #1951A9 !important;
     }
-    .accordion-item{
+
+    .accordion-item {
         border: 0 !important;
     }
 </style>

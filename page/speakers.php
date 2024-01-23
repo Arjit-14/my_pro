@@ -50,8 +50,10 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="container m-3"><p>Keep checking for more updates</p></div>
+
+            <div class="container m-3">
+                <p>Keep checking for more updates</p>
+            </div>
         </div>
     </div>
 </div>

@@ -2,7 +2,7 @@
     <h2 class="mb-3" style="text-align:center;color:black;font-size: 24px; font-weight:600">IMPORTANT DATES <sup class="badge bg-danger blinking-text">NEW </sup></h2>
     <div class="important-dates" style="text-align: left; background-color:white">
         <div class="call p-0 m-0" style="font-size: 13px; font-weight:bold">
-            Call for Paper: <span class="red-text">1<sup>st</sup> November, 2023</span><br>
+            Call for Paper: <span class="red-text">20<sup>th</sup> January, 2024</span><br>
             <hr class="p-0 my-2">
             Last date (Paper Submission): <span class="red-text">30<sup>th</sup> May, 2024</span><br>
             <hr class="p-0 my-2">

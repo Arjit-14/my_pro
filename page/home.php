@@ -3,9 +3,17 @@
         <div class="row align-items-stretch">
             <div class="col-lg-3 p-0">
                 <div class="three-innar">
+
                     <h4 class="m-0" style="text-transform: uppercase; font-weight:600">Latest News</h4>
                     <hr>
-                    <p>News Updating soon..</p>
+                    <p>
+                        <b>Publication:</b> All ICSCPS 2024 presented papers will be published in conference proceedings by Springer <a href=https://www.springer.com/series/8767>‘Smart Innovation,Systems and Technologies’</a> ISSN: 2190-3018, Book Series.
+                        <br><br>
+                        <b>Indexing:</b> Indexed by SCOPUS, INSPEC, WTI Frankfurt eG, zbMATH, SCImago. All books published in the series are submitted for consideration in the Web of Science.
+                        <br><br>
+                        <b>Special Issue of Journals, keep checking for more updates...</b>
+                    </p>
+
                     <!-- <h2 style="text-align:center;color:#686868;font-size: 15px;font-weight: 600;margin: 10px 0px 10px 0px;text-transform: uppercase;">Proceedings Publication</h2>
                     <div class="three-content">
                         <img src="https://scrs.in/uploads/pages/1692642902.jpg" width="100">
@@ -13,6 +21,7 @@
                         <p>SCOPUS Indexed Springer Book Series,<br><a href="https://www.springer.com/series/15179" target="_blank"><strong>'Lecture Notes in Networks and Systems' </strong></a>(Submitted for Approval).&nbsp;</p>
                     </div> -->
                 </div>
+
             </div>
 
             <div class="col-lg-6">
@@ -34,7 +43,6 @@
                         <div class="carousel-item">
                             <img src="assets/images/banner/5.png" class="d-block w-100" style="width: 100% !important;" alt="Image 3">
                         </div>
-                       
                     </div>
                 </div>
 

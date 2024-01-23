@@ -11,7 +11,7 @@
                             <img class="comittee-image" src="assets/images/committee/Picture 1.png" alt="Committee Member Image">
                         </div>
                         <div class="col-md-8">
-                            <h5 class="card-title">Dr. Fr Joseph CC</h5>
+                            <h5 class="card-title">Fr Joseph CC</h5>
                             <p>Vice Chancellor, CHRIST (Deemed to be University), Bengaluru, Karnataka, India</p>
                         </div>
                     </div>
@@ -23,7 +23,7 @@
                             <img class="comittee-image" src="assets/images/committee/Picture 2.png">
                         </div>
                         <div class="col-md-8">
-                            <h5 class="card-title">Dr. Fr Viju P D</h5>
+                            <h5 class="card-title">Fr Viju P D</h5>
                             <p>Pro- Vice Chancellor, CHRIST (Deemed to be University), Bengaluru, Karnataka, India</p>
                         </div>
                     </div>
@@ -34,7 +34,7 @@
                             <img class="comittee-image" src="assets/images/committee/Picture 3.png">
                         </div>
                         <div class="col-md-8">
-                            <h5 class="card-title">Dr. Anil Joseph Pinto</h5>
+                            <h5 class="card-title">Anil Joseph Pinto</h5>
                             <p>Registrar, CHRIST (Deemed to be University), Bengaluru, Karnataka, India</p>
                         </div>
                     </div>
@@ -46,7 +46,7 @@
                             <img class="comittee-image" src="assets/images/committee/Picture 4.png">
                         </div>
                         <div class="col-md-8">
-                            <h5 class="card-title"><a href="https://scholar.google.com/citations?user=DJeVUz0AAAAJ&hl=en&oi=sra" target="_blank">Dr. Fr Jossy P George</a></h5>
+                            <h5 class="card-title"><a href="https://scholar.google.com/citations?user=DJeVUz0AAAAJ&hl=en&oi=sra" target="_blank">Fr Jossy P George</a></h5>
                             <p>Director & Dean, CHRIST (Deemed to be University), Delhi NCR, Ghaziabad, Uttar Pradesh, India</p>
                             <p>Email: <a href="mailto:frjossy@christuniversity.in">frjossy@christuniversity.in</a></p>
                         </div>
@@ -82,12 +82,12 @@
                 <div class="mb-2">
                     <div class="row align-items-center">
                         <div class="col-md-1 p-0 d-flex justify-content-end coll">
-                            <img class="comittee-image" src="assets/images/committee/Picture 7.png">
+                            <img class="comittee-image" src="assets/images/committee/citations.jpeg">
                         </div>
                         <div class="col-md-8">
-                            <h5 class="card-title"><a href="https://scholar.google.com/citations?user=WIjcVxEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Xiao-Zhi Gao</a></h5>
-                            <p>Faculty of Science, Forestry and Technology, School of Computing, University of Eastern Finland, Finland</p>
-                            <p>Email: <a href="mailto:xiao-zhi.gao@uef.fi">xiao-zhi.gao@uef.fi</a></p>
+                            <h5 class="card-title"><a href="https://scholar.google.com/citations?user=XaktX0wAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Valentina Emilia Balas</a></h5>
+                            <p>“Aurel Vlaicu” University of Arad, Romania </p>
+                            <p>Email: <a href="mailto:balas@drbalas.ro">balas@drbalas.ro</a></p>
                         </div>
                     </div>
                 </div>
@@ -199,260 +199,424 @@
                         </div>
                     </div>
                 </div>
-                <h5>International Technical Program Committee</h5>
+                <h5>Technical Program Committee</h5>
                 <ul class="my-2 list-group">
                     <li class="list-group-item">
-                        <strong>Xiufeng Liu</strong>, Technical University of Denmark - DTU, Denmark
+                        <strong>Mohd Shahid Husain</strong>, University of Technology and Applied Sciences, Ibri, Sultanate of Oman
                     </li>
                     <li class="list-group-item">
-                        <strong>Ritu Shandilya</strong>, Department of Computer and Data Science, Mount Mercy University, Iowa, USA
+                        <strong>Chirag Patel</strong>, Charotar University of Science and Technology (CHARUSAT) University, Gujarat, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Gonçalo Marques</strong>, University of Beira Interior R. Marquês de Ávila e Bolama, Covilhã, Portugal
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Valentina E. Balas</strong>, Automation and Applied Informatics, Aurel Vlaicu University of Arad, Romania
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Aikush Nazaryan</strong>, Samara State Medical University, Russia
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Akshay Sachdeva</strong>, NUS, Singapore
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Anil Sharma</strong>, Actuarial Associate, Prudential, Wash Building, Newark, USA
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Wan Azani Wan Mustafa</strong>, University Malaysia Perlis, Malaysia
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Christos Beretas</strong>, Innovative Knowledge Institute, France
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Rushit Dave</strong>, University of Wisconsin - Eau Claire, United States
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Nahid Fatima</strong>, Princess Noura University Riyadh, Saudi Arabia
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Ferdous Hossain</strong>, Multimedia University, Malaysia
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Fernaz Narin Nur</strong>, Notre Dame University Bangladesh, Bangladesh
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Gai-Ge Wang</strong>, Department of Computer Science and Technology, Ocean University of China, China
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Mouss Liela-Hayet</strong>, Laboratory of Automation and Manufacturing Engineering University of Batna, Batna, Algeria
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Hai Pham Van</strong>, Hanoi University of Science and Technology, Vietnam
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Hermanus Vermaak</strong>, Central University of Technology, Free State, South Africa
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Jaishankar Bharatharaj</strong>, Auckland University of Technology, New Zealand
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Lius</strong>, Boston University, United States
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Magdy Mahmoud</strong>, Faculty of Computers and Informatics, Suez Canal University, Egypt
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Ruben Martin-Clemente</strong>, University of Seville, Spain
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Zuherman Rustam</strong>, University of Indonesia, Indonesia
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Tej Singh</strong>, Eötvös Loránd University, Hungary
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Sunil Kumar Khatri</strong>, Amity University Tashkent, Uzbekistan
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Sheng-Lung Peng</strong>, National Taipei University of Business, Taipei, Taiwan
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Lakshmi Narasimhan</strong>, University of Botswana, Botswana
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Sujala Shetty</strong>, BITS-Pilani, Dubai, United Arab Emirates
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Rita Yi Man Li</strong>, Hong Kong Shue Yan University, Hong Kong
-                    </li>
-                    <!-- Additional Researchers -->
-                    <li class="list-group-item">
-                        <strong>D. L. Suthar</strong>, College of Natural Sciences Wollo University, Dessie, Ethiopia
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Chakchai So-In</strong>, Department of Computer Science at Khon Kaen University, Thailand
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Md. Rashedul Islam</strong>, Faculty of Engineering, University of the Ryukyus, Japan
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Edward Randolph Collins</strong>, Department of Electrical and Computer Engineering, Clemson University, United States
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Yu-Dong Zhang</strong>, Professor, University of Leicester, UK
-                    </li>
-                    <li class="list-group-item">
-                        <strong>João Manuel R. S. Tavares</strong>, Faculty of Engineering, University of Porto, Portugal
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Mike Hinchey</strong>, University of Limerick, Ireland
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Monomita Nandy</strong>, Brunel University, UK
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Burcu Gürbüz</strong>, Johannes Gutenberg University of Mainz, Germany
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Michele Mastroianni</strong>, Universita della Campania Luigi Vanvitelli, Italy
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Rocío P. Prado</strong>, University of Jaén, Spain
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Stamatis Papadakis</strong>, University of Crete, Greece
-                    </li>
-                    <li class="list-group-item">
-                        <strong>J. Joshua Thomas</strong>, UOW Malaysia, KDU Penang University College, Malaysia
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Ashish Kr. Luhach</strong>, Papua New Guinea University of Technology, Lae, Papua New Guinea
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Mohd Shahid Husain</strong>, Ministry of Higher Education, Oman
-                    </li>
-                </ul>
-                <h5>National Technical Program Committee</h5>
-                <ul class="my-2 list-group">
-                    <!-- Researchers -->
-                    <li class="list-group-item">
-                        <strong>Anup Kumar Das</strong>, Dr. B. C. Roy Engineering College, Durgapur, West Bengal, India
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Rashmi Soni</strong>, St. Martin's Engineering College, Hyderabad, India
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Neeraj Mohan</strong>, IKG Punjab Technical University, Jalandhar, Punjab, India
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Vaibhav Gandhi</strong>, Parul University, Gujarat, India
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Harshal A. Arolkar</strong>, GLS University, Gujarat, India
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Narayana Swamy Ramaiah</strong>, School of Computer Science and Engineering, Jain Deemed to be University, Banglore, India
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Sandeep Joshi</strong>, Manipal University Jaipur, India
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Suman Shokeen</strong>, GD Goenka University, Haryana, India
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Vinay Rishiwal</strong>, MJP Rohilkhand University, Bareilly, Uttar Pradesh, India
-                    </li>
-                    <li class="list-group-item">
-                        <strong>SUNIL BHARDWAJ</strong>, Chandigarh University, Chandigarh, Punjab, India
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Manas Ranjan Patra</strong>, Berhampur University, Odisha, India
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Arvind Kumar</strong>, IGNOU University, New Delhi, India.
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Alka Chaudhary</strong>, Amity University, Noida, India
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Biswaranjan Acharya</strong>, KIIT, Bhubaneswar, India
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Akshat Agrawal</strong>, Amity University Haryana, India
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Amit Jain</strong>, Singhania University Udaipur, India
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Amar Patnaik</strong>, MNIT, Rajasthan, India
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Adithya Pothan Raj V</strong>, Cognizant Technology Solutions, India
-                    </li>
-                    <li class="list-group-item">
-                        <strong>Ashish Mishra</strong>, Gyan Ganga Institute of Technology and Sciences, Madhya Pradesh, India
+                        <strong>Y. Justin Dhas</strong>, SRM Easwari Engineering College, India
                     </li>
                     <li class="list-group-item">
                         <strong>Arun Solanki</strong>, Gautam Buddha University, Greater Noida, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Komal Bhagat</strong>, Guru Govind Singh Indraprastha University, Delhi, India
+                        <strong>Deepak Sinwar</strong>, Manipal University Jaipur, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Avnish Bora</strong>, JIET Jodhpur, Rajasthan, India
+                        <strong>Vinod Gill</strong>, Govt. College Nalwa (Hisar), Haryana, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Chaitanya D L</strong>, GRIET, Telangana, India
+                        <strong>Gaurav Purohit</strong>, CSIR-Central Electronics Engineering Research Institute (CSIR-CEERI), Pilani, India
                     </li>
                     <li class="list-group-item">
-                        <strong>CSR Prabhu</strong>, Director Research KMIT, Telangana, India
+                        <strong>Ekata Gupta</strong>, Guru Nanak Institute of Management, Delhi NCR, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Debabrata Samanta</strong>, CHRIST (Deemed to be University), Bangalore, India
+                        <strong>Deepa Kharb</strong>, Indian Law Institute, New Delhi, India
                     </li>
                     <li class="list-group-item">
-                        <strong>Deepti Patole</strong>, K J Somaiya College of Engineering, Mumbai, India
+                        <strong>Ekbal Rashid</strong>, RTC Institute of Technology, India
                     </li>
-                    <!-- End of Researchers -->
+                    <li class="list-group-item">
+                        <strong>Ravi M Yadahalli</strong>, Methodist College of Engineering and Technology, Hyderabad, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Nahid Fatima</strong>, Prince Sultan University, KSA
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Leo John Baptist</strong>, Botho University, Gaborone, Botswana
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Ashraful Islam</strong>, Independent University Bangladesh, Dhaka, Bangladesh
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Nishant Kumar</strong>, CHRIST ( Deemed to be University), Bangalore, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Abdel-Salam G.</strong>, Qatar University, Qatar
+                    </li>
+                    <li class="list-group-item">
+                        <strong>M.S. Suhail Razeeth</strong>, South Eastern University of Sri Lanka
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Milan Tuba</strong>, Singidunum University, Belgrade, Serbia; Sinergija University, Bijeljina, BiH
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Md. Sabir Hossain</strong>, Chittagong University of Engineering & Technology (CUET), Bangladesh
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Ekbal Rashid</strong>, RTC Institute of Technology, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Prashant Vats</strong>, Manipal University Jaipur, Rajasthan, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Vishal Khatri</strong>, Bhagwan Parshuram Institute of Technology, GGSIP University, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Soumi Ghosh</strong>, Maharaja Agrasen Institute of Technology, Delhi, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Osama Hassan</strong>, Abu Dhabi Polytechnic, Abu Dhabi - United Arab Emirates
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Valentina Emilia Balas</strong>, Aurel Vlaicu University of Arad, Romania
+                    </li>
+                    <li class="list-group-item">
+                        <strong>RK. Ahmadh Rifai Kariapper</strong>, South Eastern University, Oluvil
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Merhawit Berhane Teklu</strong>, Chosun University, Gwangju, Republic of Korea
+                    </li>
+                    <li class="list-group-item">
+                        <strong>RK. Ahmadh Rifai Kariapper</strong>, South Eastern University of Sri Lanka, Sri Lanka
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Xiao-Zhi Gao</strong>, University of Eastern Finland, Finland
+                    </li>
+                    <li class="list-group-item">
+                        <strong>D.L. Suthar</strong>, Wollo University, Dessie, Ethiopia
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Nazmun Nessa Moon</strong>, Daffodil International University, Dhaka, Bangladesh
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Magdy Shayboub Ali Mahmoud</strong>, Suez Canal University , Egypt
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Igor Ivanov</strong>, Agrarian University of Ecuador, Belgorod State Technological University, Russia
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Argha Sarkar</strong>, REVA University, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Anwar Basha H</strong>, REVA University, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Shaik Thasleem Bhanu</strong>, Rajalakshmi Engineering College, Chennai, Tamil Nadu, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Pasuluri Bindu Swetha</strong>, Vardhaman College of Engineering, Hyderabad, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Gudipati Murali</strong>, KKR & KSR Institute of Technology & Sciences, Guntur, Andhra Pradesh, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Jayesh Kumar Madhubhai Patel</strong>, Ganpat University, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Basant Agrawal</strong>, Central University of Rajasthan, India
+                    </li>
+                </ul>
+
+                <h5>International Advisory Board</h5>
+                <ul class="my-2 list-group">
+                    <li class="list-group-item">
+                        <strong>Saydul Akbar Murad</strong>, University of Southern Mississippi, Hattiesburg, USA
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Martin Margala</strong>, University of Louisiana at Lafayette, United States
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Sivaneasan</strong>, Singapore Institute of Technology, 10 Dover Drive, Singapore
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Bhuvan Unhelkar</strong>, University of South Florida, 4202 E Fowler Ave, Tampa, FL 33620, USA
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Bui Thanh Hung</strong>, Ton Duc Thang university, Vietnam
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Pawan Roy</strong>, ArcelorMittal, South Africa
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Mouss</strong>, Batna 2 University, Batna, Algeria
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Jorge Hernandez</strong>, Universidad Distrital Francisco Jose de Caldas, Bogota, Colombia
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Sérgio Correia</strong>, Portalegre Polytechnic University, Portugal
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Sugam Sharma</strong>, Iowa State University SUF/eLegalls, Ames, Iowa, USA
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Annamalai Alagappan</strong>, Botho University, Botswana
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Felix Korbla Akorli</strong>, Kwame Nkrumah University of Science and Technology - KNUST, Kumasi, Ghana
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Danish Nadeem</strong>, Marsh McLennan, Denmark
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Dmytro Chumachenko</strong>, National Aerospace University - Kharkiv Aviation Institute, Ukraine
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Md Kowsher</strong>, Stevens Institute of Technology Hoboken, NJ, USA
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Kateryna Kolesnikova</strong>, International IT University, Almaty, Kazakhstan
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Dhiah Al-Shammary</strong>, University of Al-Qadisiyah, Dewaniyah, Iraq
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Eva Tuba</strong>, Trinity University, San Antonio, TX; Singidunum University, Belgrade, Serbia
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Wan Azani Mustafa</strong>, Universiti Malaysia Perlis, Malaysia
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Samreen Jafri</strong>, Imam Abdulrahman bin Faisal University, KSA
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Rita Yi Man Li</strong>, Hong Kong Shue Yan University, North Point, Hong Kong
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Fazlourrahman Balouchzahi</strong>, CIC, IPN-Computing Research Center, Mexico
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Fernaz Narin Nur</strong>, Notre Dame University Bangladesh, Dhaka, Bangladesh
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Ashish Kumar Luhach</strong>, The Papua New Guinea University of Technology, Papua New Guinea
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Nahid Fatima</strong>, Prince Sultan University, Riyadh, Saudi Arabia
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Zerhouni</strong>, ENSMM/Femto-ST Besançon, Besançon, France
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Vijander Singh</strong>, Norwegian University of Science and Technology, Norway
+                    </li>
+                </ul>
+
+                <h5>National Advisory Board</h5>
+                <ul class="my-2 list-group">
+                    <li class="list-group-item">
+                        <strong>Umesh Kumar Singh</strong>, Vikram University, Ujjain, Madhya Pradesh, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Jyothi Pillai</strong>, Bhilai Institute of Technology, Durg (C.G.), India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Pradeep Kumar Dabla</strong>, G.B. Pant Institute of Postgraduate Medical Education & Research (GIPMER), Delhi, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Priyanka Bhaskar</strong>, Central University of Rajasthan, Ajmer, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Saravanan K</strong>, College of Engineering Guindy Anna University, Chennai, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Amit Jain</strong>, OP Jindal University, Raigarh, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Dhruv Khadia</strong>, Ministry of Personnel Public Grievances and Pensions, Government of Uttar Pradesh, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Sonu Mittal</strong>, Amity University Uttar Pradesh, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Pravin R. Kshirsagar</strong>, Tulsiramji Gaikwad Patil College of Engineering & Technology, Nagpur, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>A K Sharma</strong>, University of Kota, Rajasthan, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Mohd Naved</strong>, SOIL School of Business Design, Manesar, Haryana, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Sudhir Akojwar</strong>, Government College of Engineering, Ratnagiri, Maharashtra, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Milind Khanapurkar</strong>, Cummins College of Engineering for Women, Nagpur, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>V K Saraswat</strong>, Institute of Engineering and Technology, Dr B R Ambedkar University, Khandari Campus, Agra, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Meena Agrawal</strong>, MANIT, Bhopal, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Charles Babu G</strong>, Gokaraju Rangaraju Institute of Engineering and Technology (Autonomous), Hyderabad, Telangana, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Divya Gangwar</strong>, Akhilesh Das Gupta Institute of Technology and Management, GGSIPU, New Delhi, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>K. V. S. S. S. S. SAIRAM</strong>, N.M.A.M. Institute of Technology, Karnataka, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Ankit Verma</strong>, Akhilesh Das Gupta Institute of Technology and Management, GGSIPU, New Delhi, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Deepak Mehta</strong>, Chandigarh University, Mohali, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Dhyanendra Jain</strong>, ABES Engineering College, Ghaziabad, Uttar Pradesh, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Amit Kumar Pandey</strong>, ABES Engineering College, Ghaziabad, Uttar Pradesh, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Anupam Kumar Sharma</strong>, Galgotias University, Gautam Budh Nagar, Uttar Pradesh, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Jyoti Parashar</strong>, Akhilesh Das Gupta Institute of Technology and Management, GGSIPU, New Delhi, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Mustafizul Haque</strong>, D.Y. Patil Vidyapeeth, Pune (Deemed To Be University), Maharashtra, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Ayush Dogra</strong>, Chitkara University, Punjab, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Ajay Saini</strong>, Arya College of Engineering, Jaipur, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Biswaranjan Acharya</strong>, Marwadi University, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Madhu B</strong>, Ambedkar Institute of Technology, Bangalore, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Suman Madan</strong>, JIMS, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Anup Kumar Das</strong>, B. C.Roy Engineering College, Durgapur, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Anand Kumar Pandey</strong>, ITM University Gwalior, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Sasikumar P</strong>, Vellore Institute of Technology, Vellore, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>S. D. Ruikar</strong>, Walchand College of Engineering, Sangli, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>VR Singh</strong>, National Physical Laboratory (NPL), New Delhi, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>S Mahaboob Hussain</strong>, Vishnu Institute of Technology, Andhra Pradesh, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Arvind Kumar</strong>, Manav Rachna International Institute of Research and Studies, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Malini A</strong>, Thiagarajar College of Engineering, Madurai, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Shalini Aggarwal</strong>, Chandigarh University, Mohali, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Mohit Tiwari</strong>, Bharati Vidyapeeth's College of Engineering, Delhi, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Abhishek Bajpai</strong>, Government Engineering College, Kannuaj, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Kavitha KS</strong>, Dayananda Sagar College of Engineering, Bengaluru, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Harshal A. Arolkar</strong>, GLS (Gujarat Law Society) University, Ahmedabad, Gujarat, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Avnish Bora</strong>, Jodhpur Institute of Engineering and Technology (JIET), Jodhpur, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Dhanapal A</strong>, Dell EMC R&D, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Pushpalatha N</strong>, Eshwar College of Engineering, Coimbatore, Tamilnadu, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Ashish Mishra</strong>, Gyan Ganga Institute of Technology and Sciences, Jabalpur, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Subhrendu Guha Neogi</strong>, The Neotia University, West Bengal, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Ashok G Matani</strong>, Government College of Engineering, Jalgaon, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Rajakumar R</strong>, Vellore Institute of Technology Chennai, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Pankaj Dadheech</strong>, Swami Keshvanand Institute of Technology, Management & Gramothan (SKIT), Jaipur, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Kapil Khatter</strong>, Poornima University, Jaipur, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Vaibhav Gandhi</strong>, Faculty Development and Updation, Parul University, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>K. Venkat Satish</strong>, Rajiv Gandhi University of Knowledge Technologies, Nuzvid, Andhra Pradesh, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Mayuri Kundu</strong>, Reva Institute of Technology and Management, Karnataka, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>C.S R.Prabhu</strong>, Keshav Memorial Institute of Technology, Hyderabad, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Prerna Ajmani</strong>, Vivekananda Institute of Professional Studies, New Delhi, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Radhey Shyam Meena</strong>, Ministry of New & Renewable Energy, New Delhi, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Alka Chaudhary</strong>, Amity University Uttar Pradesh, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Prateek Agrawal</strong>, Lovely Professional University, Punjab, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Vishu Madaan</strong>, Lovely Professional University, India
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Linesh Raja</strong>, Manipal University Jaipur, Rajasthan, India
+                    </li>
                 </ul>
                 <div class="accordion-item">
                     <h5 class="accordion-header" id="headingFive">
-                        <button style="font-size: 20px; font-weight: bold;" class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                        <button style="font-size: 20px; font-weight: bold;" class="accordion-button" type="button">
                             Organizing Committee
                         </button>
                     </h5>
-                    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                    <div id="collapseFive" class="accordion-collapse show" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
                         <div class="accordion-body">
                             <ul class="p-0">
                                 <li class="heading">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">Finance Committee </button>
+                                    <button class="accordion-button" type="button" data-bs-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">Publication Committee </button>
                                 </li>
-                                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                <div id="collapseFourteen" class="accordion-collapse show" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Dr. Ashish Sharma</strong>,Associate Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Ramesh Chandra Poonia</strong>, Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Dr. Riya Baby</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <li class="heading">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">Publicity Committee </button>
-                                </li>
-                                <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
-                                    <div class="accordion-body">
-                                        <ul class="p-0">
-                                            <li class="list-group-item ml-5">
-                                                <strong>Prof. Vandana Mehndiratta</strong>,Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
-                                            </li>
-                                            <li class="list-group-item ml-5">
-                                                <strong>Prof. Indu Verma</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
-                                            </li>
-                                            <li class="list-group-item ml-5">
-                                                <strong>Mr. Yash Takhur</strong>, Student, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Kamal Upreti</strong>, Associate Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
                                             </li>
                                         </ul>
                                     </div>
@@ -460,19 +624,35 @@
 
 
                                 <li class="heading">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">Hospitality Committee</button>
+                                    <button class="accordion-button" type="button" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">Finance Committee </button>
                                 </li>
-                                <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                <div id="collapseSix" class="accordion-collapse show" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Dr. V Puneeth</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Ashish Sharma</strong>, Associate Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Dr. Chandraketu</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Riya Baby</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <li class="heading">
+                                    <button class="accordion-button" type="button" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">Collaboration Committee </button>
+                                </li>
+                                <div id="collapseSix" class="accordion-collapse show" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                    <div class="accordion-body">
+                                        <ul class="p-0">
+                                            <li class="list-group-item ml-5">
+                                                <strong>Shilpa Srivastava</strong>, Associate Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Dr. Merlin</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Vidushi</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                            <li class="list-group-item ml-5">
+                                                <strong>Lata Yadav</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
                                             </li>
                                         </ul>
                                     </div>
@@ -480,13 +660,69 @@
 
 
                                 <li class="heading">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">IT Support Committee</button>
+                                    <button class="accordion-button" type="button" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">Confererence Proceedings</button>
                                 </li>
-                                <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                <div id="collapseSix" class="accordion-collapse show" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Mr. Gokul G</strong>, IT Service, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Varuna Gupta</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                            <li class="list-group-item ml-5">
+                                                <strong>Preety</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <li class="heading">
+                                    <button class="accordion-button" type="button" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">Publicity Committee </button>
+                                </li>
+                                <div id="collapseSeven" class="accordion-collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                    <div class="accordion-body">
+                                        <ul class="p-0">
+                                            <li class="list-group-item ml-5">
+                                                <strong>Vandana Mehndiratta</strong>,Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                            <li class="list-group-item ml-5">
+                                                <strong>Indu Verma</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                            <li class="list-group-item ml-5">
+                                                <strong>Yash Takhur</strong>, Student, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+
+                                <li class="heading">
+                                    <button class="accordion-button" type="button" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">Hospitality Committee</button>
+                                </li>
+                                <div id="collapseEight" class="accordion-collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                    <div class="accordion-body">
+                                        <ul class="p-0">
+                                            <li class="list-group-item ml-5">
+                                                <strong>Ellumkalayil Merlin Thomas</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                            <li class="list-group-item ml-5">
+                                                <strong>Garima Anand</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                            <li class="list-group-item ml-5">
+                                                <strong>Lawrence Kujur</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+
+                                <li class="heading">
+                                    <button class="accordion-button" type="button" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">IT Support Committee</button>
+                                </li>
+                                <div id="collapseNine" class="accordion-collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                    <div class="accordion-body">
+                                        <ul class="p-0">
+                                            <li class="list-group-item ml-5">
+                                                <strong>Gokul G</strong>, IT Service, CHRIST (Deemed to be University), Delhi-NCR Campus
                                             </li>
                                         </ul>
                                     </div>
@@ -494,19 +730,19 @@
 
                                 <!-- Registration and Attendee Committee -->
                                 <li class="heading">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">Registration and Attendee Committee</button>
+                                    <button class="accordion-button " type="button" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">Registration and Attendee Committee</button>
                                 </li>
-                                <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                <div id="collapseTen" class="accordion-collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Dr. Stephen Raj</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Stephen Raj</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Dr. Abhinav Singhal</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Abhinav Singhal</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Dr. Ruchi Kaushik</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Ruchi Kaushik</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
                                             </li>
                                         </ul>
                                     </div>
@@ -514,16 +750,16 @@
 
                                 <!-- Website Committee -->
                                 <li class="heading">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">Website Committee</button>
+                                    <button class="accordion-button " type="button" data-bs-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">Website Committee</button>
                                 </li>
-                                <div id="collapseEleven" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                <div id="collapseEleven" class="accordion-collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Prof. Sumin</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Sumin Sybol</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Mr. Priyanshu Kushwaha</strong>, Student, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Priyanshu Kushwaha</strong>, Student, CHRIST (Deemed to be University), Delhi-NCR Campus
                                             </li>
                                         </ul>
                                     </div>
@@ -531,22 +767,22 @@
 
                                 <!-- Sponsors Committee -->
                                 <li class="heading">
-                                    <button class= "accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">Sponsors Committee</button>
+                                    <button class="accordion-button " type="button" data-bs-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">Sponsors Committee</button>
                                 </li>
-                                <div id="collapseTwelve" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                <div id="collapseTwelve" class="accordion-collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Dr. Vandana Sharma</strong>, Associate Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Vandana Sharma</strong>, Associate Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Prof. Madan Singh</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Madan Singh</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Ms. Amrit Kaur Saggu</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Amrit Kaur Saggu</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Dr. Ansa Mathew</strong>, Assistant Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Ansa Mathew</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
                                             </li>
                                         </ul>
                                     </div>
@@ -554,16 +790,16 @@
 
                                 <!-- Stage Committee -->
                                 <li class="heading">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">Stage Committee</button>
+                                    <button class="accordion-button " type="button" data-bs-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">Stage Management and Student Discipline Committee</button>
                                 </li>
-                                <div id="collapseThirteen" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
+                                <div id="collapseThirteen" class="accordion-collapse" aria-labelledby="headingFive" data-bs-parent="#textAccordion">
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Dr. Swati Agarwal</strong>, Associate Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Swati Agarwal</strong>, Associate Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Dr. Manjula Shanbhog</strong>, Associate Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Manjula Shanbhog</strong>, Associate Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
                                             </li>
                                         </ul>
                                     </div>
@@ -613,6 +849,4 @@
     .accordion-button[aria-expanded="true"] {
         font-weight: bold;
     }
-
-    
 </style>

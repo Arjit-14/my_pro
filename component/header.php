@@ -37,21 +37,51 @@
                 </div>
             </div>
 
-            <div class="logo-main">
+            <!-- <div class="logo-main">
                 <div class="container p-2 text-center">
                     <h3 style="color:#1651a9"> <strong>International Conference on Smart Cyber Physical Systems (ICSCPS’24)</strong></h3>
                     <h5>Organized in In-person and Online (Hybrid Mode) by</h5>
-                    <!-- <a href="https://ncr.christuniversity.in/"></a> -->
                     <h4 style="color:#1651a9">Department of Computer Science</h4>
                     <h4 style="color:#1651a9">CHRIST (Deemed to be University) Delhi NCR, India</h4>
                     <h5 class="date-container" style="font-weight:bold">September 13 - 14, 2024</h5>
+                </div>
+            </div> -->
+
+            <div class="logo-main">
+                <div class="p-2 text-center" style="display: flex; justify-content: space-between; align-items: center;">
+
+                    <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+                        <img src="assets/images/scopus.jpg" alt="scopus_logo" style="width: 100px;">
+                        <img src="assets/images/springer_partner.png" alt="Left Image" style="width: 100px;">
+                        <p><b>PUBLICATION PARTNER</b></p>
+                    </div>
+
+                    <div style="flex: 6; text-align: center;">
+                        <h3 style="color:#1651a9"> <strong>International Conference on Smart Cyber Physical Systems (ICSCPS’24)</strong></h3>
+                        <h5>Organized in In-person and Online (Hybrid Mode) by</h5>
+                        <h4 style="color:#1651a9">Department of Computer Science</h4>
+                        <h4 style="color:#1651a9">CHRIST (Deemed to be University) Delhi NCR, India</h4>
+                        <h5 class="date-container" style="font-weight:bold">September 13 - 14, 2024</h5>
+                    </div>
+
+                    <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+                        <a href="https://www.springer.com/series/8767">
+                            <img src="https://media.springernature.com/w92/springer-static/cover/series/8767.jpg" alt="Right Image" style="width: 100px;">
+                        </a>
+                        <p><b>PROCEEDINGS PUBLICATION</b></p>
+                    </div>
+
                 </div>
             </div>
         </div>
 
         <div class="marquee-container">
             <div class="marquee">
-                <span><b>The after-conference proceeding of the ICSCPS’24 will be published in SCOPUS Indexed Springer Book Series, ‘Smart Innovation,Systems and Technologies’ (Submitted for Approval)&nbsp;</b></span>
+                <a href="https://www.springer.com/series/8767" style="color:white;" target="_blank">
+                    <span>
+                        <b>The after-conference proceeding of the ICSCPS’24 will be published in SCOPUS Indexed Springer Book Series, ‘Smart Innovation, Systems and Technologies’&nbsp;</b>
+                    </span>
+                </a>
             </div>
         </div>
 
@@ -76,7 +106,8 @@
                             <a class="nav-link dropdown-toggle" href="#" id="paperSubmissionDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Paper Submission
                             </a>
-                            <div class="dropdown-menu" style="width: 100%;" aria-labelledby="paperSubmissionDropdown">
+                            <div class="dropdown-menu" aria-labelledby="paperSubmissionDropdown">
+                                <a class="dropdown-item" href="?page=instruction">Instruction for Authors</a>
                                 <a class="dropdown-item" href="?page=call_for_papers">Call for Papers</a>
                                 <a class="dropdown-item" href="?page=important_dates">Important Dates</a>
                                 <a class="dropdown-item" href="?page=Paper_Submission">Submission Form</a>
@@ -88,7 +119,7 @@
                             <a class="nav-link" href="?page=Call_for_sponsors">Call for Sponsors</a>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="?page=venue"  id="paperSubmissionDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Venue</a>
+                            <a class="nav-link dropdown-toggle" href="?page=venue" id="paperSubmissionDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Venue</a>
                             <div class="dropdown-menu" style="width: 100%;" aria-labelledby="paperSubmissionDropdown">
                                 <a class="dropdown-item" href="?page=venue">Conference Venue</a>
                                 <a class="dropdown-item" href="https://ncr.christuniversity.in/how-to-reach-ncr-campus" target="_blank">Transportation</a>
@@ -128,10 +159,11 @@
             text-shadow: 2px 2px 4px red;
         }
 
-        .date-container{
+        .date-container {
             transition: color 0.3s;
         }
-        .date-container:hover{
+
+        .date-container:hover {
             color: #1651a9;
             /* text-shadow: 2px 2px 4px #1651a9; */
 

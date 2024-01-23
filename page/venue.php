@@ -162,7 +162,7 @@
                                     <p>
                                         Jama Masjid, built by Emperor Shah Jahan between 1644 and 1656, is an exemplary piece of Mughal architecture. The mosque's grand courtyard can accommodate thousands of worshippers. Visitors can also climb the minaret for breathtaking views of Old Delhi. The mosque is a serene place for prayer and reflection.
                                     </p>
-                                 
+
                                 </div>
 
                                 <!-- Place 7 Image (col-md-6) -->
@@ -191,24 +191,26 @@
             font-size: 16px;
         }
 
-        .place-image  {
+        .place-image {
             padding: 20px;
             width: 500px;
             height: 400px;
             overflow: hidden;
         }
 
-        .place-image  img {
+        .place-image img {
             width: 100%;
             height: 100%;
             object-fit: cover;
         }
-        .website{
+
+        .website {
             color: #1651a9;
             font-weight: 600;
             font-size: 14px;
         }
-        .website a{
+
+        .website a {
             font-size: 14px !important;
         }
     </style>

@@ -68,9 +68,9 @@
                 </div>
             </div>
             <style>
-                .required{
+                .required {
                     color: red;
                 }
-                </style>
+            </style>
         </div>
     </div>
