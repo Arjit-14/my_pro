@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
-    <title>ICSCPS’24</title>
+    <title>ICSCPS 2024</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
@@ -39,7 +39,7 @@
 
             <!-- <div class="logo-main">
                 <div class="container p-2 text-center">
-                    <h3 style="color:#1651a9"> <strong>International Conference on Smart Cyber Physical Systems (ICSCPS’24)</strong></h3>
+                    <h3 style="color:#1651a9"> <strong>International Conference on Smart Cyber Physical Systems (ICSCPS 2024)</strong></h3>
                     <h5>Organized in In-person and Online (Hybrid Mode) by</h5>
                     <h4 style="color:#1651a9">Department of Computer Science</h4>
                     <h4 style="color:#1651a9">CHRIST (Deemed to be University) Delhi NCR, India</h4>
@@ -51,24 +51,51 @@
                 <div class="p-2 text-center" style="display: flex; justify-content: space-between; align-items: center;">
 
                     <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+                        <p><b>PUBLICATION PARTNER:</b></p>
                         <img src="assets/images/scopus.jpg" alt="scopus_logo" style="width: 100px;">
                         <img src="assets/images/springer_partner.png" alt="Left Image" style="width: 100px;">
-                        <p><b>PUBLICATION PARTNER</b></p>
                     </div>
 
                     <div style="flex: 6; text-align: center;">
-                        <h3 style="color:#1651a9"> <strong>International Conference on Smart Cyber Physical Systems (ICSCPS’24)</strong></h3>
-                        <h5>Organized in In-person and Online (Hybrid Mode) by</h5>
+                        <h3 style="color:#1651a9"> <strong>International Conference on Smart Cyber Physical Systems (ICSCPS 2024)</strong></h3>
+                        <h5>Organized by</h5>
                         <h4 style="color:#1651a9">Department of Computer Science</h4>
                         <h4 style="color:#1651a9">CHRIST (Deemed to be University) Delhi NCR, India</h4>
                         <h5 class="date-container" style="font-weight:bold">September 13 - 14, 2024</h5>
+
+                        <hr>
+
+                        <div style="display: flex; justify-content: space-between; align-items: center;">
+                            <div>
+                                <p style="text-align:left"><b>PARTNERS:</b></p>
+                            </div>
+                            <div style="display: flex; justify-content: space-around; width: 100%;">
+                                <div>
+                                    <a href="https://unescochair-shpcher.nust.na/chair">
+                                        <img src="https://www.merit.unu.edu/wp-content/uploads/2022/09/UNESCO-Chair-Logo.png" alt="Right Image" style="width: 100%; height: 80px;">
+                                    </a>
+                                </div>
+                                <div>
+                                    <a href="https://www.ntnu.edu/iir/cps#/view/about">
+                                        <img src="https://www.ntnu.edu/o/ntnu-theme/images/logo_ntnu.svg" alt="Right Image" style="width: 100%; height: 50px;">
+                                    </a>
+                                </div>
+                                <div>
+                                    <a href="https://www.perdanauniversity.edu.my/">
+                                        <img src="https://www.perdanauniversity.edu.my/wp-content/uploads/2022/06/logo-perdana-university-trans.png" alt="Right Image" style="width: 100%; height: 80px;">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
 
                     <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+                        <p><b>PROCEEDINGS PUBLICATION:</b></p>
                         <a href="https://www.springer.com/series/8767">
                             <img src="https://media.springernature.com/w92/springer-static/cover/series/8767.jpg" alt="Right Image" style="width: 100px;">
                         </a>
-                        <p><b>PROCEEDINGS PUBLICATION</b></p>
+
                     </div>
 
                 </div>
@@ -79,7 +106,7 @@
             <div class="marquee">
                 <a href="https://www.springer.com/series/8767" style="color:white;" target="_blank">
                     <span>
-                        <b>The after-conference proceeding of the ICSCPS’24 will be published in SCOPUS Indexed Springer Book Series, ‘Smart Innovation, Systems and Technologies’&nbsp;</b>
+                        <b>The after-conference proceeding of the ICSCPS 2024 will be published in SCOPUS Indexed Springer Book Series, ‘Smart Innovation, Systems and Technologies’&nbsp;</b>
                     </span>
                 </a>
             </div>

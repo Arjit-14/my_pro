@@ -2,22 +2,31 @@
 	font-family: "Montserrat" !important;
 }
 
-p{
-    font-size: 16px !important;
+p {
+	font-size: 16px !important;
 }
 
-.h-100{
-    height: 100% !important;
+.h-100 {
+	height: 100% !important;
 }
+
 @keyframes blink {
-    0% { opacity: 1; }
-    50% { opacity: 0; }
-    100% { opacity: 1; }
+	0% {
+		opacity: 1;
+	}
+
+	50% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
 }
 
 .blinking-text {
-    font-size: 12px !important ;
-    animation: blink 1s infinite;
+	font-size: 12px !important;
+	animation: blink 1s infinite;
 }
 
 /*three-box-section*/
@@ -831,45 +840,76 @@ nav a {
 	text-align: center;
 	font-size: 16px !important;
 }
-.section-1{
-    background-image: url(https://img.freepik.com/premium-vector/golden-line-pattern_129696-68.jpg?w=2000);
-    background-repeat: repeat; /* Use the image as a pattern */
-    position: relative;
+
+.section-1 {
+	background-image: url(https://img.freepik.com/premium-vector/golden-line-pattern_129696-68.jpg?w=2000);
+	background-repeat: repeat;
+	/* Use the image as a pattern */
+	position: relative;
 }
 
-.section-1::before{
-    content: "";
-    background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white overlay */
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
+.section-1::before {
+	content: "";
+	background-color: rgba(255, 255, 255, 0.7);
+	/* Semi-transparent white overlay */
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
 }
 
-.logo-main, .logo{
-    position: relative; /* Ensure the content is on top of the overlay */
-    z-index: 1;
+.logo-main,
+.logo {
+	position: relative;
+	/* Ensure the content is on top of the overlay */
+	z-index: 1;
 }
-.dropdown-item:focus, .dropdown-item:hover{
-    background-color: #0d6efd !important;
-    color: white !important;
+
+.dropdown-item:focus,
+.dropdown-item:hover {
+	background-color: #0d6efd !important;
+	color: white !important;
 
 }
-.dropdown-item.active, .dropdown-item:active{
-    background-color: #1651a9 !important;
-    color: white !important;
+
+.dropdown-item.active,
+.dropdown-item:active {
+	background-color: #1651a9 !important;
+	color: white !important;
 }
 
 .read-more {
-    display: none; /* Hide the text by default */
+	display: none;
+	/* Hide the text by default */
 }
-#readMoreButton{
+
+#readMoreButton {
 	color: #005388;
 	font-weight: 600;
 }
 
-#readMoreButton2{
+#readMoreButton2 {
+	color: #005388;
+	font-weight: 600;
+}
+
+#readMoreButton3 {
+	color: #005388;
+	font-weight: 600;
+}
+
+#readMoreButton4 {
+	color: #005388;
+	font-weight: 600;
+}
+
+#readMoreButton5 {
+	color: #005388;
+	font-weight: 600;
+}
+
+#readMoreButton6 {
 	color: #005388;
 	font-weight: 600;
 }
