@@ -4,7 +4,7 @@
             <div class="col-lg-9">
                 <div class="about-innar">
                     <div class="col-lg-12">
-                        <div class="about-innar-content">
+                        <!-- <div class="about-innar-content">
                             <h1>Awards</h1>
                             <hr>
                             <h1 style="padding: 0px; margin-right: 0px; margin-bottom: 5px; margin-left: 0px; font-size: 20px; font-family: Muli, sans-serif; font-weight: 600; line-height: 28px; color: rgb(0, 83, 136);"><span style="padding: 0px; margin: 0px;"><span style="padding: 0px; margin: 0px; color: rgb(155, 89, 182);">1.&nbsp;</span></span><span style="padding: 0px; margin: 0px;"><span style="padding: 0px; margin: 0px; color: rgb(155, 89, 182);">Best&nbsp;Paper (Track&nbsp;Wise)</span></span></h1>
@@ -15,7 +15,18 @@
 
                             <hr style="padding: 0px; margin-top: 10px; margin-bottom: 10px; height: 1px; border-top-color: rgb(238, 238, 238); width: 840px; background: rgb(204, 204, 204); color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;" />
                             <p style="padding: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: &quot;Open Sans&quot;; font-size: 13px; color: rgb(38, 38, 38); text-align: justify; line-height: 25px;">Soft Computing Research Society (SCRS), New Delhi, India will&nbsp;facilitate the awardee with a Gift Voucher for annual&nbsp;SCRS membership equivalent to Rs. 1200 and an appreciation certificate.&nbsp;</p>
+                        </div> -->
+
+                        <div class="about-innar-content">
+                            <h1>Awards</h1>
+                            <hr>
+                            <h1><span class="award-1">1.&nbsp;</span><span>Best&nbsp;Paper (Track&nbsp;Wise)</span></h1>
+                            <p>&nbsp;</p>
+                            <h1><span class="award-scrs">SCRS best paper awards:</span></h1>
+                            <hr />
+                            <p>Soft Computing Research Society (SCRS), New Delhi, India will&nbsp;facilitate the awardee with a Gift Voucher for annual&nbsp;SCRS membership equivalent to Rs. 1200 and an appreciation certificate.&nbsp;</p>
                         </div>
+
                     </div>
 
 
@@ -231,6 +242,49 @@
     {
     width:80px;
     }
+    }
+</style>
+
+<style>
+    .about-innar-content {
+        font-family: "Open Sans", sans-serif;
+        color: rgb(38, 38, 38);
+        line-height: 25px;
+    }
+
+    .about-innar-content h1 {
+        padding: 0px;
+        margin-right: 0px;
+        margin-bottom: 5px;
+        margin-left: 0px;
+        font-size: 20px;
+        font-family: Muli, sans-serif;
+        font-weight: 600;
+        line-height: 28px;
+    }
+
+    .about-innar-content h1 span {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .about-innar-content hr {
+        padding: 0px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        height: 1px;
+        border-top-color: rgb(238, 238, 238);
+        width: 840px;
+        background: rgb(204, 204, 204);
+        color: rgb(51, 51, 51);
+    }
+
+    .award-1 {
+        color: rgb(155, 89, 182);
+    }
+
+    .award-scrs {
+        color: rgb(52, 152, 219);
     }
 </style>
 

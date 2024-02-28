@@ -35,7 +35,9 @@
                         </tr>
                     </tbody>
                 </table>
+                <p>Note: Registration fee inclusive of 18% GST.</p>
             </div>
+            <hr>
             <h4>Payment Instructions:</h4>
             <p><strong>For Indian Delegates:</strong> Payment can be made through NEFT/RTGS. Details will be provided soon. Please check back for updates.</p>
             <p><strong>For Foreign Delegates:</strong> Payment can be made through SWIFT/Wire transfer. Details will be provided soon. Please check back for updates.</p>

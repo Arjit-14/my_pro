@@ -11,7 +11,7 @@
                             <br>
                             <div class="row align-items-center">
                                 <div class="col-lg-7">
-                                    <p>All ICSCPS 2024 presented papers will be published in conference proceedings by Springer <a href="https://www.springer.com/series/8767">‘Smart Innovation,Systems and Technologies’</a> ISSN: 2190-3018, Book Series. ISSN: 2190-3018</p>
+                                    <p>All ICSCPS-2024 presented papers will be published in conference proceedings by Springer <a href="https://www.springer.com/series/8767" target="_blank">‘Smart Innovation,Systems and Technologies’</a> ISSN: 2190-3018, Book Series. ISSN: 2190-3018</p>
                                 </div>
                                 <div class="col-lg-5">
                                     <img src="assets\images\springer.png" alt="Springer Logo" style="width: 300px;">

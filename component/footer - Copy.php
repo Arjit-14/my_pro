@@ -1,7 +1,7 @@
 <footer class="p-4 mm" style="background-color:#052658">
     <div class="container foot text-light" style="width: 80%;">
         <div class="row">
-            <div class="col-12 col-md-4">
+            <div class="col-md-4">
                 <h4 class="m-0" style="font-size: 24px; font-weight:900">CHRIST</h4>
                 <p>(Deemed to be University)</p>
 
@@ -36,7 +36,7 @@
 
             </div>
 
-            <div class="col-12 col-md-4">
+            <div class="col-md-4">
                 <h5 style="font-size: 24px;font-weight:900">Vision</h5>
                 <p style="font-size: 14px;">EXCELLENCE AND SERVICE</p>
                 <h5 style="font-size: 24px;font-weight:900">Mission</h5>
@@ -44,7 +44,7 @@
                 </p>
             </div>
 
-            <div class="col-12 col-md-4">
+            <div class="col-md-4">
                 <h5 style="font-size: 24px;font-weight:900">Locate Us</h5>
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3500.2144862561236!2d77.4073790755145!3d28.683229881776494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cf059aeaf695d%3A0xdc407fcde59a0d0f!2sCHRIST%20(Deemed%20to%20be%20University)%20Delhi%20NCR!5e0!3m2!1sen!2sus!4v1694661695167!5m2!1sen!2sus" height="200" style="border:0;" allowfullscreen="" style="width: 100%;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 <button class="my-2 btn btn-primary"><a href="https://ncr.christuniversity.in/how-to-reach-ncr-campus" style="color: white;" target="_blank">How to reach Venue</a></button>
@@ -62,7 +62,7 @@
             file_put_contents($file, $count);  // store the new count to file
             ?>
 
-            <div class="col-12 visitor-counter">
+            <div class="visitor-counter">
                 Visitor Number: <?php echo $count; ?>
             </div>
 

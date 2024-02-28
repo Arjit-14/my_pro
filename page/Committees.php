@@ -613,10 +613,10 @@
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Ramesh Chandra Poonia</strong>, Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Ramesh Chandra Poonia</strong>, Professor, CHRIST(Deemed to be University), Delhi NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Kamal Upreti</strong>, Associate Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Kamal Upreti</strong>, Associate Professor, CHRIST(Deemed to be University), Delhi NCR Campus
                                             </li>
                                         </ul>
                                     </div>
@@ -630,10 +630,10 @@
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Ashish Sharma</strong>, Associate Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Ashish Sharma</strong>, Associate Professor, CHRIST(Deemed to be University), Delhi NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Riya Baby</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Riya Baby</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                         </ul>
                                     </div>
@@ -646,13 +646,13 @@
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Shilpa Srivastava</strong>, Associate Professor, CHRIST(Deemed to be University), Delhi-NCR Campus
+                                                <strong>Shilpa Srivastava</strong>, Associate Professor, CHRIST(Deemed to be University), Delhi NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Vidushi</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Vidushi</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Lata Yadav</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Lata Yadav</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                         </ul>
                                     </div>
@@ -666,10 +666,10 @@
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Varuna Gupta</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Varuna Gupta</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Preety</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Preety</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                         </ul>
                                     </div>
@@ -682,13 +682,13 @@
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Vandana Mehndiratta</strong>,Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Vandana Mehndiratta</strong>,Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Indu Verma</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Indu Verma</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Yash Takhur</strong>, Student, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Yash Takhur</strong>, Student, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                         </ul>
                                     </div>
@@ -702,13 +702,13 @@
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Ellumkalayil Merlin Thomas</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Ellumkalayil Merlin Thomas</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Garima Anand</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Garima Anand</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Lawrence Kujur</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Lawrence Kujur</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                         </ul>
                                     </div>
@@ -722,7 +722,7 @@
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Gokul G</strong>, IT Service, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Gokul G</strong>, IT Service, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                         </ul>
                                     </div>
@@ -736,13 +736,13 @@
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Stephen Raj</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Stephen Raj</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Abhinav Singhal</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Abhinav Singhal</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Ruchi Kaushik</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Ruchi Kaushik</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                         </ul>
                                     </div>
@@ -756,10 +756,10 @@
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Sumin Sybol</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Sumin Sybol</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Priyanshu Kushwaha</strong>, Student, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Priyanshu Kushwaha</strong>, Student, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                         </ul>
                                     </div>
@@ -773,16 +773,16 @@
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Vandana Sharma</strong>, Associate Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Vandana Sharma</strong>, Associate Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Madan Singh</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Madan Singh</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Amrit Kaur Saggu</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Amrit Kaur Saggu</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Ansa Mathew</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Ansa Mathew</strong>, Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                         </ul>
                                     </div>
@@ -796,10 +796,10 @@
                                     <div class="accordion-body">
                                         <ul class="p-0">
                                             <li class="list-group-item ml-5">
-                                                <strong>Swati Agarwal</strong>, Associate Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Swati Agarwal</strong>, Associate Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                             <li class="list-group-item ml-5">
-                                                <strong>Manjula Shanbhog</strong>, Associate Professor, CHRIST (Deemed to be University), Delhi-NCR Campus
+                                                <strong>Manjula Shanbhog</strong>, Associate Professor, CHRIST (Deemed to be University), Delhi NCR Campus
                                             </li>
                                         </ul>
                                     </div>

@@ -8,7 +8,7 @@
             <div class="container m-3">
                 <div class="row align-items-center">
                     <div class="col-md-2">
-                        <img style="margin-left: 30px;width:70%" src="assets/images/ks_1.png">
+                        <img style="margin-left: 30px;width:70%;" src="assets/images/keynote_speakers/ks_1.png">
                     </div>
                     <div class="col-md-10">
                         <h1><a style="color: #005388;" href="https://scholar.google.com/citations?user=EplVzHwAAAAJ&hl" target="_blank">Prof. Dr. Mario José Diván</a></h1>
@@ -35,7 +35,7 @@
             <div class="container m-3">
                 <div class="row align-items-center">
                     <div class="col-md-2">
-                        <img style="margin-left: 30px;width:70%" src="https://www.drbalas.ro/s/img/wp-content/uploads/2013/09/Picture1-216x300.jpg.webp">
+                        <img style="margin-left: 30px;width:70%;" src="https://www.drbalas.ro/s/img/wp-content/uploads/2013/09/Picture1-216x300.jpg.webp">
                     </div>
                     <div class="col-md-10">
                         <h1><a style="color: #005388;" href="https://scholar.google.com/citations?hl=en&user=XaktX0wAAAAJ" target="_blank">Prof. Valentina Emilia Balas</a></h1>
@@ -60,7 +60,7 @@
             <div class="container m-3">
                 <div class="row align-items-center">
                     <div class="col-md-2">
-                        <img style="margin-left: 30px;width:70%" src="assets/images/ks_4.jpeg">
+                        <img style="margin-left: 30px;width:70%;" src="assets/images/keynote_speakers/ks_4.jpeg">
                     </div>
                     <div class="col-md-10">
                         <h1><a style="color: #005388;" href="https://scholar.google.com/citations?user=ERBiTbwAAAAJ&hl" target="_blank">Dr. Mohammad S Khan</a></h1>
@@ -87,7 +87,7 @@
             <div class="container m-3">
                 <div class="row align-items-center">
                     <div class="col-md-2">
-                        <img style="margin-left: 30px;width:70%" src="https://i1.rgstatic.net/ii/profile.image/272192239828997-1441907095189_Q128/Azween-Abdullah-2.jpg">
+                        <img style="margin-left: 30px;width:70%;" src="https://i1.rgstatic.net/ii/profile.image/272192239828997-1441907095189_Q128/Azween-Abdullah-2.jpg">
                     </div>
                     <div class="col-md-10">
                         <h1><a style="color: #005388;" href="https://scholar.google.com/citations?hl=en&user=8qTHZ6cAAAAJ" target="_blank">Prof. Ts Dr. Azween Bin Abdullah</a></h1>
@@ -114,10 +114,11 @@
             <div class="container m-3">
                 <div class="row align-items-center">
                     <div class="col-md-2">
-                        <img style="margin-left: 30px;width:70%" src="assets/images/ks_6.jpg">
+                        <!-- <img style="margin-left: 30px;width:70%" src="assets/images/keynote_speakers/ks_6.jpg"> -->
+                        <img style="margin-left: 30px; width:70%;" src="assets/images/keynote_speakers/ks_6.jpg">
                     </div>
                     <div class="col-md-10">
-                        <h1><a style="color: #005388;" href="https://maeveport.com/website/index.php/about-us/" target="_blank">Danish Nadeem</a></h1>
+                        <h1><a style="color: #005388;" href="https://maeveport.com/website/index.php/about-us/" target="_blank">Mr. Danish Nadeem</a></h1>
                         <p>Founder & Chief Technology Officer<br>
                             Maeve Port, PO Box 4503,<br>
                             3006 AM, Rotterdam<br>
@@ -138,11 +139,11 @@
                 </div>
             </div>
 
-                        <!-- Third Speaker -->
-                        <div class="container m-3">
+            <!-- Third Speaker -->
+            <div class="container m-3">
                 <div class="row align-items-center">
                     <div class="col-md-2">
-                        <img style="margin-left: 30px;width:70%" src="https://loop.frontiersin.org/images/profile/1394896/203">
+                        <img style="margin-left: 30px;width:70%;" src="https://loop.frontiersin.org/images/profile/1394896/203">
                     </div>
                     <div class="col-md-10">
                         <h1><a style="color: #005388;" href="https://scholar.google.com/citations?user=os7_kTkAAAAJ&hl" target="_blank">Dr. Valliappan Raju</a></h1>

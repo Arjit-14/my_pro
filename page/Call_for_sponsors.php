@@ -11,7 +11,7 @@
                     <div class="container m-3">
                         <div class="row align-items-center">
                             <div class="col-md-2">
-                                <img style="margin-left: 30px;width:70%" src="https://www.merit.unu.edu/wp-content/uploads/2022/09/UNESCO-Chair-Logo.png">
+                                <img style="margin-left: 30px;width:80%" src="https://www.merit.unu.edu/wp-content/uploads/2022/09/UNESCO-Chair-Logo.png">
                             </div>
                             <div class="col-md-10">
                                 <h1><a style="color: #005388;" href="https://unescochair-shpcher.nust.na/chair" target="_blank">UNESCO Chair</a></h1>
@@ -31,7 +31,7 @@
                     <div class="container m-3">
                         <div class="row align-items-center">
                             <div class="col-md-2">
-                                <img style="margin-left: 30px;width:70%" src="https://www.ntnu.edu/o/ntnu-theme/images/logo_ntnu.svg">
+                                <img style="margin-left: 30px;width:80%" src="assets/images/partners/ntnu.png">
                             </div>
                             <div class="col-md-10">
                                 <h1><a style="color: #005388;" href="https://www.ntnu.edu/iir/cps#/view/about" target="_blank">Cyber-Physical Systems Laboratory (CPS Lab)</a></h1>
@@ -49,7 +49,7 @@
                     <div class="container m-3">
                         <div class="row align-items-center">
                             <div class="col-md-2">
-                                <img style="margin-left: 30px;width:70%" src="https://www.perdanauniversity.edu.my/wp-content/uploads/2022/06/logo-perdana-university-trans.png">
+                                <img style="margin-left: 30px;width:80%" src="assets/images/partners/perdana_university.png">
                             </div>
                             <div class="col-md-10">
                                 <h1><a style="color: #005388;" href="https://www.perdanauniversity.edu.my/" target="_blank">Perdana University, Malaysia</a></h1>
@@ -70,7 +70,7 @@
                     <div class="container m-3">
                         <div class="row align-items-center">
                             <div class="col-md-2">
-                                <img style="margin-left: 30px;width:70%" src="https://maeveport.com/website/wp-content/uploads/2021/09/maeve-port-logo.png">
+                                <img style="margin-left: 30px;width:80%" src="assets/images/partners/maeve_port.png">
                             </div>
                             <div class="col-md-10">
                                 <h1><a style="color: #005388;" href="https://maeveport.com/website/index.php/about-us/" target="_blank">Maeve Port</a></h1>

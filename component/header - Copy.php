@@ -48,9 +48,9 @@
             </div> -->
 
             <div class="logo-main">
-                <div class="p-2 text-center d-flex flex-column flex-md-row justify-content-md-between align-items-center">
+                <div class="p-2 text-center" style="display: flex; justify-content: space-between; align-items: center;">
 
-                    <div class="d-flex flex-column align-items-center justify-content-center mb-3 mb-md-0">
+                    <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
                         <img src="assets/images/scopus.png" alt="scopus_logo" style="width: 150px;">
                         <br>
                         <img src="assets/images/springer_partner.png" alt="Left Image" style="width: 100px;">
@@ -58,7 +58,7 @@
                         <p><b>PUBLICATION PARTNER</b></p>
                     </div>
 
-                    <div class="text-center mb-3 mb-md-0">
+                    <div style="flex: 6; text-align: center;">
                         <h3 style="color:#1651a9"> <strong>International Conference on Smart Cyber Physical Systems (ICSCPS-2024)</strong></h3>
                         <h5>Organized by</h5>
                         <h4 style="color:#1651a9">Department of Computer Science</h4>
@@ -66,14 +66,30 @@
                         <h5 class="date-container" style="font-weight:bold">September 13 - 14, 2024</h5>
 
                         <hr>
-                        <div class="d-flex justify-content-around align-items-center">
-                            <!-- ... -->
+                        <div style="display: flex; justify-content: space-between; align-items: center;">
+                            <div style="display: flex; justify-content: space-around; width: 100%;">
+                                <div style="flex: 1; padding: 0 10px;">
+                                    <a href="https://unescochair-shpcher.nust.na/chair" target="_blank">
+                                        <img src="https://www.merit.unu.edu/wp-content/uploads/2022/09/UNESCO-Chair-Logo.png" alt="Right Image" style="height: 80px">
+                                    </a>
+                                </div>
+                                <div style="flex: 1; padding: 0 10px;">
+                                    <a href="https://www.ntnu.edu/iir/cps#/view/about" target="_blank">
+                                        <img src="assets/images/partners/ntnu.png" alt="Right Image" style="height: 80px">
+                                    </a>
+                                </div>
+                                <div style="flex: 1; padding: 0 10px;">
+                                    <a href="https://www.perdanauniversity.edu.my/" target="_blank">
+                                        <img src="assets/images/partners/perdana_university.png" alt="Right Image" style="height: 80px">
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                         <br>
                         <p style="text-align:center"><b>ACADEMIC PARTNERS</b></p>
                     </div>
 
-                    <div class="d-flex flex-column align-items-center justify-content-center">
+                    <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
                         <a href="https://www.springer.com/series/8767" target="_blank">
                             <img src="https://media.springernature.com/w92/springer-static/cover/series/8767.jpg" alt="Right Image" style="width: 100px;">
                         </a>
