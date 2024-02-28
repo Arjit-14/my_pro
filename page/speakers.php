@@ -56,32 +56,6 @@
 
             <hr>
 
-            <!-- Third Speaker -->
-            <div class="container m-3">
-                <div class="row align-items-center">
-                    <div class="col-md-2">
-                        <img style="margin-left: 30px;width:70%" src="https://loop.frontiersin.org/images/profile/1394896/203">
-                    </div>
-                    <div class="col-md-10">
-                        <h1><a style="color: #005388;" href="https://scholar.google.com/citations?user=os7_kTkAAAAJ&hl" target="_blank">Dr. Valliappan Raju</a></h1>
-                        <p>Director of Research,<br>
-                            Perdana University, Malaysia</p>
-                        <br>
-                        <p class="read-more" id="readMoreText3">
-                            Professor Valliappan Raju specializes in research methodology and spearheads Research division at Perdana University, Malaysia. In his 20+ years of experience, he has served over 18 years in Higher Education institutions in Botswana, India and Malaysia. He holds visiting positions in the Czech Republic, Thailand and Germany. As per ResearchGate statistics, he has published 256 manuscripts, the majority in FinTech discipline indexed in Scopus, SSCI, EI indexed journals. Under his supervision, 63 candidates have graduated with Ph.D. degrees. Vally was instrumental in developing Ph.D. programs in his prior assignments. He is frequently invited to deliver lectures on research, industry 5.0, digital marketing, crypto banking and entrepreneurship. He actively reviews World Bank Conference Journals (USA). He holds two patents. Vally is the founder/editor of Journal of Reproducible Research. Vally’s book ‘Fundamentals of Thesis’ was well received among the research community. He has secured research grants from public and private institutions worth USD $250,000+ as on 2022. As a passionate researcher his interests remain in Anthropology, research methodology, data analytics and FinTech research.
-                        </p>
-                        <br>
-                        <span id="readMoreButton3">
-                            Read More
-                        </span>
-                        <script src="assets/js/script.js"></script>
-                    </div>
-
-                </div>
-            </div>
-
-            <hr>
-
             <!-- Fourth Speaker -->
             <div class="container m-3">
                 <div class="row align-items-center">
@@ -163,6 +137,32 @@
 
                 </div>
             </div>
+
+                        <!-- Third Speaker -->
+                        <div class="container m-3">
+                <div class="row align-items-center">
+                    <div class="col-md-2">
+                        <img style="margin-left: 30px;width:70%" src="https://loop.frontiersin.org/images/profile/1394896/203">
+                    </div>
+                    <div class="col-md-10">
+                        <h1><a style="color: #005388;" href="https://scholar.google.com/citations?user=os7_kTkAAAAJ&hl" target="_blank">Dr. Valliappan Raju</a></h1>
+                        <p>Director of Research,<br>
+                            Perdana University, Malaysia</p>
+                        <br>
+                        <p class="read-more" id="readMoreText3">
+                            Professor Valliappan Raju specializes in research methodology and spearheads Research division at Perdana University, Malaysia. In his 20+ years of experience, he has served over 18 years in Higher Education institutions in Botswana, India and Malaysia. He holds visiting positions in the Czech Republic, Thailand and Germany. As per ResearchGate statistics, he has published 256 manuscripts, the majority in FinTech discipline indexed in Scopus, SSCI, EI indexed journals. Under his supervision, 63 candidates have graduated with Ph.D. degrees. Vally was instrumental in developing Ph.D. programs in his prior assignments. He is frequently invited to deliver lectures on research, industry 5.0, digital marketing, crypto banking and entrepreneurship. He actively reviews World Bank Conference Journals (USA). He holds two patents. Vally is the founder/editor of Journal of Reproducible Research. Vally’s book ‘Fundamentals of Thesis’ was well received among the research community. He has secured research grants from public and private institutions worth USD $250,000+ as on 2022. As a passionate researcher his interests remain in Anthropology, research methodology, data analytics and FinTech research.
+                        </p>
+                        <br>
+                        <span id="readMoreButton3">
+                            Read More
+                        </span>
+                        <script src="assets/js/script.js"></script>
+                    </div>
+
+                </div>
+            </div>
+
+            <hr>
 
         </div>
     </div>
