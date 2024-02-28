@@ -51,9 +51,9 @@
                 <div class="p-2 text-center" style="display: flex; justify-content: space-between; align-items: center;">
 
                     <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
-                        <p><b>PUBLICATION PARTNER:</b></p>
                         <img src="assets/images/scopus.jpg" alt="scopus_logo" style="width: 100px;">
                         <img src="assets/images/springer_partner.png" alt="Left Image" style="width: 100px;">
+                        <p><b>PUBLICATION PARTNER</b></p>
                     </div>
 
                     <div style="flex: 6; text-align: center;">
@@ -66,9 +66,6 @@
                         <hr>
 
                         <div style="display: flex; justify-content: space-between; align-items: center;">
-                            <div>
-                                <p style="text-align:left"><b>PARTNERS:</b></p>
-                            </div>
                             <div style="display: flex; justify-content: space-around; width: 100%;">
                                 <div>
                                     <a href="https://unescochair-shpcher.nust.na/chair">
@@ -86,16 +83,16 @@
                                     </a>
                                 </div>
                             </div>
+                            <p style="text-align:left"><b>ACADEMIC PARTNERS</b></p>
                         </div>
 
                     </div>
 
                     <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
-                        <p><b>PROCEEDINGS PUBLICATION:</b></p>
                         <a href="https://www.springer.com/series/8767">
                             <img src="https://media.springernature.com/w92/springer-static/cover/series/8767.jpg" alt="Right Image" style="width: 100px;">
                         </a>
-
+                        <p><b>PROCEEDINGS PUBLICATION</b></p>
                     </div>
 
                 </div>
