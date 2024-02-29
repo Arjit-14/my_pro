@@ -67,6 +67,8 @@
             </div>
 
         </div>
+
+
     </div>
 </footer>
 
@@ -94,7 +96,14 @@
         }
     }
 </style>
-
+<style>
+    @media only screen and (max-width: 992px) {
+        .col-12.col-md-4 {
+            flex: 0 0 100%;
+            max-width: 100%;
+        }
+    }
+</style>
 <style>
     .visitor-counter {
         padding: 10px;

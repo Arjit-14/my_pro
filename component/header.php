@@ -50,12 +50,14 @@
             <div class="logo-main">
                 <div class="p-2 text-center d-flex flex-column flex-md-row justify-content-md-between align-items-center">
 
-                    <div class="d-flex flex-column align-items-center justify-content-center mb-3 mb-md-0">
-                        <img src="assets/images/scopus.png" alt="scopus_logo" style="width: 150px;">
-                        <br>
-                        <img src="assets/images/springer_partner.png" alt="Left Image" style="width: 100px;">
-                        <br>
-                        <p><b>PUBLICATION PARTNER</b></p>
+                    <div class="mobile-order-2">
+                        <div class="d-flex flex-column align-items-center justify-content-center mb-3 mb-md-0 order-2 order-md-1">
+                            <img src="assets/images/scopus.png" alt="scopus_logo" style="width: 150px;">
+                            <br>
+                            <img src="assets/images/springer_partner.png" alt="Left Image" style="width: 100px;">
+                            <br>
+                            <p><b>PUBLICATION PARTNER</b></p>
+                        </div>
                     </div>
 
                     <div class="text-center mb-3 mb-md-0">
@@ -67,7 +69,27 @@
 
                         <hr>
                         <div class="d-flex justify-content-around align-items-center">
-                            <!-- ... -->
+                            <div style="display: flex; justify-content: space-around; width: 100%;">
+                                <div style="flex: 1; padding: 0 10px;">
+                                    <a href="https://unescochair-shpcher.nust.na/chair" target="_blank">
+                                        <img src="https://www.merit.unu.edu/wp-content/uploads/2022/09/UNESCO-Chair-Logo.png" alt="Right Image" style="height: 80px">
+                                    </a>
+                                    <br>
+                                </div>
+                                <div style="flex: 1; padding: 0 10px;">
+                                    <a href="https://www.ntnu.edu/iir/cps#/view/about" target="_blank">
+                                        <img src="assets/images/partners/ntnu.png" alt="Right Image" style="height: 80px">
+                                    </a>
+                                    <br>
+                                </div>
+                                <div style="flex: 1; padding: 0 10px;">
+                                    <a href="https://www.perdanauniversity.edu.my/" target="_blank">
+                                        <img src="assets/images/partners/perdana_university.png" alt="Right Image" style="height: 80px">
+                                    </a>
+                                    <br>
+                                </div>
+                            </div>
+
                         </div>
                         <br>
                         <p style="text-align:center"><b>ACADEMIC PARTNERS</b></p>
@@ -210,5 +232,22 @@
             animation-play-state: paused;
         }
     </style>
+
+    <style>
+        @media (max-width: 768px) {
+
+            /* Adjust flexbox layout for mobile view */
+            div[style*="display: flex;"] {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            div[style*="flex: 1;"] {
+                width: 100%;
+                padding: 10px;
+            }
+        }
+    </style>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
