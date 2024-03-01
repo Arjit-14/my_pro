@@ -6,7 +6,7 @@
                 <div class="three-innar">
                     <h4 class="m-0" style="text-transform: uppercase; font-weight:600">News <sup class="badge bg-danger blinking-text">LATEST</sup></h4>
                     <hr>
-                    <div class="scrolling-text">
+                    <div class="scrolling-text" onmouseover="pauseScroll()" onmouseout="resumeScroll()">
                         <p>
                             <br><br><br><br>
                             <b>Publication:</b> All ICSCPS-2024 presented papers will be published in conference proceedings by Springer <a href=https://www.springer.com/series/8767 target="_blank">‘Smart Innovation,Systems and Technologies’</a> ISSN: 2190-3018, Book Series.
@@ -17,21 +17,6 @@
                         </p>
                     </div>
                 </div>
-
-                <!-- <div class="three-innar">
-
-                    <h4 class="m-0" style="text-transform: uppercase; font-weight:600">News<sup class="badge bg-danger blinking-text">LATEST </sup></h4>
-                    <hr>
-                    <p>
-                        <b>Publication:</b> All ICSCPS-2024 presented papers will be published in conference proceedings by Springer <a href=https://www.springer.com/series/8767 target="_blank">‘Smart Innovation,Systems and Technologies’</a> ISSN: 2190-3018, Book Series.
-                        <br><br>
-                        <b>Indexing:</b> Indexed by SCOPUS, INSPEC, WTI Frankfurt eG, zbMATH, SCImago. All books published in the series are submitted for consideration in the Web of Science.
-                        <br><br>
-                        <b>Special Issue of Journals, keep checking for more updates...</b>
-                    </p>
-                </div> -->
-
-
             </div>
 
             <div class="col-lg-6">
@@ -167,7 +152,6 @@
     .scrolling-text {
         overflow: hidden;
         height: auto;
-        /* Adjust the height as needed */
     }
 
     .scrolling-text p {
@@ -184,3 +168,33 @@
         }
     }
 </style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var scrollingText = document.querySelector('.scrolling-text');
+        var animation;
+
+        function pauseScroll() {
+            cancelAnimationFrame(animation);
+        }
+
+        function resumeScroll() {
+            scrollText();
+        }
+
+        function scrollText() {
+            if (!scrollingText.classList.contains('hovered')) {
+                scrollingText.scrollTop += 1;
+                if (scrollingText.scrollTop >= scrollingText.scrollHeight - scrollingText.clientHeight) {
+                    scrollingText.scrollTop = 0;
+                }
+            }
+            animation = requestAnimationFrame(scrollText);
+        }
+
+        scrollingText.addEventListener('mouseenter', pauseScroll);
+        scrollingText.addEventListener('mouseleave', resumeScroll);
+
+        scrollText();
+    });
+</script>

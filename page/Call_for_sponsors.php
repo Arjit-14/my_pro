@@ -11,7 +11,9 @@
                     <div class="container m-3">
                         <div class="row align-items-center">
                             <div class="col-md-2">
-                                <img style="margin-left: 30px;width:80%" src="https://www.merit.unu.edu/wp-content/uploads/2022/09/UNESCO-Chair-Logo.png">
+                                <a style="color: #005388;" href="https://unescochair-shpcher.nust.na/chair" target="_blank">
+                                    <img style="margin-left: 30px;width:80%" src="https://www.merit.unu.edu/wp-content/uploads/2022/09/UNESCO-Chair-Logo.png">
+                                </a>
                             </div>
                             <div class="col-md-10">
                                 <h1><a style="color: #005388;" href="https://unescochair-shpcher.nust.na/chair" target="_blank">UNESCO Chair</a></h1>
@@ -31,7 +33,9 @@
                     <div class="container m-3">
                         <div class="row align-items-center">
                             <div class="col-md-2">
-                                <img style="margin-left: 30px;width:80%" src="assets/images/partners/ntnu.png">
+                                <a style="color: #005388;" href="https://www.ntnu.edu/iir/cps#/view/about" target="_blank">
+                                    <img style="margin-left: 30px;width:80%" src="assets/images/partners/ntnu.png">
+                                </a>
                             </div>
                             <div class="col-md-10">
                                 <h1><a style="color: #005388;" href="https://www.ntnu.edu/iir/cps#/view/about" target="_blank">Cyber-Physical Systems Laboratory (CPS Lab)</a></h1>
@@ -49,7 +53,9 @@
                     <div class="container m-3">
                         <div class="row align-items-center">
                             <div class="col-md-2">
-                                <img style="margin-left: 30px;width:80%" src="assets/images/partners/perdana_university.png">
+                                <a style="color: #005388;" href="https://www.perdanauniversity.edu.my/" target="_blank">
+                                    <img style="margin-left: 30px;width:80%" src="assets/images/partners/perdana_university.png">
+                                </a>
                             </div>
                             <div class="col-md-10">
                                 <h1><a style="color: #005388;" href="https://www.perdanauniversity.edu.my/" target="_blank">Perdana University, Malaysia</a></h1>
@@ -70,7 +76,9 @@
                     <div class="container m-3">
                         <div class="row align-items-center">
                             <div class="col-md-2">
-                                <img style="margin-left: 30px;width:80%" src="assets/images/partners/maeve_port.png">
+                                <a style="color: #005388;" href="https://maeveport.com/website/index.php/about-us/" target="_blank">
+                                    <img style="margin-left: 30px;width:80%" src="assets/images/partners/maeve_port.png">
+                                </a>
                             </div>
                             <div class="col-md-10">
                                 <h1><a style="color: #005388;" href="https://maeveport.com/website/index.php/about-us/" target="_blank">Maeve Port</a></h1>

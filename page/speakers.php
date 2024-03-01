@@ -14,7 +14,7 @@
                         <h1><a style="color: #005388;" href="https://scholar.google.com/citations?user=EplVzHwAAAAJ&hl" target="_blank">Prof. Dr. Mario José Diván</a></h1>
                         <p>Sr. Solutions Architect and Service Lead,<br>
                             IOTG- Intel, USA &<br>
-                            Former Full Professor, UNLPam.
+                            Former Full Professor, UNLPam
                         </p>
                         <br>
                         <p class="read-more" id="readMoreText">
@@ -39,7 +39,8 @@
                     </div>
                     <div class="col-md-10">
                         <h1><a style="color: #005388;" href="https://scholar.google.com/citations?hl=en&user=XaktX0wAAAAJ" target="_blank">Prof. Valentina Emilia Balas</a></h1>
-                        <p>““Aurel Vlaicu” University of Arad,, Romania</p>
+                        <p>“Aurel Vlaicu” University of Arad,<br>
+                            Romania</p>
                         <br>
                         <p class="read-more" id="readMoreText2">
                             Pending
@@ -65,8 +66,9 @@
                     <div class="col-md-10">
                         <h1><a style="color: #005388;" href="https://scholar.google.com/citations?user=ERBiTbwAAAAJ&hl" target="_blank">Dr. Mohammad S Khan</a></h1>
                         <p>Director of Network Science and Analysis Lab,<br>
-                            Department of Computing, East Tennessee<br>
-                            State University, Johnson City, USA</p>
+                            Department of Computing, <br>
+                            East Tennessee State University,<br>
+                            Johnson City, USA</p>
                         <br>
                         <p class="read-more" id="readMoreText4">
                             Dr. Mohammad S. Khan (SM’ 19) is currently an Associate Professor of Computing at East Tennessee State University and the director of Network Science and Analysis Lab (NSAL). He received his M.Sc. and Ph.D. in Computer Science and Computer Engineering from the University of Louisville, Kentucky, USA, in 2011 and 2013, respectively. His primary area of research is in ad-hoc networks, wireless sensor networks, network tomography, connected vehicles, and vehicular social networks. He currently serves as an associate editor of IEEE Access, IET ITS, IET WSS, Springer’s Telecommunication Systems and Neural Computing and Applications. He has been on technical program committees of various international conferences and technical reviewer of various international journals in his field. He is a senior member of IEEE.
@@ -91,8 +93,8 @@
                     </div>
                     <div class="col-md-10">
                         <h1><a style="color: #005388;" href="https://scholar.google.com/citations?hl=en&user=8qTHZ6cAAAAJ" target="_blank">Prof. Ts Dr. Azween Bin Abdullah</a></h1>
-                        <p>Professor and Dean, Faculty of Applied<br>
-                            Science and Technology,<br>
+                        <p>Professor and Dean,<br>
+                            Faculty of Applied Science and Technology,<br>
                             Perdana University, Kuala Lumpur, Malaysia</p>
                         <br>
                         <p class="read-more" id="readMoreText5">
@@ -119,10 +121,10 @@
                     </div>
                     <div class="col-md-10">
                         <h1><a style="color: #005388;" href="https://maeveport.com/website/index.php/about-us/" target="_blank">Mr. Danish Nadeem</a></h1>
-                        <p>Founder & Chief Technology Officer<br>
+                        <p>Founder & Chief Technology Officer,<br>
                             Maeve Port, PO Box 4503,<br>
-                            3006 AM, Rotterdam<br>
-                            The Netherlands</p>
+                            3006 AM, Rotterdam,<br>
+                            Netherlands</p>
                         <br>
                         <p class="read-more" id="readMoreText6">
                             Danish Nadeem is a seasoned Senior AI Consultant and Data Scientist based in the Netherlands with a strong academic foundation in Computer Science, Cognitive Science and Artificial Intelligence. Following his graduation from Germany, he gained extensive experience in research and development at the German Research Center for Artificial Intelligence before transitioning to the Netherlands. There he held prominent positions in the IT sector, working in EduTech, Financial Services & Insurance, Multimedia & Entertainment and the Health industry. With over 20 years of experience living and working in Europe, Danish has played a pivotal role in numerous IT consultancy projects and has been instrumental in driving digital transformation and data strategies for tech startups and social entrepreneurship initiatives.
