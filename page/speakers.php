@@ -43,7 +43,7 @@
                             Romania</p>
                         <br>
                         <p class="read-more" id="readMoreText2">
-                            Pending
+                            Valentina E. Balas is currently Full Professor at “Aurel Vlaicu” University of Arad, Romania. Author of more than 400 research papers. Research topics: Intelligent Systems, Fuzzy Control, Soft Computing. Editor-in Chief to IJAIP and to IJCSE journals. Member of EUSFLAT, ACM and a SM IEEE, member in TC – SC (IEEE SMCS), SIAM, Joint Secr. FIM India, "Tudor Tanasescu" Prize from Romanian Academy, 2019, "Stefan Odobleja" Prize of AOSR, 2023 and AGIR Prize 2023.
                         </p>
                         <br>
                         <span id="readMoreButton2">
