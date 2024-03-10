@@ -120,7 +120,7 @@
                         <img style="margin-left: 30px; width:70%;" src="assets/images/keynote_speakers/ks_6.jpg">
                     </div>
                     <div class="col-md-10">
-                        <h1><a style="color: #005388;" href="https://maeveport.com/website/index.php/about-us/" target="_blank">Mr. Danish Nadeem</a></h1>
+                        <h1><a style="color: #005388;" href="https://maeveport.com/website/index.php/about-us/" target="_blank">Dr. Danish Nadeem</a></h1>
                         <p>Founder & Chief Technology Officer,<br>
                             Maeve Port, PO Box 4503,<br>
                             3006 AM, Rotterdam,<br>
