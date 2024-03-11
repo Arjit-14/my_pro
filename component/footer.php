@@ -50,22 +50,6 @@
                 <button class="my-2 btn btn-primary"><a href="https://ncr.christuniversity.in/how-to-reach-ncr-campus" style="color: white;" target="_blank">How to reach Venue</a></button>
             </div>
 
-            <?php
-            $file = 'counter.txt';  // path to text file that stores counts
-            $count = strval(file_get_contents($file));  // read the file value
-
-            if (empty($count)) {
-                $count = 1785;  // set initial value if file is empty
-            }
-
-            $count = intval($count) + 1;  // increment the count
-            file_put_contents($file, $count);  // store the new count to file
-            ?>
-
-            <div class="col-12 visitor-counter">
-                Visitor Number: <?php echo $count; ?>
-            </div>
-
         </div>
 
 
@@ -94,24 +78,11 @@
         .container-date {
             width: 100% !important;
         }
-    }
-</style>
-<style>
     @media only screen and (max-width: 992px) {
         .col-12.col-md-4 {
             flex: 0 0 100%;
             max-width: 100%;
         }
     }
-</style>
-<style>
-    .visitor-counter {
-        padding: 10px;
-        color: white;
-        font-size: 16px;
-        text-align: center;
-        margin-top: 20px;
-        background-color: transparent;
-        /* Set background color to transparent */
     }
 </style>
