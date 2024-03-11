@@ -78,11 +78,12 @@
         .container-date {
             width: 100% !important;
         }
-    @media only screen and (max-width: 992px) {
-        .col-12.col-md-4 {
-            flex: 0 0 100%;
-            max-width: 100%;
+
+        @media only screen and (max-width: 992px) {
+            .col-12.col-md-4 {
+                flex: 0 0 100%;
+                max-width: 100%;
+            }
         }
-    }
     }
 </style>
