@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
-    
+
     <meta name="description" content="ICSCPS 2024, an International Conference on Smart Cyber Physical Systems organized by CHRIST University, Delhi NCR, India.">
     <meta name="keywords" content="ICSCPS 2024, ICSCPS 2024 Christ University, International Conference on Smart Cyber Physical Systems, CHRIST University, Delhi NCR, India">
     <meta name="author" content="CHRIST University">
@@ -78,6 +78,11 @@
                         <h5 class="date-container" style="font-weight:bold">September 13 - 14, 2024</h5>
 
                         <hr>
+                        <h5>Sponsored by</h5>
+                        <h4 style="color:#1651a9">Department of Science & Technology</h4>
+                        <h4 style="color:#1651a9">Science and Engineering Research Board (SERB), New Delhi</h4>
+                        <hr>
+
                         <div class="d-flex justify-content-around align-items-center">
                             <div style="display: flex; justify-content: space-around; width: 100%;">
                                 <div style="flex: 1; padding: 0 10px;">
@@ -121,9 +126,12 @@
             <div class="marquee">
                 <a href="https://www.springer.com/series/8767" style="color:white;" target="_blank">
                     <span>
-                        <b>The after-conference proceeding of the ICSCPS-2024 will be published in SCOPUS Indexed Springer Book Series, ‘Smart Innovation, Systems and Technologies’&nbsp;</b>
+                        <b>The after-conference proceeding of the ICSCPS-2024 will be published in SCOPUS Indexed Springer Book Series, ‘Smart Innovation, Systems and Technologies’,       &nbsp;</b>
                     </span>
                 </a>
+                <span>
+                    <sup class="badge bg-danger blinking-text">NEW </sup> <b>Sponsored by Department of Science & Technology, Science and Engineering Research Board (SERB), New Delhi&nbsp;</b>
+                </span>
             </div>
         </div>
 
@@ -138,9 +146,25 @@
                         <li class="nav-item">
                             <a class="nav-link" href="?page=home">Home</a>
                         </li>
-                        <li class="nav-item">
+
+                        <!-- <li class="nav-item">
                             <a class="nav-link" href="?page=Committees">Committee</a>
+                        </li> -->
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="committeedropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Committees
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="committeedropdown">
+                                <a class="dropdown-item" href="?page=Committees">Organising Committee</a>
+                                <a class="dropdown-item" href="?page=Committee_int_advisory">International Advisory Committee</a>
+                                <a class="dropdown-item" href="?page=Committee_nat_advisory">National Advisory Committee</a>
+                                <a class="dropdown-item" href="?page=Committee_technical">Technical Committee</a>
+                                <a class="dropdown-item" href="?page=Committee_stu_volunteer">Student Volunteers</a>
+                            </div>
                         </li>
+
+
                         <li class="nav-item">
                             <a class="nav-link" href="?page=speakers">Keynote Speakers</a>
                         </li>
@@ -205,11 +229,9 @@
             transition: color 0.3s;
         }
 
-        .date-container:hover {
+        /* .date-container:hover {
             color: #1651a9;
-            /* text-shadow: 2px 2px 4px #1651a9; */
-
-        }
+        } */
 
         .marquee-container {
             padding: 5px;
