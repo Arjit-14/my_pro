@@ -126,8 +126,8 @@ fieldset[disabled] .btn-default:hover {
 
 .btn-primary:focus,
 .btn-primary:hover {
-    background-color: #11111;
-    background-position: 0 -15px
+background-color: #11111;
+    ground-position: 0 -15px
 }
 
 .btn-primary.active,
