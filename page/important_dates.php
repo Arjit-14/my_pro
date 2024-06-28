@@ -12,11 +12,11 @@
                         </tr>
                         <tr>
                             <th scope="row" class="col-auto text-start">Last date for Paper Submission:</th>
-                            <td class="text-start"><del>30 May 2024 </del><br> 25 June 2024</td>
+                            <td class="text-start"><del>30 May 2024 </del><br> 15 July 2024</td>
                         </tr>
                         <tr>
                             <th scope="row" class="col-auto text-start">Acceptance Notification:</th>
-                            <td class="text-start">30 June 2024</td>
+                            <td class="text-start">30 July 2024</td>
                         </tr>
                         <tr>
                             <th scope="row" class="col-auto text-start">Late Date for Camera Ready Paper:</th>

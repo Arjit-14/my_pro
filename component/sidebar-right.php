@@ -4,9 +4,9 @@
         <div class="call p-0 m-0" style="font-size: 13px; font-weight:bold">
             Call for Paper: <span class="red-text">20<sup>th</sup> January, 2024</span><br>
             <hr class="p-0 my-2">
-            Last date (Paper Submission): <del><span class="red-text">30<sup>th</sup> May, 2024</span></del> <span class="red-text">25<sup>th</sup> June, 2024</span><br>
+            Last date (Paper Submission): <del><span class="red-text">30<sup>th</sup> May, 2024</span></del> <span class="red-text">15<sup>th</sup> July, 2024</span><br>
             <hr class="p-0 my-2">
-            Acceptance Notification: <span class="red-text">30<sup>th</sup> June, 2024</span><br>
+            Acceptance Notification: <span class="red-text">30<sup>th</sup> July, 2024</span><br>
             <hr class="p-0 my-2">
             Late Date for Camera Ready: <span class="red-text">14<sup>th</sup> July, 2024</span><br>
             <hr class="p-0 my-2">
