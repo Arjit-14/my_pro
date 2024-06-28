@@ -8,9 +8,9 @@
             <hr class="p-0 my-2">
             Acceptance Notification: <span class="red-text">30<sup>th</sup> July, 2024</span><br>
             <hr class="p-0 my-2">
-            Late Date for Camera Ready: <span class="red-text">14<sup>th</sup> July, 2024</span><br>
+            Late Date for Camera Ready: <span class="red-text">14<sup>th</sup> August, 2024</span><br>
             <hr class="p-0 my-2">
-            Last date of registration: <span class="red-text">14<sup>th</sup> July, 2024</span><br>
+            Last date of registration: <span class="red-text">14<sup>th</sup> August, 2024</span><br>
             <hr class="p-0 my-2">
             Conference Dates: <span class="red-text">13-14 September, 2024</span><br>
             <hr class="p-0 my-2">
