@@ -17,6 +17,10 @@
                         </p>
                     </div>
                 </div>
+                <!-- Add the flyer image here -->
+                <div class="flyer-image">
+                    <img src="assets/images/flyer.jpg" class="img-fluid" alt="Flyer Image">
+                </div>
             </div>
 
             <div class="col-lg-6">
