@@ -68,7 +68,7 @@
 
                         <p style="padding: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: &quot;Open Sans&quot;; font-size: 13px; color: rgb(38, 38, 38); text-align: justify; line-height: 25px;">&nbsp;
                             <span style="font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 16px;">
-                                At least one of the authors of an accepted paper needs to register for the conference and to present the paper(s), through an Online Mode presentation.
+                                At least one of the authors of an accepted paper needs to register for the conference and to present the paper(s), through an offline Mode presentation.
                             </span>
                         </p>
 
@@ -175,12 +175,12 @@
         transition: none !important;
     }
     -->
-    >.tabs{
-        width:100%;
-        height:auto;
-        margin:0 auto;
+    >.tabs {
+    width:100%;
+    height:auto;
+    margin:0
+    auto;
     }
-
     .tabs
     .tabs-list
     {
