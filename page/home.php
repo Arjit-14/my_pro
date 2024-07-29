@@ -17,10 +17,15 @@
                         </p>
                     </div>
                 </div>
-                <!-- Add the flyer image here -->
-                <div class="flyer-image">
-                    <img src="assets/images/flyer.jpg" class="img-fluid" alt="Flyer Image">
+
+                <!-- Popup container -->
+                <div id="popup" class="popup">
+                    <div class="popup-content">
+                        <span class="close-btn" onclick="closePopup()">&times;</span>
+                        <img src="assets/images/flyer.jpg" class="img-fluid" alt="Flyer Image">
+                    </div>
                 </div>
+
             </div>
 
             <div class="col-lg-6">
@@ -172,6 +177,71 @@
         }
     }
 </style>
+
+<style>
+    .popup {
+        display: none; /* Hidden by default */
+        position: fixed; /* Stay in place */
+        z-index: 1; /* Sit on top */
+        left: 0;
+        top: 0;
+        width: 100%; /* Full width */
+        height: 100%; /* Full height */
+        overflow: auto; /* Enable scroll if needed */
+        background-color: rgb(0, 0, 0); /* Fallback color */
+        background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+    }
+
+    .popup-content {
+        position: relative;
+        margin: auto;
+        padding: 20px;
+        width: 80%;
+        max-width: 500px;
+        max-height: 100vh; /* Max height as per the screen */
+        background-color: white;
+        border-radius: 10px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        overflow: auto; /* Enable scroll if content exceeds max height */
+    }
+
+    .close-btn {
+        position: absolute;
+        top: 10px;
+        right: 25px;
+        color: #aaa;
+        font-size: 28px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+
+    .close-btn:hover,
+    .close-btn:focus {
+        color: black;
+        text-decoration: none;
+        cursor: pointer;
+    }
+</style>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Display the popup when the page loads
+        document.getElementById("popup").style.display = "block";
+    });
+
+    function closePopup() {
+        // Hide the popup
+        document.getElementById("popup").style.display = "none";
+    }
+
+    // Close the popup when clicking outside the popup content
+    window.onclick = function(event) {
+        var popup = document.getElementById("popup");
+        if (event.target == popup) {
+            closePopup();
+        }
+    }
+</script>
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
