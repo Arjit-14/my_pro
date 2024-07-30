@@ -305,6 +305,8 @@
                 </div>
             </div>
 
+            <hr>
+
             <!-- 12th Speaker -->
             <div class="container m-3">
                 <div class="row align-items-center">
