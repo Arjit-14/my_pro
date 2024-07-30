@@ -27,6 +27,11 @@
                     <li class="list-group-item">
                         <strong>Mouss</strong>, Batna 2 University, Batna, Algeria
                     </li>
+
+                    <li class="list-group-item">
+                        <strong>Shubham R. Ekatpure</strong>, Kulicke and Soffa, PA, USA
+                    </li>
+
                     <li class="list-group-item">
                         <strong>Jorge Hernandez</strong>, Universidad Distrital Francisco Jose de Caldas, Bogota, Colombia
                     </li>
