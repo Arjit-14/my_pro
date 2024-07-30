@@ -305,6 +305,35 @@
                 </div>
             </div>
 
+            <!-- 12th Speaker -->
+            <div class="container m-3">
+                <div class="row align-items-center">
+                    <div class="col-md-2">
+                        <img style="margin-left: 30px;width:70%;" src="assets/images/keynote_speakers/ks_12.jpg">
+                    </div>
+                    <div class="col-md-10">
+                        <h1><a style="color: #005388;" href="" target="_blank">Dr. Basant Kumar</a></h1>
+                        <p>Asst. Professor and Program Head<br>
+                            Information Security, Chair of Departmental Research Committee, and the chair of and ISACA , USA</p>
+                        <br>
+                        <p class="read-more" id="readMoreText12">
+                            Basant Kumar is an Asst. Professor and Program Head of Information Security, Chair of Departmental Research Committee, the chair of IEEE (Institute of Electrical and Electronics Engineers, USA) and ISACA (Information Systems Audit and Control Association, USA) Student Chapter at Modern College of Business and Science (University of Missouri, St Louis, USA)Sultanate of Oman with high commitment to implementing research culture, to foster effective and efficient action plans with technical acumen, strategic thinking, and planning skills.
+
+                            At present he is a Post Doc Researcher in Cyber Security and a Sr member of IEEE, Professional Ambassador of Oman CERT, Subject Matter Expert of CompTIA, USA, Associate Editor of IEEE Region8, Editor in Chief and Reviewers of International Journals successfully published 35 papers in different Scopus journals and IEEE Conference proceedings. Currently engaged with the British Columbia based Blockchain Technology Research Consultancy Services, Vancouver Canada to provide the expertise to identify and create successful blockchain applications and offer training and teaching seminars, workshops and talks which will provide in-depth knowledge of the blockchain ecosystem in higher education.
+
+                            He is also a recipient of International Academic Excellence Award of Western Sydney University, Australia, Elsevier’s Mendeley in 2022 and Best academician of the year 2018 award by GECL in 2018.
+
+                        </p>
+                        <br>
+                        <span id="readMoreButton12">
+                            Read More
+                        </span>
+                        <script src="assets/js/script.js"></script>
+                    </div>
+
+                </div>
+            </div>
+
         </div>
     </div>
 </div>
@@ -470,6 +499,21 @@
         } else {
             readMoreText11.style.display = "none";
             readMoreButton11.textContent = "Read More";
+        }
+    });
+</script>
+
+<script>
+    const readMoreButton12 = document.getElementById("readMoreButton12");
+    const readMoreText12 = document.getElementById("readMoreText12");
+
+    readMoreButton12.addEventListener("click", function() {
+        if (readMoreText12.style.display === "none" || readMoreText12.style.display === "") {
+            readMoreText12.style.display = "block";
+            readMoreButton12.textContent = "Read Less";
+        } else {
+            readMoreText12.style.display = "none";
+            readMoreButton12.textContent = "Read More";
         }
     });
 </script>
