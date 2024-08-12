@@ -316,7 +316,7 @@
                     <div class="col-md-10">
                         <h1><a style="color: #005388;" href="" target="_blank">Dr. Basant Kumar</a></h1>
                         <p>Asst. Professor and Program Head<br>
-                            Information Security, Chair of Departmental Research Committee, and the chair of and ISACA , USA</p>
+                        Information Security, Chair of Departmental Research Committee at MCBS(Univ of St Louis, USA) Sr member of IEEE,and Professional Ambassador of Oman CERT,Muscat</p>
                         <br>
                         <p class="read-more" id="readMoreText12">
                             Basant Kumar is an Asst. Professor and Program Head of Information Security, Chair of Departmental Research Committee, the chair of IEEE (Institute of Electrical and Electronics Engineers, USA) and ISACA (Information Systems Audit and Control Association, USA) Student Chapter at Modern College of Business and Science (University of Missouri, St Louis, USA)Sultanate of Oman with high commitment to implementing research culture, to foster effective and efficient action plans with technical acumen, strategic thinking, and planning skills.
