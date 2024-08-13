@@ -253,21 +253,15 @@
             <div class="container m-3">
                 <div class="row align-items-center">
                     <div class="col-md-2">
-                        <img style="margin-left: 30px;width:70%;" src="https://copyme.github.io/images/KACPER_PLUTA.png">
+                        <img style="margin-left: 30px;width:70%;" src="assets/images/keynote_speakers/kacper.png">
                     </div>
                     <div class="col-md-10">
                         <h1><a style="color: #005388;" href="https://scholar.google.com/citations?user=pjYR0vcAAAAJ" target="_blank">Prof. Kacper Pluta</a></h1>
-                        <p>ESIEE,<br>
-                            Paris, France</p>
+                        <p>ESIEE Paris,<br>
+                        Université Gustave Eiffel, France.</p>
                         <br>
                         <p class="read-more" id="readMoreText10">
-                            Currently, he is affiliated with Inria Sophia Antipolis — Méditerranée (TITANE team). My research at Inria is focused on the problems identified by the BIM2TWIN project. These include but are not limited to quality assessment of elements built on construction sites in using sensing technologies and geometry processing. My supervisonr at Inria is Pierre Alliez.
-
-                            Before I started working at Inria, I was affiliated with the Technion - Israel Institute of Technology, where I worked in the group of Mirela Ben-Chen on problems related to geometry processing.
-
-                            My Ph.D. dissertation—which I prepared under the supervision of Yukiko Kenmochi and Pascal Romon—was a study of rigid motions on discrete spaces.
-
-                            My research focuses on topological and geometric alterations induced by digitized rigid motions defined on regular grids. I am mainly interested in theoretical aspects of digital geometry and digital topology.
+                        Kacper Pluta obtained his Ph.D. in Computer Science from Université Paris-Est, France in 2017 after defending his dissertation entitled: Rigid Motions on Discrete Spaces. Since September 2023, Kacper is an Enseignant-Chercheur (Associate Professor) at ESIEE Paris, Université Gustave Eiffel, France. Before taking the position at Univeristé Gustave Eiffel, he worked as a research engineer on the H2020 BIM2TWIN Project at Inria, Sophia-Antipolis, France, and after finishing his Ph.D. was a postdoctoral fellow at the Technion – Israel Institute of Technology. Kacper's work spans topics from theoretical discrete geometry to 3D geometry processing applied to architecture and civil engineering. He also participated in studies related to geoengineering with a focus on natural hazards such as landslides, and studies related to medical imaging.
                         </p>
                         <br>
                         <span id="readMoreButton10">
@@ -288,7 +282,7 @@
                         <img style="margin-left: 30px;width:70%;" src="https://i1.rgstatic.net/ii/profile.image/814959470583808-1571312887081_Q128/Sumegh-Tharewal.jpg">
                     </div>
                     <div class="col-md-10">
-                        <h1><a style="color: #005388;" href="https://scholar.google.com/citations?user=os7_kTkAAAAJ&hl" target="_blank">Dr. Sumegh Shrikant Tharewal</a></h1>
+                        <h1><a style="color: #005388;" href="https://scholar.google.com/citations?user=1dfdWf8AAAAJ&hl=en&oi=sra" target="_blank">Dr. Sumegh Shrikant Tharewal</a></h1>
                         <p>Free University of Bozen-Bolzano,<br>
                             ITALY</p>
                         <br>
@@ -314,7 +308,7 @@
                         <img style="margin-left: 30px;width:70%;" src="assets/images/keynote_speakers/ks_12.jpg">
                     </div>
                     <div class="col-md-10">
-                        <h1><a style="color: #005388;" href="" target="_blank">Dr. Basant Kumar</a></h1>
+                        <h1><a style="color: #005388;" href="https://scholar.google.com/citations?hl=en&user=Je47p8QAAAAJ" target="_blank">Dr. Basant Kumar</a></h1>
                         <p>Asst. Professor and Program Head<br>
                         Information Security, Chair of Departmental Research Committee at MCBS(Univ of St Louis, USA) Sr member of IEEE,and Professional Ambassador of Oman CERT,Muscat</p>
                         <br>
