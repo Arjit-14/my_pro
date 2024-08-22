@@ -87,7 +87,7 @@
                             <div style="display: flex; justify-content: space-around; width: 100%;">
                                 <div style="flex: 1; padding: 0 10px;">
                                     <a href="https://unescochair-shpcher.nust.na/chair" target="_blank">
-                                        <img src="https://www.merit.unu.edu/wp-content/uploads/2022/09/UNESCO-Chair-Logo.png" alt="Right Image" style="height: 80px">
+                                        <img src="https://oerfoundation.org/wp-content/uploads/2021/06/UNESCO-OER-Chair-Logo-transparent.png" alt="Right Image" style="height: 80px">
                                     </a>
                                     <br>
                                 </div>
@@ -126,7 +126,7 @@
             <div class="marquee">
                 <a href="https://www.springer.com/series/8767" style="color:white;" target="_blank">
                     <span>
-                        <b>The after-conference proceeding of the ICSCPS-2024 will be published in SCOPUS Indexed Springer Book Series, ‘Smart Innovation, Systems and Technologies’,       &nbsp;</b>
+                        <b>The after-conference proceeding of the ICSCPS-2024 will be published in SCOPUS Indexed Springer Book Series, ‘Smart Innovation, Systems and Technologies’, &nbsp;</b>
                     </span>
                 </a>
                 <span>
@@ -184,6 +184,11 @@
                         <li class="nav-item">
                             <a class="nav-link" href="?page=Call_for_sponsors">Call for Sponsors</a>
                         </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="?page=preconference">Pre Conference Workshop</a>
+                        </li>
+
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="?page=venue" id="paperSubmissionDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Venue</a>
                             <div class="dropdown-menu" style="width: 100%;" aria-labelledby="paperSubmissionDropdown">

@@ -12,7 +12,7 @@
                         <div class="row align-items-center">
                             <div class="col-md-2">
                                 <a style="color: #005388;" href="https://unescochair-shpcher.nust.na/chair" target="_blank">
-                                    <img style="margin-left: 30px;width:80%" src="https://www.merit.unu.edu/wp-content/uploads/2022/09/UNESCO-Chair-Logo.png">
+                                    <img style="margin-left: 30px;width:80%" src="https://oerfoundation.org/wp-content/uploads/2021/06/UNESCO-OER-Chair-Logo-transparent.png">
                                 </a>
                             </div>
                             <div class="col-md-10">
