@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -22,6 +22,29 @@ const Home = () => {
     "/images/banner/5.png",
   ];
 
+  useEffect(() => {
+    // Display the popup when the page loads
+    document.getElementById("popup").style.display = "block";
+
+    function closePopup() {
+      // Hide the popup
+      document.getElementById("popup").style.display = "none";
+    }
+
+    // Close the popup when clicking outside the popup content
+    window.onclick = function (event) {
+      var popup = document.getElementById("popup");
+      if (event.target === popup) {
+        closePopup();
+      }
+    };
+
+    // Cleanup event listener on component unmount
+    return () => {
+      window.onclick = null;
+    };
+  }, []);
+
   return (
     <div className="banner-main py-3">
       <div className="container">
@@ -35,9 +58,7 @@ const Home = () => {
                 News <sup className="badge bg-danger blinking-text">LATEST</sup>
               </h4>
               <hr />
-              <div
-                className="scrolling-text"
-              >
+              <div className="scrolling-text">
                 <p>
                   <br />
                   <br />
@@ -69,11 +90,9 @@ const Home = () => {
             {/* Popup container */}
             <div id="popup" className="popup">
               <div className="popup-content">
-                <span className="close-btn">
-                  ×
-                </span>
+                <span className="close-btn">×</span>
                 <img
-                  src="assets/images/flyer.jpg"
+                  src="images/flyer.jpg"
                   className="img-fluid"
                   alt="Flyer Image"
                 />

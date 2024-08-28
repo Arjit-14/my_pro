@@ -49,9 +49,9 @@ const Footer = () => {
                 </li>
               </ul>
               <br />
-              <p style={{ fontSize: "13px", color: "white" }}>
+              <span style={{ fontSize: "13px", color: "white" }}>
                 Copyright © CHRIST (Deemed to be University)
-              </p>
+              </span>
             </div>
           </div>
           <div className="col-12 col-md-4">

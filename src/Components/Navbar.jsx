@@ -293,28 +293,28 @@ const Navbar = () => {
                   }`}
                   aria-labelledby="paperSubmissionDropdown"
                 >
-                  <Link className="dropdown-item" to="?page=instruction">
+                  <Link className="dropdown-item" to="/instruction">
                     Instruction for Authors
                   </Link>
-                  <Link className="dropdown-item" to="?page=call_for_papers">
+                  <Link className="dropdown-item" to="/call_for_papers">
                     Call for Papers
                   </Link>
-                  <Link className="dropdown-item" to="?page=important_dates">
+                  <Link className="dropdown-item" to="/important_dates">
                     Important Dates
                   </Link>
-                  <Link className="dropdown-item" to="?page=Paper_Submission">
+                  <Link className="dropdown-item" to="/Paper_Submission">
                     Submission Form
                   </Link>
-                  <Link className="dropdown-item" to="?page=registration_fee">
+                  <Link className="dropdown-item" to="/registration_fee">
                     Registration
                   </Link>
-                  <Link className="dropdown-item" to="?page=publication">
+                  <Link className="dropdown-item" to="/publication">
                     Publication
                   </Link>
                 </div>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="?page=Call_for_sponsors">
+                <Link className="nav-link" to="/Call_for_sponsors">
                   Call for Sponsors
                 </Link>
               </li>
@@ -337,7 +337,7 @@ const Navbar = () => {
                   style={{ width: "100%" }}
                   aria-labelledby="paperSubmissionDropdown"
                 >
-                  <Link className="dropdown-item" to="?page=venue">
+                  <Link className="dropdown-item" to="/venue">
                     Conference Venue
                   </Link>
                   <Link
@@ -347,13 +347,13 @@ const Navbar = () => {
                   >
                     Transportation
                   </Link>
-                  <Link className="dropdown-item" to="?page=visa">
+                  <Link className="dropdown-item" to="/visa">
                     VISA
                   </Link>
                 </div>
               </li>
               <li className="nav-item ">
-                <Link className="nav-link" to="?page=Contact_Us">
+                <Link className="nav-link" to="/Contact_Us">
                   Contact Us
                 </Link>
               </li>
