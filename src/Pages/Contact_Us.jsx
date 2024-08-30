@@ -41,6 +41,9 @@ const Contact_Us = () => {
                               id="name"
                               name="name"
                               required
+                              onInput={(e) => {
+                                e.target.value = e.target.value.replace(/[^a-zA-Z\s]/g, '');
+                              }}
                             />
                           </div>
                         </div>
@@ -55,6 +58,9 @@ const Contact_Us = () => {
                               id="affiliation"
                               name="affiliation"
                               required
+                              onInput={(e) => {
+                                e.target.value = e.target.value.replace(/[^a-zA-Z\s]/g, '');
+                              }}
                             />
                           </div>
                         </div>
@@ -84,6 +90,10 @@ const Contact_Us = () => {
                               className="form-control"
                               id="phone"
                               name="phone"
+                              maxLength="10"
+                              onInput={(e) => {
+                                e.target.value = e.target.value.replace(/[^0-9]/g, '').slice(0, 10);
+                              }}
                             />
                           </div>
                         </div>
@@ -98,6 +108,9 @@ const Contact_Us = () => {
                           id="country"
                           name="country"
                           required
+                          onInput={(e) => {
+                            e.target.value = e.target.value.replace(/[^a-zA-Z\s]/g, '');
+                          }}
                         />
                       </div>
                       <div className="mb-3">

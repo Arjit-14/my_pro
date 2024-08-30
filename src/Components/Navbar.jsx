@@ -333,8 +333,7 @@ const Navbar = () => {
                 <div
                   className={`dropdown-menu ${
                     isVenueDropdownOpen ? "show" : ""
-                  }`}
-                  style={{ width: "100%" }}
+                  }`} 
                   aria-labelledby="paperSubmissionDropdown"
                 >
                   <Link className="dropdown-item" to="/venue">
