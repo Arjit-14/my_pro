@@ -26,16 +26,22 @@ const Navbar = () => {
   const toggleCommitteeDropdown = (event) => {
     event.preventDefault();
     setCommitteeDropdownOpen(!isCommitteeDropdownOpen);
+    setPaperSubmissionDropdownOpen(false);
+    setVenueDropdownOpen(false);
   };
 
   const togglePaperSubmissionDropdown = (event) => {
     event.preventDefault();
     setPaperSubmissionDropdownOpen(!isPaperSubmissionDropdownOpen);
+    setCommitteeDropdownOpen(false);
+    setVenueDropdownOpen(false);
   };
 
   const toggleVenueDropdown = (event) => {
     event.preventDefault();
     setVenueDropdownOpen(!isVenueDropdownOpen);
+    setCommitteeDropdownOpen(false);
+    setPaperSubmissionDropdownOpen(false);
   };
 
   const toggleMobileMenu = () => {
