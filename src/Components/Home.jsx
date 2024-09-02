@@ -45,6 +45,10 @@ const Home = () => {
     };
   }, []);
 
+  const closePopup = () => {
+    document.getElementById("popup").style.display = "none";
+  };
+
   return (
     <div className="banner-main py-3">
       <div className="container">
@@ -90,7 +94,9 @@ const Home = () => {
             {/* Popup container */}
             <div id="popup" className="popup">
               <div className="popup-content">
-                <span className="close-btn">×</span>
+                <span className="close-btn" onClick={closePopup}>
+                  ×
+                </span>
                 <img
                   src="images/flyer.jpg"
                   className="img-fluid"
