@@ -175,7 +175,8 @@
         transition: none !important;
     }
     -->
-    >.tabs {
+    >.tabs
+    {
     width:100%;
     height:auto;
     margin:0

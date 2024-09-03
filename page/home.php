@@ -180,16 +180,24 @@
 
 <style>
     .popup {
-        display: none; /* Hidden by default */
-        position: fixed; /* Stay in place */
-        z-index: 1; /* Sit on top */
+        display: none;
+        /* Hidden by default */
+        position: fixed;
+        /* Stay in place */
+        z-index: 1;
+        /* Sit on top */
         left: 0;
         top: 0;
-        width: 100%; /* Full width */
-        height: 100%; /* Full height */
-        overflow: auto; /* Enable scroll if needed */
-        background-color: rgb(0, 0, 0); /* Fallback color */
-        background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+        width: 100%;
+        /* Full width */
+        height: 100%;
+        /* Full height */
+        overflow: auto;
+        /* Enable scroll if needed */
+        background-color: rgb(0, 0, 0);
+        /* Fallback color */
+        background-color: rgba(0, 0, 0, 0.4);
+        /* Black w/ opacity */
     }
 
     .popup-content {
@@ -198,11 +206,13 @@
         padding: 20px;
         width: 80%;
         max-width: 500px;
-        max-height: 100vh; /* Max height as per the screen */
+        max-height: 100vh;
+        /* Max height as per the screen */
         background-color: white;
         border-radius: 10px;
         box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-        overflow: auto; /* Enable scroll if content exceeds max height */
+        overflow: auto;
+        /* Enable scroll if content exceeds max height */
     }
 
     .close-btn {

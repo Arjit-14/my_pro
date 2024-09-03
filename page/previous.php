@@ -138,12 +138,12 @@
         transition: none !important;
     }
     -->
-    >.tabs{
-        width:100%;
-        height:auto;
-        margin:0 auto;
+    >.tabs {
+    width:100%;
+    height:auto;
+    margin:0
+    auto;
     }
-    
     .tabs
     .tabs-list
     {

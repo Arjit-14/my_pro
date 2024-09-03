@@ -164,10 +164,10 @@
                             </div>
                         </li>
 
-
                         <li class="nav-item">
-                            <a class="nav-link" href="?page=speakers">Keynote Speakers</a>
+                            <a class="nav-link" href="?page=speakers">Keynote/Guest Speakers</a>
                         </li>
+
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="paperSubmissionDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Paper Submission
