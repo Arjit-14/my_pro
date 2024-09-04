@@ -241,6 +241,17 @@
                 <div class="mb-2">
                     <div class="row align-items-center">
                         <div class="col-md-1 p-0 d-flex justify-content-end coll">
+                            <img class="comittee-image" src="assets/images/committee/Picture 19.jpg">
+                        </div>
+                        <div class="col-md-8">
+                            <h5 class="card-title">Swati Agarwal</h5>
+                            <p>Associate Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mb-2">
+                    <div class="row align-items-center">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
                             <img class="comittee-image" src="assets/images/committee/Picture 17.jpg">
                         </div>
                         <div class="col-md-8">
@@ -249,7 +260,17 @@
                         </div>
                     </div>
                 </div>
-
+                <div class="mb-2">
+                    <div class="row align-items-center">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
+                            <img class="comittee-image" src="assets/images/committee/Picture 35.jpg">
+                        </div>
+                        <div class="col-md-8">
+                            <h5 class="card-title">Vidushi</h5>
+                            <p>Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
+                        </div>
+                    </div>
+                </div>
 
                 <!-- Collaboration Committee -->
                 <h5>Collaboration Committee</h5>
@@ -267,10 +288,21 @@
                 <div class="mb-2">
                     <div class="row align-items-center">
                         <div class="col-md-1 p-0 d-flex justify-content-end coll">
-                            <img class="comittee-image" src="assets/images/committee/Picture 35.jpg">
+                            <img class="comittee-image" src="assets/images/committee/Picture 36.jpg">
                         </div>
                         <div class="col-md-8">
-                            <h5 class="card-title">Vidushi</h5>
+                            <h5 class="card-title">Preety</h5>
+                            <p>Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mb-2">
+                    <div class="row align-items-center">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
+                            <img class="comittee-image" src="assets/images/committee/">
+                        </div>
+                        <div class="col-md-8">
+                            <h5 class="card-title">Lata Yadav</h5>
                             <p>Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
                         </div>
                     </div>
@@ -292,10 +324,54 @@
                 <div class="mb-2">
                     <div class="row align-items-center">
                         <div class="col-md-1 p-0 d-flex justify-content-end coll">
-                            <img class="comittee-image" src="assets/images/committee/Picture 36.jpg">
+                            <img class="comittee-image" src="assets/images/committee/Picture 31.jpg">
                         </div>
                         <div class="col-md-8">
-                            <h5 class="card-title">Preety</h5>
+                            <h5 class="card-title">Manjula Shanbhog</h5>
+                            <p>Associate Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mb-2">
+                    <div class="row align-items-center">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
+                            <img class="comittee-image" src="assets/images/committee/">
+                        </div>
+                        <div class="col-md-8">
+                            <h5 class="card-title">Maghavi Rana</h5>
+                            <p>Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mb-2">
+                    <div class="row align-items-center">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
+                            <img class="comittee-image" src="assets/images/committee/">
+                        </div>
+                        <div class="col-md-8">
+                            <h5 class="card-title">Prateek Singhal</h5>
+                            <p>Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mb-2">
+                    <div class="row align-items-center">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
+                            <img class="comittee-image" src="assets/images/committee/">
+                        </div>
+                        <div class="col-md-8">
+                            <h5 class="card-title">Kuljeet Singh</h5>
+                            <p>Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mb-2">
+                    <div class="row align-items-center">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
+                            <img class="comittee-image" src="assets/images/committee/">
+                        </div>
+                        <div class="col-md-8">
+                            <h5 class="card-title">Shubham Mahajan</h5>
                             <p>Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
                         </div>
                     </div>
@@ -325,28 +401,28 @@
                         </div>
                     </div>
                 </div>
-                <div class="mb-2">
-                    <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
-                            <img class="comittee-image" src="assets/images/committee/Picture.jpg">
-                        </div>
-                        <div class="col-md-8">
-                            <h5 class="card-title">Yash Takhur</h5>
-                            <p>Student, CHRIST (Deemed to be University), Delhi NCR Campus</p>
-                        </div>
-                    </div>
-                </div>
 
                 <!-- Hospitality Committee -->
                 <h5>Hospitality Committee</h5>
                 <div class="mb-2">
                     <div class="row align-items-center">
                         <div class="col-md-1 p-0 d-flex justify-content-end coll">
-                            <img class="comittee-image" src="assets/images/committee/Picture 27.jpg">
+                            <img class="comittee-image" src="assets/images/committee/Picture 26.jpg">
                         </div>
                         <div class="col-md-8">
-                            <h5 class="card-title">Ellumkalayil Merlin Thomas</h5>
+                            <h5 class="card-title">Lawrence Kujur</h5>
                             <p>Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mb-2">
+                    <div class="row align-items-center">
+                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
+                            <img class="comittee-image" src="assets/images/committee/">
+                        </div>
+                        <div class="col-md-8">
+                            <h5 class="card-title">Jaspreet Singh</h5>
+                            <p>Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
                         </div>
                     </div>
                 </div>
@@ -357,17 +433,6 @@
                         </div>
                         <div class="col-md-8">
                             <h5 class="card-title">Garima Anand</h5>
-                            <p>Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="mb-2">
-                    <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
-                            <img class="comittee-image" src="assets/images/committee/Picture 26.jpg">
-                        </div>
-                        <div class="col-md-8">
-                            <h5 class="card-title">Lawrence Kujur</h5>
                             <p>Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
                         </div>
                     </div>
@@ -392,32 +457,10 @@
                 <div class="mb-2">
                     <div class="row align-items-center">
                         <div class="col-md-1 p-0 d-flex justify-content-end coll">
-                            <img class="comittee-image" src="assets/images/committee/Picture 18.jpg">
-                        </div>
-                        <div class="col-md-8">
-                            <h5 class="card-title">Stephen Raj</h5>
-                            <p>Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="mb-2">
-                    <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
                             <img class="comittee-image" src="assets/images/committee/Picture 23.jpg">
                         </div>
                         <div class="col-md-8">
                             <h5 class="card-title">Abhinav Singhal</h5>
-                            <p>Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="mb-2">
-                    <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
-                            <img class="comittee-image" src="assets/images/committee/Picture 25.jpg">
-                        </div>
-                        <div class="col-md-8">
-                            <h5 class="card-title">Ruchi Kaushik</h5>
                             <p>Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
                         </div>
                     </div>
@@ -472,17 +515,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="mb-2">
-                    <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
-                            <img class="comittee-image" src="assets/images/committee/Picture 33.jpg">
-                        </div>
-                        <div class="col-md-8">
-                            <h5 class="card-title">Amrit Kaur Saggu</h5>
-                            <p>Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
-                        </div>
-                    </div>
-                </div>
+
+                <!-- Stage Management and Student Discipline Committee -->
+                <h5>Stage Management and Student Discipline Committee</h5>
+ 
                 <div class="mb-2">
                     <div class="row align-items-center">
                         <div class="col-md-1 p-0 d-flex justify-content-end coll">
@@ -494,32 +530,18 @@
                         </div>
                     </div>
                 </div>
-
-
-                <!-- Stage Management and Student Discipline Committee -->
-                <h5>Stage Management and Student Discipline Committee</h5>
                 <div class="mb-2">
                     <div class="row align-items-center">
                         <div class="col-md-1 p-0 d-flex justify-content-end coll">
-                            <img class="comittee-image" src="assets/images/committee/Picture 19.jpg">
+                            <img class="comittee-image" src="assets/images/committee/Picture 33.jpg">
                         </div>
                         <div class="col-md-8">
-                            <h5 class="card-title">Swati Agarwal</h5>
-                            <p>Associate Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
+                            <h5 class="card-title">Amrit Kaur Saggu</h5>
+                            <p>Assistant Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
                         </div>
                     </div>
                 </div>
-                <div class="mb-2">
-                    <div class="row align-items-center">
-                        <div class="col-md-1 p-0 d-flex justify-content-end coll">
-                            <img class="comittee-image" src="assets/images/committee/Picture 31.jpg">
-                        </div>
-                        <div class="col-md-8">
-                            <h5 class="card-title">Manjula Shanbhog</h5>
-                            <p>Associate Professor, CHRIST (Deemed to be University), Delhi NCR Campus</p>
-                        </div>
-                    </div>
-                </div>
+                
             </div>
         </div>
     </div>
