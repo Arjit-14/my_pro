@@ -330,6 +330,85 @@
                 </div>
             </div>
 
+            <hr>
+
+            <!-- 13th Speaker -->
+            <div class="container m-3">
+                <div class="row align-items-center">
+                    <div class="col-md-2">
+                        <img style="margin-left: 30px;width:70%;" src="assets/images/keynote_speakers/ks_13.jpeg">
+                    </div>
+                    <div class="col-md-10">
+                        <h1><a style="color: #005388;" href="https://scholar.google.co.in/citations?user=Lgr5rpwAAAAJ&hl=en" target="_blank">Dr. Mehul Mahrishi</a></h1>
+                        <p>Professor & Head<br>
+                            Department of Computer Science & Engineering
+                            SKIT, Management & Gramothan,
+                            Jaipur, India</p>
+                        <br>
+                        <script src="assets/js/script.js"></script>
+                    </div>
+                </div>
+            </div>
+
+            <hr>
+
+            <!-- 14th Speaker -->
+            <div class="container m-3">
+                <div class="row align-items-center">
+                    <div class="col-md-2">
+                        <img style="margin-left: 30px;width:70%;" src="assets/images/keynote_speakers/ks_14.jpg">
+                    </div>
+                    <div class="col-md-10">
+                        <h1><a style="color: #005388;" href="http://www.mnnit.ac.in/profile/preview.php?login=rt" target="_blank">Prof. (Dr.) Rajeev Tripathi</a></h1>
+                        <p>Professor ECED & Former Director<br>
+                            Motilal Nehru National Institute of Technology,
+                            Prayagraj</p>
+                        <br>
+                        <script src="assets/js/script.js"></script>
+                    </div>
+                </div>
+            </div>
+
+            <hr>
+
+            <!-- 15th Speaker -->
+            <div class="container m-3">
+                <div class="row align-items-center">
+                    <div class="col-md-2">
+                        <img style="margin-left: 30px;width:70%;" src="assets/images/keynote_speakers/ks_15.jpg">
+                    </div>
+                    <div class="col-md-10">
+                        <h1><a style="color: #005388;" href="https://scholar.google.com/citations?user=t9kU8QUAAAAJ&hl=en" target="_blank">Prof. (Dr.) Vijay Pal Dhaka</a></h1>
+                        <p>Professor & Director<br>
+                            School of Computing and Intelligent Systems, Manipal University,
+                            Jaipur</p>
+                        <br>
+                        <script src="assets/js/script.js"></script>
+                    </div>
+                </div>
+            </div>
+
+            <hr>
+
+            <!-- 16th Speaker -->
+            <div class="container m-3">
+                <div class="row align-items-center">
+                    <div class="col-md-2">
+                        <img style="margin-left: 30px;width:70%;" src="assets/images/keynote_speakers/ks_16.jpg">
+                    </div>
+                    <div class="col-md-10">
+                        <h1><a style="color: #005388;" href="https://scholar.google.co.in/citations?user=njZyj9AAAAAJ&hl=en" target="_blank">Prof. Arun Sharma</a></h1>
+                        <p>Professor<br>
+                            Indira Gandhi Delhi Technical University For Women, 
+                            New Delhi</p>
+                        <br>
+                        <script src="assets/js/script.js"></script>
+                    </div>
+                </div>
+            </div>
+
+            <hr>
+
         </div>
     </div>
 </div>

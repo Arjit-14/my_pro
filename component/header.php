@@ -136,8 +136,8 @@
         </div>
 
         <nav class="navbar navbar-expand-lg navbar-light bg-light px-0 py-2">
-            <div class="container">
-                <h4>MENU</h4>
+            <div class="container-fluid">
+                <!-- <h4>MENU</h4> -->
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -187,6 +187,10 @@
 
                         <li class="nav-item">
                             <a class="nav-link" href="?page=preconference">Pre Conference Workshop</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="?page=schedule">Conference Schedule</a>
                         </li>
 
                         <li class="nav-item dropdown">
