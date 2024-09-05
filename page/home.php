@@ -19,12 +19,38 @@
                 </div>
 
                 <!-- Popup container -->
-                <div id="popup" class="popup">
+                <!-- <div id="popup" class="popup">
                     <div class="popup-content">
                         <span class="close-btn" onclick="closePopup()">&times;</span>
                         <img src="assets/images/flyer.jpg" class="img-fluid" alt="Flyer Image">
                     </div>
+                </div> -->
+                <div id="popup" class="popup">
+                    <div class="popup-content">
+                        <span class="close-btn" onclick="closePopup()">&times;</span>
+                        <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+                            <div style="margin: 10px;">
+                                <img src="assets/images/ICSCPS-2024_Keynote Speakers-13_Sept_2024.jpg" class="img-fluid" alt="Flyer Image 1">
+                            </div>
+                            <div style="margin: 10px;">
+                                <img src="assets/images/ICSCPS-2024_Technical Session-13_Sept_2024.jpg" class="img-fluid" alt="Flyer Image 2">
+                            </div>
+                            <div style="margin: 10px;">
+                                <img src="assets/images/ICSCPS-2024_Workshop-13_Sept_2024.jpg" class="img-fluid" alt="Flyer Image 3">
+                            </div>
+                            <div style="margin: 10px;">
+                                <img src="assets/images/ICSCPS-2024_Keynote Speaker-14_Sept_2024.jpg" class="img-fluid" alt="Flyer Image 3">
+                            </div>
+                            <div style="margin: 10px;">
+                                <img src="assets/images/ICSCPS-2024_Technical Session-14_Sept_2024.jpg" class="img-fluid" alt="Flyer Image 3">
+                            </div>
+                            <div style="margin: 10px;">
+                                <img src="assets/images/ICSCPS-2024_Workshop-14_Sept_2024.jpg" class="img-fluid" alt="Flyer Image 3">
+                            </div>
+                        </div>
+                    </div>
                 </div>
+
 
             </div>
 
