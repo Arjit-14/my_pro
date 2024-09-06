@@ -28,29 +28,21 @@
                 <div id="popup" class="popup">
                     <div class="popup-content">
                         <span class="close-btn" onclick="closePopup()">&times;</span>
-                        <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-                            <div style="margin: 10px;">
-                                <img src="assets/images/ICSCPS-2024_Keynote Speakers-13_Sept_2024.jpg" class="img-fluid" alt="Flyer Image 1">
-                            </div>
-                            <div style="margin: 10px;">
-                                <img src="assets/images/ICSCPS-2024_Technical Session-13_Sept_2024.jpg" class="img-fluid" alt="Flyer Image 2">
-                            </div>
-                            <div style="margin: 10px;">
-                                <img src="assets/images/ICSCPS-2024_Workshop-13_Sept_2024.jpg" class="img-fluid" alt="Flyer Image 3">
-                            </div>
-                            <div style="margin: 10px;">
-                                <img src="assets/images/ICSCPS-2024_Keynote Speaker-14_Sept_2024.jpg" class="img-fluid" alt="Flyer Image 3">
-                            </div>
-                            <div style="margin: 10px;">
-                                <img src="assets/images/ICSCPS-2024_Technical Session-14_Sept_2024.jpg" class="img-fluid" alt="Flyer Image 3">
-                            </div>
-                            <div style="margin: 10px;">
-                                <img src="assets/images/ICSCPS-2024_Workshop-14_Sept_2024.jpg" class="img-fluid" alt="Flyer Image 3">
-                            </div>
+                        <div class="image-container">
+                            <button class="left-arrow" onclick="prevImage()">&#9664;</button>
+                            <img id="popup-image" src="assets/images/flyer/ICSCPS-2024_Keynote Speakers-13_Sept_2024.jpg" class="img-fluid" alt="Flyer Image">
+                            <button class="right-arrow" onclick="nextImage()">&#9654;</button>
+                        </div>
+                        <div class="dots-container">
+                            <span class="dot" onclick="currentImage(0)"></span>
+                            <span class="dot" onclick="currentImage(1)"></span>
+                            <span class="dot" onclick="currentImage(2)"></span>
+                            <span class="dot" onclick="currentImage(3)"></span>
+                            <span class="dot" onclick="currentImage(4)"></span>
+                            <span class="dot" onclick="currentImage(5)"></span>
                         </div>
                     </div>
                 </div>
-
 
             </div>
 
@@ -121,6 +113,97 @@
 </div>
 <!-- Banner-And-Three-Box-Section -->
 
+<style>
+    .popup {
+        display: none;
+        position: fixed;
+        z-index: 1;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+
+    .popup-content {
+        position: relative;
+        margin: auto;
+        padding: 20px;
+        width: 80%;
+        max-width: 800px;
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    }
+
+    .close-btn {
+        position: absolute;
+        top: 10px;
+        right: 20px;
+        font-size: 30px;
+        cursor: pointer;
+    }
+
+    .image-container {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .image-container img {
+        width: 100%;
+        height: auto;
+        max-height: 80vh;
+        object-fit: contain;
+    }
+
+    .left-arrow,
+    .right-arrow {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: rgba(0, 0, 0, 0.5);
+        color: white;
+        border: none;
+        padding: 10px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .left-arrow {
+        left: -50px;
+    }
+
+    .right-arrow {
+        right: -50px;
+    }
+
+    .left-arrow:hover,
+    .right-arrow:hover {
+        background-color: rgba(0, 0, 0, 0.7);
+    }
+
+    .dots-container {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .dot {
+        height: 15px;
+        width: 15px;
+        margin: 0 5px;
+        background-color: #bbb;
+        border-radius: 50%;
+        display: inline-block;
+        cursor: pointer;
+    }
+
+    .dot.active {
+        background-color: #717171;
+    }
+</style>
 
 <style>
     .about h3 {
@@ -277,6 +360,64 @@
             closePopup();
         }
     }
+</script>
+
+<script>
+    var images = [
+        "assets/images/flyer/ICSCPS-2024_Keynote Speakers-13_Sept_2024.jpg",
+        "assets/images/flyer/ICSCPS-2024_Technical Session-13_Sept_2024.jpg",
+        "assets/images/flyer/ICSCPS-2024_Workshop-13_Sept_2024.jpg",
+        "assets/images/flyer/ICSCPS-2024_Keynote Speaker-14_Sept_2024.jpg",
+        "assets/images/flyer/ICSCPS-2024_Technical Session-14_Sept_2024.jpg",
+        "assets/images/flyer/ICSCPS-2024_Workshop-14_Sept_2024.jpg"
+    ];
+
+    var currentIndex = 0;
+
+    function showImage(index) {
+        currentIndex = index;
+        document.getElementById("popup-image").src = images[currentIndex];
+        updateDots();
+    }
+
+    function nextImage() {
+        currentIndex = (currentIndex + 1) % images.length;
+        showImage(currentIndex);
+    }
+
+    function prevImage() {
+        currentIndex = (currentIndex - 1 + images.length) % images.length;
+        showImage(currentIndex);
+    }
+
+    function currentImage(index) {
+        showImage(index);
+    }
+
+    function updateDots() {
+        var dots = document.getElementsByClassName("dot");
+        for (var i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+        }
+        dots[currentIndex].className += " active";
+    }
+
+    function closePopup() {
+        document.getElementById("popup").style.display = "none";
+    }
+
+    // Close the popup when clicking outside the popup content
+    window.onclick = function(event) {
+        var popup = document.getElementById("popup");
+        if (event.target == popup) {
+            closePopup();
+        }
+    }
+
+    // Initialize the first image and dots
+    document.addEventListener("DOMContentLoaded", function() {
+        showImage(0);
+    });
 </script>
 
 <script>
