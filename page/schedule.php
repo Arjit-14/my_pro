@@ -178,7 +178,7 @@
                                             Inaugural Keynote by Prof. Ottar L. Osen Norwegian
                                             University of Science and Technology (NTNU), Norway
                                             <br />
-                                            Keynote Chair: Dr. Ajay Vikram Singh{" "}
+                                            Keynote Chair: Dr. Ajay Vikram Singh
                                         </td>
                                         <td>25</td>
                                         <td>Mini Auditorium 4th Floor Block B </td>
@@ -188,7 +188,7 @@
                                         <td>
                                             Keynote by Prof. Kacper Pluta Université Gustave
                                             Eiffel, France <br />
-                                            Keynote Chair: Dr. Ajay Kumar{" "}
+                                            Keynote Chair: Dr. Ajay Kumar
                                         </td>
                                         <td>25</td>
                                         <td>Mini Auditorium 4th Floor Block B </td>
@@ -198,7 +198,7 @@
                                         <td>
                                             Keynote by Dr. Jagdish Chand Bansal South Asian
                                             University, New Delhi. <br />
-                                            Keynote Chair: Dr. Mehul Mahrishi{" "}
+                                            Keynote Chair: Dr. Mehul Mahrishi
                                         </td>
                                         <td>25</td>
                                         <td>Mini Auditorium 4th Floor Block B </td>
@@ -209,7 +209,7 @@
                                             Keynote by Dr. Rajeev Tripathi Motilal Nehru
                                             National Institute of Technology, Allahabad, India
                                             <br />
-                                            Keynote Chair: Prof. (Dr.) Vijay Pal Dhaka{" "}
+                                            Keynote Chair: Prof. (Dr.) Vijay Pal Dhaka
                                         </td>
                                         <td>25</td>
                                         <td>Mini Auditorium 4th Floor Block B </td>
@@ -285,7 +285,7 @@
                                     </tr>
                                     <tr>
                                         <td>04:00</td>
-                                        <td>Hi-Tea</td>
+                                        <td>High-Tea</td>
                                         <td>30</td>
                                         <td>Banquet Room - Block A</td>
                                         <td></td>
@@ -361,14 +361,14 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td>170</td>
+                                        <td>360</td>
                                         <td>
-                                            Data Visualization of Accident Blackspots on Indian
-                                            Roads-A Case Study on Bangalore and Chennai.
+                                            Transforming Education and Society with
+                                            Cyber-Physical Systems
                                             <br />
                                             <i>
-                                                Anju Pratap, Aaron Thomas Blessen, Abin Sabu
-                                                Philip
+                                                Peter V. Muttungal, Jossy P. George, Benny Godwin
+                                                J. Davidson and Anna Tur
                                             </i>
                                         </td>
                                     </tr>
@@ -495,15 +495,16 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td>301</td>
+                                    <td>307</td>
                                         <td>
-                                            Impact of Private Equity Ownership on Firm
-                                            Performance: An Operational, Financial and Strategic
-                                            Analysis
+                                            AI-Driven Predictive Models for Early Chronic
+                                            Disease Detection and Personalized Prevention
+                                            Strategies
                                             <br />
                                             <i>
-                                                Aryan Saxena, Sreehari Karthikeyan, Shreya Rathi*,
-                                                Ritwij Aryan Parmar, Supriya Kumari, Paarth Prasad
+                                                Jitesh Bhatia, Raghav M Vishveshwara, Faizah
+                                                Mahendi Nawaz Kureshi, Ritwij Aryan Parmar, Akash
+                                                Ghosh, Shitiz
                                             </i>
                                         </td>
                                     </tr>
@@ -554,6 +555,19 @@
                                         </td>
                                     </tr>
                                     <tr>
+                                        <td>84</td>
+                                        <td>
+                                            Exploring Convolutional Neural Networks for Image
+                                            classification: A Comparative Study of MobileNetV2,
+                                            InceptionV3, and Xception Architectures
+                                            <br />
+                                            <i>
+                                                Swami Nisha Bhagirath, Vaibhav Bhatnagar, Linesh
+                                                Raja and Kamlesh Kumar
+                                            </i>
+                                        </td>
+                                    </tr>
+                                    <tr>
                                         <td>91</td>
                                         <td>
                                             A Comprehensive study and analysis of the working
@@ -596,18 +610,30 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td>307</td>
+                                        <td>238</td>
                                         <td>
-                                            AI-Driven Predictive Models for Early Chronic
-                                            Disease Detection and Personalized Prevention
-                                            Strategies
+                                            Deep Learning-Based Temporal Fusion Networks for
+                                            Dynamic Anomaly Detection in Surveillance Video
                                             <br />
                                             <i>
-                                                Jitesh Bhatia, Raghav M Vishveshwara, Faizah
-                                                Mahendi Nawaz Kureshi, Ritwij Aryan Parmar, Akash
-                                                Ghosh, Shitiz
+                                                Debstuti Biswas, Srujana Maddula, Atul Pandey,
+                                                Niharika Dinesh, Jatin Chopra, Shitiz Upreti
                                             </i>
                                         </td>
+                                    </tr>
+                                    <tr>
+                                    <td>301</td>
+                                        <td>
+                                            Impact of Private Equity Ownership on Firm
+                                            Performance: An Operational, Financial and Strategic
+                                            Analysis
+                                            <br />
+                                            <i>
+                                                Aryan Saxena, Sreehari Karthikeyan, Shreya Rathi*,
+                                                Ritwij Aryan Parmar, Supriya Kumari, Paarth Prasad
+                                            </i>
+                                        </td>
+                                        
                                     </tr>
                                 </tbody>
                             </table>
@@ -787,13 +813,15 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td>302</td>
+                                        <td>268</td>
                                         <td>
-                                            A Machine Learning-Based Approach to Enhance
-                                            Cybersecurity in Autonomous Vehicles
+                                            Integration of Software-Defined Vehicles and
+                                            Automated Network Slicing for Advancing Sustainable
+                                            Transportation
                                             <br />
                                             <i>
-                                                Mohd ibrahim Mallick, Amandeep, Divyashikha Sethia
+                                                Venkata Lakshmi Namburi, Sivaji Alluri, Praneeth
+                                                Reddy Mallupalli
                                             </i>
                                         </td>
                                     </tr>
@@ -810,6 +838,21 @@
                                             </i>
                                         </td>
                                     </tr>
+                                    <tr>
+                                        <td>313</td>
+                                        <td>
+                                            Insect classification and Analysis in Field Crops
+                                            using Convolution Neural Network with Preprocessing
+                                            Strategy
+                                            <br />
+                                            <i>
+                                                Sukhwinder Kaur, Rajeev Kumar Bedi, Tajinder Pal,
+                                                S.K. Gupta
+                                            </i>
+                                        </td>
+                                    </tr>
+
+
                                 </tbody>
                             </table>
                         </div>
@@ -839,7 +882,7 @@
                                 <tbody>
                                     <tr>
                                         <td>08:30-09:00</td>
-                                        <td>Breakfast and Registration for Workshop</td>
+                                        <td>Breakfast and Registration</td>
                                         <td>30</td>
                                         <td>Block A Gorment/Cafeteria</td>
                                     </tr>
@@ -1018,6 +1061,7 @@
                                     </tr>
                                 </thead>
                                 <tbody>
+
                                     <tr>
                                         <td>171</td>
                                         <td>
@@ -1042,15 +1086,13 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td>313</td>
+                                        <td>302</td>
                                         <td>
-                                            Insect classification and Analysis in Field Crops
-                                            using Convolution Neural Network with Preprocessing
-                                            Strategy
+                                            A Machine Learning-Based Approach to Enhance
+                                            Cybersecurity in Autonomous Vehicles
                                             <br />
                                             <i>
-                                                Sukhwinder Kaur, Rajeev Kumar Bedi, Tajinder Pal,
-                                                S.K. Gupta
+                                                Mohd ibrahim Mallick, Amandeep, Divyashikha Sethia
                                             </i>
                                         </td>
                                     </tr>
@@ -1066,19 +1108,7 @@
                                             </i>
                                         </td>
                                     </tr>
-                                    <tr>
-                                        <td>84</td>
-                                        <td>
-                                            Exploring Convolutional Neural Networks for Image
-                                            classification: A Comparative Study of MobileNetV2,
-                                            InceptionV3, and Xception Architectures
-                                            <br />
-                                            <i>
-                                                Swami Nisha Bhagirath, Vaibhav Bhatnagar, Linesh
-                                                Raja and Kamlesh Kumar
-                                            </i>
-                                        </td>
-                                    </tr>
+
                                 </tbody>
                             </table>
 
@@ -1153,17 +1183,7 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td>360</td>
-                                        <td>
-                                            Transforming Education and Society with
-                                            Cyber-Physical Systems
-                                            <br />
-                                            <i>
-                                                Peter V. Muttungal, Jossy P. George, Benny Godwin
-                                                J. Davidson and Anna Tur
-                                            </i>
-                                        </td>
-                                    </tr>
+
                                 </tbody>
                             </table>
 
@@ -1198,6 +1218,19 @@
                                     </tr>
                                 </thead>
                                 <tbody>
+                                <tr>
+                                        <td>150</td>
+                                        <td>
+                                            Enhancing Breast Cancer Detection: A Multi-Model
+                                            Approach
+                                            <br />
+                                            <i>
+                                                Siva Sai Susmitha Katta, Vijander Singh, Junali
+                                                Jasmine Jena, Mahendra Kumar Gourasia, Saurabh
+                                                Bilgaiyan
+                                            </i>
+                                        </td>
+                                    </tr>
                                     <tr>
                                         <td>172</td>
                                         <td>
@@ -1220,18 +1253,7 @@
                                             <i>A.Anand Selvakumar, P.Thangaraju</i>
                                         </td>
                                     </tr>
-                                    <tr>
-                                        <td>238</td>
-                                        <td>
-                                            Deep Learning-Based Temporal Fusion Networks for
-                                            Dynamic Anomaly Detection in Surveillance Video
-                                            <br />
-                                            <i>
-                                                Debstuti Biswas, Srujana Maddula, Atul Pandey,
-                                                Niharika Dinesh, Jatin Chopra, Shitiz Upreti
-                                            </i>
-                                        </td>
-                                    </tr>
+
                                     <tr>
                                         <td>298</td>
                                         <td>
@@ -1241,19 +1263,6 @@
                                             <i>
                                                 Mayank Garg, Anshika Bajpai, Supriya Kumari,
                                                 Shreya Rathi, Tejas Dahiya, Akash Ghosh
-                                            </i>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>150</td>
-                                        <td>
-                                            Enhancing Breast Cancer Detection: A Multi-Model
-                                            Approach
-                                            <br />
-                                            <i>
-                                                Siva Sai Susmitha Katta, Vijander Singh, Junali
-                                                Jasmine Jena, Mahendra Kumar Gourasia, Saurabh
-                                                Bilgaiyan
                                             </i>
                                         </td>
                                     </tr>
@@ -1374,7 +1383,19 @@
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <tr>
+                                <tr>
+                                        <td>170</td>
+                                        <td>
+                                            Data Visualization of Accident Blackspots on Indian
+                                            Roads-A Case Study on Bangalore and Chennai.
+                                            <br />
+                                            <i>
+                                                Anju Pratap, Aaron Thomas Blessen, Abin Sabu
+                                                Philip
+                                            </i>
+                                        </td>
+                                    </tr>    
+                           <tr>
                                         <td>182</td>
                                         <td>
                                             Adaptive Intrusion Defense: WLAN Security with Deep
@@ -1404,19 +1425,8 @@
                                             <i>Dayanand, Wilson Jeberson, Klinsega Jeberson</i>
                                         </td>
                                     </tr>
-                                    <tr>
-                                        <td>268</td>
-                                        <td>
-                                            Integration of Software-Defined Vehicles and
-                                            Automated Network Slicing for Advancing Sustainable
-                                            Transportation
-                                            <br />
-                                            <i>
-                                                Venkata Lakshmi Namburi, Sivaji Alluri, Praneeth
-                                                Reddy Mallupalli
-                                            </i>
-                                        </td>
-                                    </tr>
+
+                                    
                                 </tbody>
                             </table>
 
@@ -1496,13 +1506,13 @@
                                     </tr>
                                     <tr>
                                         <td>01:00-02:00</td>
-                                        <td>Tea Break</td>
+                                        <td>Networking Lunch</td>
                                         <td>60</td>
                                     </tr>
                                 </tbody>
                             </table>
                         </div>
-                    </div>
+                    </div> 
                 </div>
             </div>
         </div>

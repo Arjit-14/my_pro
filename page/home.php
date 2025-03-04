@@ -343,26 +343,6 @@
 </style>
 
 <script>
-    document.addEventListener("DOMContentLoaded", function() {
-        // Display the popup when the page loads
-        document.getElementById("popup").style.display = "block";
-    });
-
-    function closePopup() {
-        // Hide the popup
-        document.getElementById("popup").style.display = "none";
-    }
-
-    // Close the popup when clicking outside the popup content
-    window.onclick = function(event) {
-        var popup = document.getElementById("popup");
-        if (event.target == popup) {
-            closePopup();
-        }
-    }
-</script>
-
-<script>
     var images = [
         "assets/images/flyer/ICSCPS-2024_Keynote Speakers-13_Sept_2024.jpg",
         "assets/images/flyer/ICSCPS-2024_Technical Session-13_Sept_2024.jpg",
